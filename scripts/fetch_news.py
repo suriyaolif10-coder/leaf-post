@@ -222,6 +222,9 @@ def community_items():
             continue
         body = iss.get("body") or ""
         title = title[len("[ชุมชน]"):].strip()
+        if not title:  # no headline typed: use the first line of the story
+            first = re.sub(r"!\[[^\]]*\]\([^)]*\)|<img[^>]*>", "", form_field(body, "รายละเอียดข่าว")).strip().splitlines()
+            title = strip_html(first[0])[:120] if first else ""
         if not title:
             continue
         imgs = re.findall(r"!\[[^\]]*\]\((https?://[^)\s]+)\)|<img[^>]+src=[\"']([^\"']+)", body)
