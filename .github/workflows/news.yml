@@ -22,6 +22,8 @@ jobs:
     timeout-minutes: 14
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -37,7 +39,7 @@ jobs:
           git add -A news.json n s index.html
           git diff --cached --quiet && exit 0
           git commit -m "Update news.json"
-          git pull --rebase origin main
+          git pull --rebase -X theirs origin main
           git push
       - name: Post to Facebook Page
         run: python scripts/post_facebook.py
@@ -51,5 +53,5 @@ jobs:
           git add posted.json
           git diff --cached --quiet && exit 0
           git commit -m "Update posted.json"
-          git pull --rebase origin main
+          git pull --rebase -X theirs origin main
           git push
