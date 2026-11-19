@@ -20,14 +20,37 @@ try:
 except Exception:  # pragma: no cover
     gnewsdecoder = None
 
+G = "hl=th&gl=TH&ceid=TH:th"
+
+
+def gtopic(t):
+    return f"https://news.google.com/rss/headlines/section/topic/{t}?{G}"
+
+
+def gsearch(q):
+    return f"https://news.google.com/rss/search?q={requests.utils.quote(q + ' when:2d')}&{G}"
+
+
+# category = tab on the website. Google feeds are decoded to the publisher link.
 FEEDS = [
-    {"id": "google-news-th", "name": "Google News", "url": ["https://news.google.com/rss?hl=th&gl=TH&ceid=TH:th"], "limit": 25},
-    {"id": "thairath", "name": "Thairath", "url": ["https://www.thairath.co.th/rss/news", "https://www.thairath.co.th/rss/news.xml"], "limit": 15},
-    {"id": "sanook", "name": "Sanook", "url": ["https://www.sanook.com/news/rss/", "https://www.sanook.com/rss/news.xml", "https://rss.sanook.com/rss.xml"], "limit": 15},
-    {"id": "bbc-thai", "name": "BBC Thai", "url": ["https://feeds.bbci.co.uk/thai/rss.xml", "https://www.bbc.com/thai/index.xml"], "limit": 15},
-    {"id": "matichon", "name": "มติชน", "url": ["https://www.matichon.co.th/feed"], "limit": 15},
-    {"id": "khaosod", "name": "ข่าวสด", "url": ["https://www.khaosod.co.th/feed"], "limit": 15},
-    {"id": "bbc-world", "name": "BBC World", "url": ["https://feeds.bbci.co.uk/news/world/rss.xml"], "limit": 10},
+    {"id": "google-news-th", "name": "Google News", "category": "ข่าว", "url": ["https://news.google.com/rss?" + G], "limit": 20},
+    {"id": "g-politics", "name": "Google News", "category": "การเมือง", "url": [gsearch("การเมือง รัฐบาล")], "limit": 10},
+    {"id": "g-ent", "name": "Google News", "category": "บันเทิง", "url": [gtopic("ENTERTAINMENT")], "limit": 10},
+    {"id": "g-sport", "name": "Google News", "category": "กีฬา", "url": [gtopic("SPORTS")], "limit": 10},
+    {"id": "g-tech", "name": "Google News", "category": "ไอที", "url": [gtopic("TECHNOLOGY")], "limit": 10},
+    {"id": "g-biz", "name": "Google News", "category": "WEALTH", "url": [gtopic("BUSINESS")], "limit": 10},
+    {"id": "g-world", "name": "Google News", "category": "ต่างประเทศ", "url": [gtopic("WORLD")], "limit": 8},
+    {"id": "g-health", "name": "Google News", "category": "สุขภาพ", "url": [gtopic("HEALTH")], "limit": 8},
+    {"id": "g-horo", "name": "Google News", "category": "ดูดวง", "url": [gsearch("ดูดวง")], "limit": 8},
+    {"id": "g-travel", "name": "Google News", "category": "ท่องเที่ยว", "url": [gsearch("ท่องเที่ยว")], "limit": 8},
+    {"id": "g-eats", "name": "Google News", "category": "Eats", "url": [gsearch("ร้านอาหาร เมนู")], "limit": 8},
+    {"id": "g-life", "name": "Google News", "category": "ไลฟ์สไตล์", "url": [gsearch("ไลฟ์สไตล์")], "limit": 8},
+    {"id": "g-lotto", "name": "Google News", "category": "ลอตเตอรี่", "url": [gsearch("ตรวจหวย สลากกินแบ่ง")], "limit": 8},
+    {"id": "thairath", "name": "Thairath", "category": "ข่าว", "url": ["https://www.thairath.co.th/rss/news"], "limit": 15},
+    {"id": "bbc-thai", "name": "BBC Thai", "category": "ข่าว", "url": ["https://feeds.bbci.co.uk/thai/rss.xml"], "limit": 15},
+    {"id": "matichon", "name": "มติชน", "category": "ข่าว", "url": ["https://www.matichon.co.th/feed"], "limit": 15},
+    {"id": "khaosod", "name": "ข่าวสด", "category": "ข่าว", "url": ["https://www.khaosod.co.th/feed"], "limit": 15},
+    {"id": "bbc-world", "name": "BBC World", "category": "ต่างประเทศ", "url": ["https://feeds.bbci.co.uk/news/world/rss.xml"], "limit": 8},
 ]
 UA = {"User-Agent": "Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Mobile Safari/537.36",
       "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -119,7 +142,7 @@ def parse_root(feed, root):
                     break
         img = img or img_in_html(cont) or img_in_html(desc)
         publisher = ""
-        if feed["id"] == "google-news-th":
+        if "news.google.com" in feed["url"][0]:
             src = it.find("source")
             publisher = (src.text or "").strip() if src is not None else ""
             m = re.search(r"\s+-\s+([^-]+)$", title)
@@ -136,7 +159,7 @@ def parse_root(feed, root):
                 published = email.utils.parsedate_to_datetime(pd).astimezone(timezone.utc).isoformat()
             except Exception:
                 pass
-        out.append({"feedId": feed["id"], "source": feed["name"], "publisher": publisher, "title": title,
+        out.append({"feedId": feed["id"], "category": feed["category"], "source": feed["name"], "publisher": publisher, "title": title,
                     "link": (it.findtext("link") or "").strip(), "summary": summary[:300],
                     "content": strip_html(cont)[:3000], "imageUrl": fix_url(img), "published": published})
         if len(out) >= feed["limit"]:
@@ -145,7 +168,12 @@ def parse_root(feed, root):
 
 
 def fill_image(item):
-    if item["feedId"] == "google-news-th":
+    item["glink"] = item["link"] if "news.google.com" in item["link"] else ""
+    old = CACHE.get(item["glink"]) if item["glink"] else None
+    if old:
+        item["link"], item["imageUrl"] = old.get("link", item["link"]), old.get("imageUrl", "")
+        return item
+    if item["glink"]:
         item["link"] = resolve_google(item["link"])
     if not item["imageUrl"] and item["link"]:
         img, final = og_image(item["link"])
@@ -155,24 +183,40 @@ def fill_image(item):
     return item
 
 
+CACHE = {}
+
+
 def main():
-    items = []
+    try:
+        with open("news.json", encoding="utf-8") as f:
+            for it in json.load(f).get("items", []):
+                if it.get("glink") and "news.google.com" not in it.get("link", ""):
+                    CACHE[it["glink"]] = it
+    except Exception:
+        pass
+    items, seen = [], set()
     for feed in FEEDS:
         try:
             got = parse_feed(feed)
-            print(f"{feed['name']}: {len(got)} items")
-            items += got
+            print(f"{feed['category']} / {feed['name']}: {len(got)} items")
         except Exception as e:
-            print(f"{feed['name']}: FAILED {str(e)[:150]}")
-    google = [i for i in items if i["feedId"] == "google-news-th"]
-    others = [i for i in items if i["feedId"] != "google-news-th"]
-    for it in google:  # sequential: Google rate-limits the decoder
+            print(f"{feed['category']} / {feed['name']}: FAILED {str(e)[:150]}")
+            continue
+        for it in got:
+            key = re.sub(r"\W+", "", it["title"])[:40]
+            if key in seen:
+                continue
+            seen.add(key)
+            items.append(it)
+    google = [i for i in items if "news.google.com" in i["link"]]
+    others = [i for i in items if "news.google.com" not in i["link"]]
+    for n, it in enumerate(google):  # sequential: Google rate-limits the decoder
         fill_image(it)
     with ThreadPoolExecutor(8) as ex:
         others = list(ex.map(fill_image, others))
     items = google + others
     with_img = sum(1 for i in items if i["imageUrl"])
-    print(f"total {len(items)} items, {with_img} with images")
+    print(f"total {len(items)} items, {with_img} with images, {len(CACHE)} cached")
     if not items:
         sys.exit("no items fetched; keeping old news.json")
     data = {"updated": datetime.now(timezone.utc).isoformat(), "items": items}
