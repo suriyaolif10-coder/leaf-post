@@ -76,7 +76,10 @@ def page_is_live(url, wait=240):
 
 
 def main():
-    page_id, token = os.environ.get("FB_PAGE_ID", "").strip(), os.environ.get("FB_PAGE_TOKEN", "").strip()
+    page_id = re.sub(r"\D", "", os.environ.get("FB_PAGE_ID", ""))
+    token = os.environ.get("FB_PAGE_TOKEN", "")
+    m = re.search(r"EAA[A-Za-z0-9]+", token)  # tolerate a pasted '"access_token": "...",' line
+    token = m.group(0) if m else token.strip().strip('",')
     if not page_id or not token:
         print("Facebook not set up yet (add FB_PAGE_ID and FB_PAGE_TOKEN secrets) - skipping")
         return
