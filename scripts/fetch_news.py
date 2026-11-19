@@ -6,6 +6,7 @@ so images show even for feeds (like Google News) that ship no pictures.
 import email.utils
 import html
 import json
+import os
 import re
 import sys
 import time
@@ -186,6 +187,61 @@ def fill_image(item):
 
 
 CACHE = {}
+TRUSTED = {"OWNER", "MEMBER", "COLLABORATOR"}
+
+
+def form_field(body, label):
+    m = re.search(r"^###\s*" + re.escape(label) + r"[^\n]*\n(.*?)(?=^###\s|\Z)", body or "", re.M | re.S)
+    v = (m.group(1) if m else "").strip()
+    return "" if v == "_No response_" else v
+
+
+def community_items():
+    """Community news the site owner posts as GitHub issues titled "[ชุมชน] ..."."""
+    repo, token = os.environ.get("GITHUB_REPOSITORY"), os.environ.get("GITHUB_TOKEN")
+    if not repo:
+        return []
+    headers = {"Accept": "application/vnd.github+json"}
+    if token:
+        headers["Authorization"] = "Bearer " + token
+    out = []
+    try:
+        r = requests.get(f"https://api.github.com/repos/{repo}/issues", headers=headers, timeout=20,
+                         params={"state": "open", "per_page": 100, "sort": "created", "direction": "desc"})
+        r.raise_for_status()
+        issues = r.json()
+    except Exception as e:
+        print("community issues FAILED:", str(e)[:150])
+        return []
+    for iss in issues:
+        title = (iss.get("title") or "").strip()
+        if "pull_request" in iss or not title.startswith("[ชุมชน]"):
+            continue
+        if iss.get("author_association") not in TRUSTED:
+            print("  skip issue from", iss.get("user", {}).get("login"))
+            continue
+        body = iss.get("body") or ""
+        title = title[len("[ชุมชน]"):].strip()
+        if not title:
+            continue
+        imgs = re.findall(r"!\[[^\]]*\]\((https?://[^)\s]+)\)|<img[^>]+src=[\"']([^\"']+)", body)
+        imgs = [a or b for a, b in imgs]
+        img_field = form_field(body, "รูปภาพ")
+        if not imgs:
+            m = re.search(r"https?://\S+", img_field)
+            imgs = [m.group(0)] if m else []
+        detail = form_field(body, "รายละเอียดข่าว") or body
+        detail = re.sub(r"!\[[^\]]*\]\([^)]*\)|<img[^>]*>", "", detail).strip()
+        place = form_field(body, "พื้นที่ / ชุมชน")
+        link = form_field(body, "ลิงก์ข่าวต้นฉบับ")
+        out.append({"feedId": "community-own", "category": "ข่าวชุมชน", "source": "ลีฟโพสต์",
+                    "publisher": "ลีฟโพสต์ • ข่าวชุมชน", "own": True, "uid": f"c{iss['number']}", "title": title,
+                    "link": link if link.startswith("http") else iss["html_url"],
+                    "summary": (place + " • " if place else "") + strip_html(detail)[:200],
+                    "content": detail[:8000], "place": place, "images": imgs[:10],
+                    "imageUrl": imgs[0] if imgs else "", "published": iss.get("created_at", "")})
+    print(f"community (own): {len(out)} items")
+    return out
 
 
 def main():
@@ -216,7 +272,7 @@ def main():
         fill_image(it)
     with ThreadPoolExecutor(8) as ex:
         others = list(ex.map(fill_image, others))
-    items = google + others
+    items = community_items() + google + others
     with_img = sum(1 for i in items if i["imageUrl"])
     print(f"total {len(items)} items, {with_img} with images, {len(CACHE)} cached")
     if not items:
