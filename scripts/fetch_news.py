@@ -34,6 +34,8 @@ def gsearch(q):
 # category = tab on the website. Google feeds are decoded to the publisher link.
 FEEDS = [
     {"id": "google-news-th", "name": "Google News", "category": "ข่าว", "url": ["https://news.google.com/rss?" + G], "limit": 20},
+    {"id": "g-community", "name": "Google News", "category": "ข่าวชุมชน", "url": [gsearch("ชุมชน ชาวบ้าน")], "limit": 12},
+    {"id": "g-local", "name": "Google News", "category": "ข่าวชุมชน", "url": [gsearch("อบต. เทศบาล ท้องถิ่น")], "limit": 8},
     {"id": "g-politics", "name": "Google News", "category": "การเมือง", "url": [gsearch("การเมือง รัฐบาล")], "limit": 10},
     {"id": "g-ent", "name": "Google News", "category": "บันเทิง", "url": [gtopic("ENTERTAINMENT")], "limit": 10},
     {"id": "g-sport", "name": "Google News", "category": "กีฬา", "url": [gtopic("SPORTS")], "limit": 10},
