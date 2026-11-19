@@ -195,7 +195,7 @@ body.noscroll{overflow:hidden}
     $("readerBody").innerHTML = '<div class="pics">' + cover + "</div><h1>" + esc(it.title) + '</h1><div class="m">' + meta + '</div><div class="body">' + esc(it.content || it.summary) + '</div><div class="pics" style="margin-top:16px">' + rest + "</div>" + ext;
     $("reader").classList.add("open"); $("reader").scrollTop = 0; document.body.classList.add("noscroll");
     $("readerShare").onclick = function () {
-      var url = location.href.split("#")[0] + "#" + it.uid;
+      var url = new URL("n/" + it.uid + ".html", location.href).href;
       if (navigator.share) navigator.share({ title: it.title, url: url }).catch(function () {});
       else if (navigator.clipboard) navigator.clipboard.writeText(url).then(function () { alert("คัดลอกลิงก์แล้ว"); });
     };
