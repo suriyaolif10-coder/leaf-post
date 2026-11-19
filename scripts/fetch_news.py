@@ -75,7 +75,7 @@ def resolve_google(url):
         return url
     try:
         res = gnewsdecoder(url, interval=1)
-        if res.get("status") and res.get("decoded_url"):
+        if (res.get("success") or res.get("status")) and res.get("decoded_url"):
             return res["decoded_url"]
         print("  decode failed:", str(res.get("message", res))[:200])
     except Exception as e:
