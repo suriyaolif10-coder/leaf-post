@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:15:26.335155+00:00",
+ "updated": "2026-11-20T07:26:06.096111+00:00",
  "items": [
   {
    "feedId": "community-own",
@@ -17,7 +17,8 @@
     "https://github.com/user-attachments/assets/1fd0a435-a64d-4468-8a70-6a2a7e36d7b5"
    ],
    "imageUrl": "https://github.com/user-attachments/assets/1fd0a435-a64d-4468-8a70-6a2a7e36d7b5",
-   "published": "2026-11-20T05:36:13Z"
+   "published": "2026-11-20T05:36:13Z",
+   "nb": true
   },
   {
    "feedId": "community-own",
@@ -36,7 +37,8 @@
     "https://github.com/user-attachments/assets/264d16e0-fba1-4906-85b8-2094d1c352b7"
    ],
    "imageUrl": "https://github.com/user-attachments/assets/9b6f87b6-9600-4391-b28f-bfd004ee07c0",
-   "published": "2026-11-20T03:59:38Z"
+   "published": "2026-11-20T03:59:38Z",
+   "nb": true
   },
   {
    "feedId": "community-own",
@@ -55,7 +57,8 @@
     "https://github.com/user-attachments/assets/8d96ffd0-611f-4948-a972-59bd252d1606"
    ],
    "imageUrl": "https://github.com/user-attachments/assets/63d9918b-aaa8-496f-8d79-a5f39edd71e0",
-   "published": "2026-11-19T13:27:12Z"
+   "published": "2026-11-19T13:27:12Z",
+   "nb": true
   },
   {
    "feedId": "nb-mueang",
@@ -68,7 +71,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-10-26T09:20:29+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oZUtLeU9COGtMSXlrV1VuNVRKQXN5amZIUngxSXFyOS1UT2x2NE1jdDdnTkpJZ0NOVlByU19tQnRlSlhFMHlCME0xLUU5VGY1NkIxZzEyUnRJQQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oZUtLeU9COGtMSXlrV1VuNVRKQXN5amZIUngxSXFyOS1UT2x2NE1jdDdnTkpJZ0NOVlByU19tQnRlSlhFMHlCME0xLUU5VGY1NkIxZzEyUnRJQQ?oc=5",
+   "hint": "Attention Required! | Cloudflare",
+   "nb": true
   },
   {
    "feedId": "nb-mueang",
@@ -81,7 +86,9 @@
    "content": "",
    "imageUrl": "https://www.banmuang.co.th/uploads/news/img/l/496667_th.jpg",
    "published": "2026-11-04T08:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmb1drVW5IbTlSUlp1ZHEwcGZmYnV6TXJsMy0wMjdxbHVwVWZOZlJNOW51LWxSU01HV0VQN1Q1NTU2VGphWnc2cnpnYUpCZ1NwM3Fud19yaXo?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmb1drVW5IbTlSUlp1ZHEwcGZmYnV6TXJsMy0wMjdxbHVwVWZOZlJNOW51LWxSU01HV0VQN1Q1NTU2VGphWnc2cnpnYUpCZ1NwM3Fud19yaXo?oc=5",
+   "hint": "สภ.เมืองหนองบัวลำภู ระดมกำลังทุกภาคส่วนปล่อยแถวกวาดล้างอาชญากรรมและยาเสพติดสร้างชุมชนปลอดภัย เมื่อวันที่ 4 พฤศจิกายน 2569 เวลา 05.30 น. พล.ต.ต.ธนาวัชร ดีบุญมี ณ ชุมแพ ผบก.ภ.จว.หนองบัวลำภู พร้อมด้วย พ.ต.อ.รัตนสุข คำวงศ์ รอง ผบก.ภ.จว.หนองบัวลำภู... บ้านเมือง - สภ.เมืองหนองบัวลำภู ระดมกำลังทุกภาคส่วนปล่อยแถวกวาดล้างอาชญากรรมและยาเสพติดสร้างชุมชนปลอดภัย",
+   "nb": true
   },
   {
    "feedId": "nb-mueang",
@@ -94,7 +101,9 @@
    "content": "",
    "imageUrl": "https://www.fm91bkk.com/upload/tb_news/webp/2026-11/18/82253/1794954905_712156cccda8329f4279.webp",
    "published": "2026-11-17T22:55:12+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UbGFGUF9OM2hMSTdDVXBUSERaNkFhQ0dmdDFkazZqdlpydDRIZEN3TEZsblBvQkgxcjRDNXRSNGFOdTBWWUZkMFNUSlE3NFk3alpR?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UbGFGUF9OM2hMSTdDVXBUSERaNkFhQ0dmdDFkazZqdlpydDRIZEN3TEZsblBvQkgxcjRDNXRSNGFOdTBWWUZkMFNUSlE3NFk3alpR?oc=5",
+   "hint": "24 ชั่วโมงข่าว 91 ประจำวันที่ 17 พฤศจิกายน 2569 24 ชั่วโมงข่าว 91 ประจำวันที่ 17 พฤศจิกายน 2569>> ตำรวจป่าตอง, เจ้าหน้าที่ พฐ. และเทศบาล ลงพื้นที่ สถานที่เกิดเหตุเพลิงไหม้ร้านเช่ารถ เก็บหลักฐาน เร่งหาสาเหตุอย่างละเอียด09.00 น. เจ้าหน้าที่ตำรวจสถานีตำรวจภูธรป่าตอง ร่วมกับเจ้าหน้าที่พิสูจน์หลักฐาน และเจ้าหน้าที่เทศบาล ลงพื้นที่ตรวจสอบสถานที่เกิดเหตุเพลิงไหม้ร้านเช่ารถ ถนนผังเมืองสาย ก ตำบลป่าตอง อำเ",
+   "nb": false
   },
   {
    "feedId": "nb-mueang",
@@ -107,7 +116,9 @@
    "content": "",
    "imageUrl": "https://resource.nationtv.tv/uploads/images/md/2026/11/TlsE43uJQk0Cal6mrPFc.webp",
    "published": "2026-11-02T04:16:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPTjdabnBDTEpUdGg5Q1lkUzR6LWt4UXJuVmY2Y3ZYZlVha1R0ekx2T0VwSm50c2RyZjZFVnI2Ri1QMjVsQmlWdUhPbnpBdDFndjA3Z09hSnAzaGc?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPTjdabnBDTEpUdGg5Q1lkUzR6LWt4UXJuVmY2Y3ZYZlVha1R0ekx2T0VwSm50c2RyZjZFVnI2Ri1QMjVsQmlWdUhPbnpBdDFndjA3Z09hSnAzaGc?oc=5",
+   "hint": "จับตาพรุ่งนี้! กรอ.อีสานตอนบน 1 จัดเต็ม 170 โครงการ อัดฉีด 7.8 หมื่นล้าน ชง \"อนุทิน\" เคาะ ครม.สัญจร กระจายงบ 5 จังหวัด จับตาพรุ่งนี้! กรอ.อีสานตอนบน 1 จัดเต็ม 170 โครงการ อัดฉีด 7.8 หมื่นล้าน ชง \"อนุทิน\" เคาะ ครม.สัญจร กระจายงบ 5 จังหวัด ลุยเกษตร-ครัวโลก การค้าชายแดน ท่องเที่ยว และปราบยาเสพติด จับตาพรุ่งนี้! กรอ.อีสานตอนบน 1 จัดเต็ม 170 โครงการ อัดฉีด 7.8 หมื่นล้าน ชง \"อนุทิน\" เคาะ ครม.สัญจร กระจา",
+   "nb": false
   },
   {
    "feedId": "nb-mueang",
@@ -120,7 +131,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-08T08:48:47+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PbHJmaGs1NzR6c1ZkaDBSLUZ2SEZ4c0NveVFUbFVKS1prcUVILW5sOG9BSENrc3VQMWdDaXp1TzZUdzdPT3VWUVJFQQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PbHJmaGs1NzR6c1ZkaDBSLUZ2SEZ4c0NveVFUbFVKS1prcUVILW5sOG9BSENrc3VQMWdDaXp1TzZUdzdPT3VWUVJFQQ?oc=5",
+   "hint": "",
+   "nb": false
   },
   {
    "feedId": "nb-mueang",
@@ -133,7 +146,9 @@
    "content": "",
    "imageUrl": "https://www.khaosod.co.th/wpapp/uploads/2026/11/vv1.jpg",
    "published": "2026-11-08T08:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sTml1OUh3Nk5uZUc1Q1pvTTRORVd2WTRQNXZ1TnlHeHdXeWQzWFFnbURLT3RJYzlodTVYWXFHUXNXYkMzX2FleHNRU1N2YXJ4YXF2b2x1Tm9iekdBOGthLVNDYjkzdw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sTml1OUh3Nk5uZUc1Q1pvTTRORVd2WTRQNXZ1TnlHeHdXeWQzWFFnbURLT3RJYzlodTVYWXFHUXNXYkMzX2FleHNRU1N2YXJ4YXF2b2x1Tm9iekdBOGthLVNDYjkzdw?oc=5",
+   "hint": "2 ผัวเมีย ตามไปทวงเงิน 500 กลับถูกวัยรุ่นรุมทำร้าย แทงสามีเสียชีวิต - ข่าวสด 2 ผัวเมีย ตามไปทวงเงิน 500 กลับถูกวัยรุ่นที่รออยู่ที่โต๊ะสนุ๊ก จำนวน 5 คนรุมทำร้าย แฟนสาวเห็นท่าไม่ดี กำลังโทรศัพท์ตามคนมาช่วย แต่ไม่ทัน สามีถูกแทงเสียชีวิต 2 ผัวเมีย ตามไปทวงเงิน 500 กลับถูกวัยรุ่นรุมทำร้าย แทงสามีเสียชีวิต - ข่าวสด",
+   "nb": false
   },
   {
    "feedId": "nb-mueang",
@@ -146,7 +161,9 @@
    "content": "",
    "imageUrl": "https://www.banmuang.co.th/uploads/news/img/l/497142_th.jpg",
    "published": "2026-11-08T13:26:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93N3lia0JDSDZhSlgxaDZUYXJ1NG83MTE5b0dyVGlHUGZ4d3hMb3Y1R01uQ2JKQ043ekE3MEZTZzRrMXpBU0lqLXUxNGNRZ1VVYlNJZmcyMA?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93N3lia0JDSDZhSlgxaDZUYXJ1NG83MTE5b0dyVGlHUGZ4d3hMb3Y1R01uQ2JKQ043ekE3MEZTZzRrMXpBU0lqLXUxNGNRZ1VVYlNJZmcyMA?oc=5",
+   "hint": "รวบ 4 วัยรุ่นรุมแทงคู่อริดับคาโต๊ะสนุกเกอร์ ปมทวงหนี้ หนองบัวลำภู – เมื่อวันที่ 8 พฤศจิกายน 2569 พ.ต.ท.คำแปลง ไชยรินทร์ พนักงานสอบสวน สภ.เมืองหนองบัวลำภู รับแจ้งเหตุชายถูกของมีคมแทงเสียชีวิต ภายในร้... บ้านเมือง - รวบ 4 วัยรุ่นรุมแทงคู่อริดับคาโต๊ะสนุกเกอร์ ปมทวงหนี้",
+   "nb": true
   },
   {
    "feedId": "nb-mueang",
@@ -159,7 +176,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-10-30T07:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45d0RXdkk2RkpnWnpEWXBrRUhiQ1FxSW9XenZVRjVoSjRmb3FvbkV3eXA1TTh3MFVJVkhPblZ3eTM4Rl9ua3dhdmxYNA?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45d0RXdkk2RkpnWnpEWXBrRUhiQ1FxSW9XenZVRjVoSjRmb3FvbkV3eXA1TTh3MFVJVkhPblZ3eTM4Rl9ua3dhdmxYNA?oc=5",
+   "hint": "",
+   "nb": true
   },
   {
    "feedId": "nb-naklang",
@@ -172,7 +191,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-18T05:34:35+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxOdlZvUnNlNnpSRHVYbHpjQ2dneHBjS1VWU0VSN1hFb0xYQ2Y0Y0lndXpQbm1EZ2ZmYkI0MjI4SGdtOWsyR2lhNExVMUQxUHlhM1RIT3RaREV1anNhTy0yMzg4ZnJDdlBuMzVBRkt2RUxneVZQNXFsNlhjaVREaTF5WWZjcTN2VTd2Y196cDJITjJWUGo5WTl4R3l0M05FVzQyQ1ZIV1NCSXNyM2VYOWlIYUpCQUxReGpGdmNNLVhpRVQyR0xFRFV3Mk5zOW5IQUNvSXF6d0V1VlN0WkRQaGFTelUta3l1RG9CcDZkQTRfaGMwdjZKaFZTZXZVaGlEZDZuSUlYQ0F5SHppMTA1YVhPNnVUcHZ0dkJuMGRqR1A4cFF2WFcxVHhpRzJQaGtJLU5DUmhrQnZFZ29TaGVncjJieWkyRjRncVh0T2RFNUZUY2ZWUTUyWjBLM2Q2V3FHQWFEeTRqdEFST2dwSHZnRzdyUU42WHNURXRCZXFneTVlcTd2a1RIN2FvcVdqZ1ZLYW5oNTJ6S0ZwN2pGVjlsUmRvanZReFUtZ21UVzFkWjU0SkpTSDF5Vm1EN3l1TmJyVXczajBwQXdTdEtEU2haS244NDNfZzBNNTFvc1BMbWQwNzdQSzBlNVRuVk5MaEwzdUhxNTlzczhMamt2alFXdGJ6UmpNWkdtSUhuNDBmelQzaERveVBIeWFvY2NiMFc0MXhEdFpoOFBxWkhiSDg?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxOdlZvUnNlNnpSRHVYbHpjQ2dneHBjS1VWU0VSN1hFb0xYQ2Y0Y0lndXpQbm1EZ2ZmYkI0MjI4SGdtOWsyR2lhNExVMUQxUHlhM1RIT3RaREV1anNhTy0yMzg4ZnJDdlBuMzVBRkt2RUxneVZQNXFsNlhjaVREaTF5WWZjcTN2VTd2Y196cDJITjJWUGo5WTl4R3l0M05FVzQyQ1ZIV1NCSXNyM2VYOWlIYUpCQUxReGpGdmNNLVhpRVQyR0xFRFV3Mk5zOW5IQUNvSXF6d0V1VlN0WkRQaGFTelUta3l1RG9CcDZkQTRfaGMwdjZKaFZTZXZVaGlEZDZuSUlYQ0F5SHppMTA1YVhPNnVUcHZ0dkJuMGRqR1A4cFF2WFcxVHhpRzJQaGtJLU5DUmhrQnZFZ29TaGVncjJieWkyRjRncVh0T2RFNUZUY2ZWUTUyWjBLM2Q2V3FHQWFEeTRqdEFST2dwSHZnRzdyUU42WHNURXRCZXFneTVlcTd2a1RIN2FvcVdqZ1ZLYW5oNTJ6S0ZwN2pGVjlsUmRvanZReFUtZ21UVzFkWjU0SkpTSDF5Vm1EN3l1TmJyVXczajBwQXdTdEtEU2haS244NDNfZzBNNTFvc1BMbWQwNzdQSzBlNVRuVk5MaEwzdUhxNTlzczhMamt2alFXdGJ6UmpNWkdtSUhuNDBmelQzaERveVBIeWFvY2NiMFc0MXhEdFpoOFBxWkhiSDg?oc=5",
+   "hint": "Error Facebook",
+   "nb": false
   },
   {
    "feedId": "nb-naklang",
@@ -185,7 +206,9 @@
    "content": "",
    "imageUrl": "https://resource.nationtv.tv/uploads/images/md/2026/11/xkK43s6PH66dlZW1w35E.webp",
    "published": "2026-11-08T09:50:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtb2paZm0yV2RGREFXTHlqSXJVRl8tenhwelRoR01RTGE1RGQyQ1BsOFEtTFJCUGtLVGd4TUZubDRhVTVad1ZXRWxxNVA2RWFjVDdGOHQ2bFE?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtb2paZm0yV2RGREFXTHlqSXJVRl8tenhwelRoR01RTGE1RGQyQ1BsOFEtTFJCUGtLVGd4TUZubDRhVTVad1ZXRWxxNVA2RWFjVDdGOHQ2bFE?oc=5",
+   "hint": "เนชั่น กรุ๊ป ร่วมเป็นเจ้าภาพกฐินสามัคคี สร้างพระธาตุเจดีย์ปุณฺณชิศรีคำแสน เนชั่น กรุ๊ป ร่วมเป็นเจ้าภาพกฐินสามัคคี สร้างพระธาตุเจดีย์ปุณฺณชิศรีคำแสน ที่วัดหนองบัวคำแสน จ.หนองบัวลำภู เนชั่น กรุ๊ป ร่วมเป็นเจ้าภาพกฐินสามัคคี สร้างพระธาตุเจดีย์ปุณฺณชิศรีคำแสน",
+   "nb": true
   },
   {
    "feedId": "nb-naklang",
@@ -193,12 +216,14 @@
    "source": "Google News",
    "publisher": "komchadluek",
    "title": "เลขเด็ดงานบุญ 'เนชั่น กรุ๊ป' ทอดกฐินสามัคคี 69 คอหวยจับตาเลขมงคลลุ้นโชค",
-   "link": "https://www.komchadluek.net/lottery/lotto/625372",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IMnh4WDBhTko2TjlqTUlUWk1HMXFIelRfNlhKaXRHWHFPY1hUMjh0VjFWSktxT18xVjRJRGU1eTRCWHFmWnVkZ3RtcjgzaGYzbXhzWDluU3dBVnQ1?oc=5",
    "summary": "ที่มา: komchadluek",
    "content": "",
-   "imageUrl": "https://media.komchadluek.net/uploads/images/md/2026/11/X15aNE6UKcGmXXUOH3Oo.webp",
+   "imageUrl": "",
    "published": "2026-11-08T08:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IMnh4WDBhTko2TjlqTUlUWk1HMXFIelRfNlhKaXRHWHFPY1hUMjh0VjFWSktxT18xVjRJRGU1eTRCWHFmWnVkZ3RtcjgzaGYzbXhzWDluU3dBVnQ1?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IMnh4WDBhTko2TjlqTUlUWk1HMXFIelRfNlhKaXRHWHFPY1hUMjh0VjFWSktxT18xVjRJRGU1eTRCWHFmWnVkZ3RtcjgzaGYzbXhzWDluU3dBVnQ1?oc=5",
+   "hint": "",
+   "nb": false
   },
   {
    "feedId": "nb-nonsang",
@@ -211,7 +236,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-02T08:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VXzdZMFBYSEEyQy1nLXU3b1RMRVdhekNuTTlwb3A1OWc4UW5ZSUVmbHAyWnhIcFhxTmxXYlFDT3h6RWxVa1lVbFU5VnRiR1E?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VXzdZMFBYSEEyQy1nLXU3b1RMRVdhekNuTTlwb3A1OWc4UW5ZSUVmbHAyWnhIcFhxTmxXYlFDT3h6RWxVa1lVbFU5VnRiR1E?oc=5",
+   "hint": "Just a moment...",
+   "nb": true
   },
   {
    "feedId": "nb-nonsang",
@@ -224,7 +251,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-03T08:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMinAdBVV95cUxQaHNLU1BFdWRSR0tNTzI2cHRPVUhVQnlLMVlyQkN6X2R5Q0xzWEtpVy1EWWdlMW5CemRmZjVQOVU2ZkdnTnlkSTltMFZFcm1Lbl94dmJfZFRsYnlJU0lYTUxCdjdQb1dtaTQ5WHZZd3ZrZ0JzLVZzTklQWG5lQ2VRWi1SMXZ2ZjRmMEU4dlpZalJSbzdLLXFMb29iYVNwaGlnSDVsUnMtMzBWV1B4QlkxTzdrbGtsMkR0bWtOMDN1Q0ZNZjRFYmprRHpTMHdHcjVRZTNhMTN1U3d4UFprbm9ZRl9meGYwRlE5SUdDbjVtUEM1TTBManBYeDJiRnZJR1MyNWx2RGsxWXZEc3J3eFUtczJ6YnFZekpyZ2FnNlk0bTl4UTlVQ1FVZnRQS0V5ZlFvb3U5dm9mMXVJSThjRjJWaTY3ejI0RVpidVROaFNDU3ZXdGxocGlvdDRnTGgyd3h4cnhzQU9pdXM0WGhKOXM2N3FaeEYwV05qNjNLTGJKV1o5UGRiOWxPQ3NVWFF4d2lvQk5EdDdHa1NtdHY2X2hJVFBSaTlpVldYaHYxLVFuNkZaYlBsaFd5VlNfdE9ORndkTGJvZ213d0FZVXNlUHUzRjl2S3F5dnFsbGJkNHlYR1FmYzBxX1JuTHpsaDkwZExQTlNhM3k0dklNT0lzOExneGk4ZDVWT0pJeUVtN0JmdEtRdmZCNm81cHB5Rmh6bEc5ZUhXUi1OY1dlMjNCN0ZMdnJlVzlOUjFEMnpiRkJXUW1FLV9IZ2FVbzBLQk1Ca0RaLTVLMXozM19obkZqZHR2akMzX0h5SDM4UlVoZEM0ZTI4bXpVZFFiQlFaMmxPWTIxVW9UQ2tDY2YxZTU1Wk5vMWpLTzNKWkEzYTFaeVRpUGVGSWlrRnVPN0pOaVh6MnE1SlJSTkZTMmJVWnZ2b2ZpYUhXWjBYb0N2dmxSNUdlOEtPNE83TGZqeXJiOHVwV0h3QW9IaDk0ZDJtWURpeHZ2V2tQU2VUR2dIMVIxSnBsWDA2NFNzSXdLNEZjbjk2eUlEa2dHbVdoVTVsVUkyYWVwNEFPS2w3NnNDQjYtdVN2NVJyalltOThlbzFqUDFUMjl5QjV0Z1BDU0xBVl9ZdzJxbERBbVlaWGFRVHVTN2xQbmJsNWN3UGVpR0o0ckRud0FpTVJEXzRLSTl5QjlwSVBBTHF6aXQtcjNCZ2FIYXdLY0x4ckpmbExXTC1iM3g?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMinAdBVV95cUxQaHNLU1BFdWRSR0tNTzI2cHRPVUhVQnlLMVlyQkN6X2R5Q0xzWEtpVy1EWWdlMW5CemRmZjVQOVU2ZkdnTnlkSTltMFZFcm1Lbl94dmJfZFRsYnlJU0lYTUxCdjdQb1dtaTQ5WHZZd3ZrZ0JzLVZzTklQWG5lQ2VRWi1SMXZ2ZjRmMEU4dlpZalJSbzdLLXFMb29iYVNwaGlnSDVsUnMtMzBWV1B4QlkxTzdrbGtsMkR0bWtOMDN1Q0ZNZjRFYmprRHpTMHdHcjVRZTNhMTN1U3d4UFprbm9ZRl9meGYwRlE5SUdDbjVtUEM1TTBManBYeDJiRnZJR1MyNWx2RGsxWXZEc3J3eFUtczJ6YnFZekpyZ2FnNlk0bTl4UTlVQ1FVZnRQS0V5ZlFvb3U5dm9mMXVJSThjRjJWaTY3ejI0RVpidVROaFNDU3ZXdGxocGlvdDRnTGgyd3h4cnhzQU9pdXM0WGhKOXM2N3FaeEYwV05qNjNLTGJKV1o5UGRiOWxPQ3NVWFF4d2lvQk5EdDdHa1NtdHY2X2hJVFBSaTlpVldYaHYxLVFuNkZaYlBsaFd5VlNfdE9ORndkTGJvZ213d0FZVXNlUHUzRjl2S3F5dnFsbGJkNHlYR1FmYzBxX1JuTHpsaDkwZExQTlNhM3k0dklNT0lzOExneGk4ZDVWT0pJeUVtN0JmdEtRdmZCNm81cHB5Rmh6bEc5ZUhXUi1OY1dlMjNCN0ZMdnJlVzlOUjFEMnpiRkJXUW1FLV9IZ2FVbzBLQk1Ca0RaLTVLMXozM19obkZqZHR2akMzX0h5SDM4UlVoZEM0ZTI4bXpVZFFiQlFaMmxPWTIxVW9UQ2tDY2YxZTU1Wk5vMWpLTzNKWkEzYTFaeVRpUGVGSWlrRnVPN0pOaVh6MnE1SlJSTkZTMmJVWnZ2b2ZpYUhXWjBYb0N2dmxSNUdlOEtPNE83TGZqeXJiOHVwV0h3QW9IaDk0ZDJtWURpeHZ2V2tQU2VUR2dIMVIxSnBsWDA2NFNzSXdLNEZjbjk2eUlEa2dHbVdoVTVsVUkyYWVwNEFPS2w3NnNDQjYtdVN2NVJyalltOThlbzFqUDFUMjl5QjV0Z1BDU0xBVl9ZdzJxbERBbVlaWGFRVHVTN2xQbmJsNWN3UGVpR0o0ckRud0FpTVJEXzRLSTl5QjlwSVBBTHF6aXQtcjNCZ2FIYXdLY0x4ckpmbExXTC1iM3g?oc=5",
+   "hint": "Error Facebook",
+   "nb": false
   },
   {
    "feedId": "nb-nonsang",
@@ -237,7 +266,9 @@
    "content": "",
    "imageUrl": "https://www.matichon.co.th/wp-content/uploads/2026/11/ภป-Quick-Winครมสัญจรขึ้นเว็บ.jpg",
    "published": "2026-11-03T08:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XNmRfME02eTdWclJHZU5wSzdWc3FENXlKOWY3OVBrSXZRU0kxYllYLTlJNzNQUFczakV1OWFFeFVZNGsxdk9iS1VlZWtZT3ZCVE1sdUtoNzNCd25hY3hyekpfaUxHVDhmYnhsSnllUkRMZFQ0?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XNmRfME02eTdWclJHZU5wSzdWc3FENXlKOWY3OVBrSXZRU0kxYllYLTlJNzNQUFczakV1OWFFeFVZNGsxdk9iS1VlZWtZT3ZCVE1sdUtoNzNCd25hY3hyekpfaUxHVDhmYnhsSnllUkRMZFQ0?oc=5",
+   "hint": "เปิดข้อเสนอ 5 จว.อีสาน ชง ครม.สัญจรเคาะ 7.8 หมื่นล. หมายเหตุ - การประชุมร่วมภาครัฐและเอกชนเพื่อพัฒนาและแก้ไขปัญหาทางเศรษฐกิจ (กรอ.) กลุ่มจังหวัดภาคตะวันออกเฉียงเหนือตอนบน 1 ประกอบด้วย อุดรธานี บึงกาฬ เลย เปิดข้อเสนอ 5 จว.อีสาน ชง ครม.สัญจรเคาะ 7.8 หมื่นล.",
+   "nb": false
   },
   {
    "feedId": "nb-sribunruang",
@@ -250,20 +281,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-10T08:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDS0VYOWVOUFNqRXluUHh2VGZDcFVCY0lXMWhVVEpaVEwtVktxSG03WkV5aW93VlVTMjlXZlBHa3NjTnk1WFlnSkswNlBISC1Ob0NBSkpMVlFwWVhZUEo5cGVHaWxJLTFXSzdzbmxSbTNVUmVY?oc=5"
-  },
-  {
-   "feedId": "nb-sribunruang",
-   "category": "ศรีบุญเรือง",
-   "source": "Google News",
-   "publisher": "Facebook",
-   "title": "“กกล.สุรศักดิ์มนตรี ร่วมแถลงข่าว ตรวจยึดยาบ้า 4 ล้านเม็ด ริมแม่น้ำโขง จ.นครพนม” พ.อ.วีระวัฒน์ ท้าวพิมพ์ ผบ.บก.ควบคุมที่ 1 กกล.สุรศักดิ์มนตรี (ร.3) ร่วมแถลงข่าวกับ ว่าที่ พ.ต.อดิศักดิ์ น้อยสุวรรณ ผวจ.น.พ. และ พล.ต.บัลลังก์ เสนีย์วงษ์ ณ อยุธยา รอง ผบ.นบ.ยส.24 (2) / ผบ.มทบ.210 กรณีตร",
-   "link": "https://www.facebook.com/royalthaiarmyRTA/posts/%E0%B8%81%E0%B8%81%E0%B8%A5%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5-%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B9%81%E0%B8%96%E0%B8%A5%E0%B8%87%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7-%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B9%89%E0%B8%B2-4-%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B9%87%E0%B8%94-%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%82%E0%B8%82%E0%B8%87-%E0%B8%88%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%9E%E0%B8%99%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%A7%E0%B8%B5%E0%B8%A3/1593033666201944/",
-   "summary": "ที่มา: Facebook",
-   "content": "",
-   "imageUrl": "",
-   "published": "2026-10-23T07:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMi6gdBVV95cUxPRk1xX1ZEZnFFblV1V08zNWN2YkVWMVMtRHRZTkpaOURwdUdlci1fVkdLYkVaZ1ZxSjZfeEQ4REJnbWVwSjZUNjVnNTdhZDlKN3c5M2RsSmd6bTg2MjNfdVNDbFFLaXBjVHc2ME1VZjdxNW5DbnBWTl9fTVFFZk9CbjlhY0pqOERNVTVJdTVTeEV5amlUc0FwSk9NbjZITXFhbjhfeTcxaDhraG9NX2ZZaGprNFRlWmVlZmZGZEI3SGgyZ3VuVl8tV0NJa0VQQTdWSWIwMk4tOVE0MDhIOGNoWFRGNThLd2FXZDJuWnRtX3phVTBub0I4di1XU2hzSllPTXhrVDhXN0hDSElOeG9aSFFtdkdyREk1ZVVRdVRTdmZ1X1p4azNuUFMtZEZ4OUhlUkdaXzNvZHAyTFNsSVUzQldNVExJN244N1hadWVaa2NmU3pSVzZ6eVBhSnVzOXdBM2Naa0tSd0NFek5LTm1yNnVkWHRYT1NqM3VXNERNOVl0TW55NEdUN01uOGFNcGJuZzJ3ZkxzeWdRMWtVYlB4dnRRLS1zN2g2NUdVa2FyM0VKcG9GVW0xX2YxLVVCenJQdXBYOEhfaUtyZTh5SUlac016Q3pHX2tHSGM1eTBnUWlVYmN0TnhrQjdQWkQ2TTUxclVJMWhERG11YzBNSGhSeVJNNm1Za3JmRzN5a0ZHTzd1MDNHaVpNenFOcEUxRVF6Q2F1b3BsbzVLWXYzalZVb0VMXzdzbTh4aG1HT3g2c1JxSjRCRHRsQmZmbWN5RzBNRmhzcHFUOWtadmJxcXI2VGx3N2lOckxCTEpoZURXLVg1SUxQalNaYjFDY1ZjZ3kxcUViajhrS29ITmROY2pwc2s1V1FzNGVXRy1fRHpJSEV5eUZrOGt4THJDVDUzMmEtVlphQW45WEU3M0d1N3lkbUVtZmNSVU1kX3BfV1ZRNUxrNEs5d1YzeExzbFZXZ0QwRjg0TkdNTi1ISktfelhWZDdMeVVISV9QcV9aSWs0YW9DTlBqYU5WeGc3WktOTWFYbTJHcGJOWVZfQ05YNWJkaGR1YkY4NzJvRzFWVUFkWWpnNEt1QWhTY1V0MXdSMGtScDRYX0dIb05keU5qaFFDMHhEM3NVdjRhd3lhLUdrd1ppVDIxV09VQ010OUtldVphZDJYLVd5cXRtTXlRd0pqQXJyc0ZEejNjZDY5OU5reHBydk5GT3RpaXNiRkZ5TkQtZklwbFFITGhYVHN4clA5cUpDbmFTMFBZelNfZ3pLbkhSZk9fR1JCWElRNTlJc0lXdnRiZHdkeF9HWG5wZ1FYeUxkM19NM29DNFE?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDS0VYOWVOUFNqRXluUHh2VGZDcFVCY0lXMWhVVEpaVEwtVktxSG03WkV5aW93VlVTMjlXZlBHa3NjTnk1WFlnSkswNlBISC1Ob0NBSkpMVlFwWVhZUEo5cGVHaWxJLTFXSzdzbmxSbTNVUmVY?oc=5",
+   "hint": "",
+   "nb": true
   },
   {
    "feedId": "nb-sribunruang",
@@ -276,7 +296,9 @@
    "content": "",
    "imageUrl": "https://www.banmuang.co.th/uploads/news/img/l/495085_th.jpg",
    "published": "2026-10-21T07:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiY3hTLW9Obkp2bTlIcjZrclJhS1ZObjNfVXVpRWxOS0c5dTBFT1V0VWo2ZUNfN0t1aXNVdW54QXlYYVVGS0wzbW9pdDU1U2h6LTBNVzJ0X1g?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiY3hTLW9Obkp2bTlIcjZrclJhS1ZObjNfVXVpRWxOS0c5dTBFT1V0VWo2ZUNfN0t1aXNVdW54QXlYYVVGS0wzbW9pdDU1U2h6LTBNVzJ0X1g?oc=5",
+   "hint": "คืบหน้า! หน่วยงานลงพื้นที่ตรวจสอบ 4 แยกวัดใจลานสัก เร่งแก้จุดเสี่ยงรถตกคลอง เมื่อวันที่ 20 ตุลาคม 2569 ผู้สื่อข่าวรายงานความคืบหน้ากรณีเกิดอุบัติเหตุบริเวณทางแยก 4 แยก หรือทางเอกตัดทางโท ในพื้นที่หมู่ 10 บ้านศรีบุญเรือง ตำบลทุ... บ้านเมือง - คืบหน้า! หน่วยงานลงพื้นที่ตรวจสอบ 4 แยกวัดใจลานสัก เร่งแก้จุดเสี่ยงรถตกคลอง",
+   "nb": true
   },
   {
    "feedId": "nb-sribunruang",
@@ -289,7 +311,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-10-25T09:14:09+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SZFdjN1ZKVnVVY0tNazdXd05QYmpzeVg2d25KaHQtam03d09CZEVtaGZVRkhJMExfNFIzbWRhUjNiWFVXb3I4Tld0US1KV2xiT2VMczA3Mkd3VGtMSlJHRzFXLWp4RXNneHdYelp5aWM0Qzdo?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SZFdjN1ZKVnVVY0tNazdXd05QYmpzeVg2d25KaHQtam03d09CZEVtaGZVRkhJMExfNFIzbWRhUjNiWFVXb3I4Tld0US1KV2xiT2VMczA3Mkd3VGtMSlJHRzFXLWp4RXNneHdYelp5aWM0Qzdo?oc=5",
+   "hint": "",
+   "nb": true
   },
   {
    "feedId": "nb-sribunruang",
@@ -302,7 +326,9 @@
    "content": "",
    "imageUrl": "https://www.banmuang.co.th/uploads/news/img/l/495382_th.jpg",
    "published": "2026-10-24T07:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUcDlhZ1Zzazg3WUxzX0xxODZXc1BnYWszVi1lMEZaRmVQTXo2VVBkT2VsWENMZ2FVN1ZSb2cwTFc3SkVoS09sTnhwQlhuZ1g3ZkdRVl83RjA?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUcDlhZ1Zzazg3WUxzX0xxODZXc1BnYWszVi1lMEZaRmVQTXo2VVBkT2VsWENMZ2FVN1ZSb2cwTFc3SkVoS09sTnhwQlhuZ1g3ZkdRVl83RjA?oc=5",
+   "hint": "หนองคายเปิดแสดงแสงเสียง ‘ตำนานบั้งไฟพญานาค’ รับเทศกาลออกพรรษา หนองคายเปิดการแสดงแสงเสียง ‘เปิดตำนานบั้งไฟพญานาค’ ครั้งที่ 25 ริมแม่น้ำโขง ถ่ายทอดศรัทธาพุทธบูชารับเทศกาลออกพรรษา 22–25 ต.ค. นี้ เม... บ้านเมือง - หนองคายเปิดแสดงแสงเสียง ‘ตำนานบั้งไฟพญานาค’ รับเทศกาลออกพรรษา",
+   "nb": false
   },
   {
    "feedId": "nb-sribunruang",
@@ -315,7 +341,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-14T23:41:13+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zdFoxS0VRV3NpQTVUOW02b2NueXNtUWtMUGR4a0ZkUGMzZWZXZ0RldFdZN2p6VkZqY2w3dnJxb0luVGduVno4cmp3SUt1MENtZ2o0NkZObTVMNmtFSTlkMmM4UEtaTVl2MWUzUHd6YTJqdUVE?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zdFoxS0VRV3NpQTVUOW02b2NueXNtUWtMUGR4a0ZkUGMzZWZXZ0RldFdZN2p6VkZqY2w3dnJxb0luVGduVno4cmp3SUt1MENtZ2o0NkZObTVMNmtFSTlkMmM4UEtaTVl2MWUzUHd6YTJqdUVE?oc=5",
+   "hint": "",
+   "nb": true
   },
   {
    "feedId": "nb-sribunruang",
@@ -328,7 +356,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-07T12:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiqARBVV95cUxQX2t1ODN4SzhRTjZnVldxcVEwamR1WWprbGw2NzRYbWZNdjMyVHk0Q1FXaGxvUVpnTVJTMzBQbWVjcjdvWjlzVXJ4XzFVWHdkNlBuUmRlN3FuXy1lTXcwTTA3aW1jM2pnMDRPa2E3SHN3UW9BUHB2VmFYZVpsOGlYSEphWFd3N1VKY29zZ2RGb1lLa3o5U2lCa2xTLXY2SHJvYTV3SnFrRHBiVE8xdUt4UGM2Sl9GcjEwT3lTUVNWdm1TQkE0R0xRMm5LM0FhODAzMml0TTBVTjNwREpseVNqWDFLeTF2cmpCNWVWc2stSUkxT0dDT29HeDhraVdvZWhmOEdBaUZFbmxCSmZTeDFsS3FrOEQ3bV83dFpQTzlRWUdVY256NF9nNkxRckZ6UzZQeDhHY1M3RWhXdnVNQkN2amFGNFhwN0lTZ2lJX0VudUFyOWpzV2ZRelNqU2J4QWs0d1JNNVhGQlhIX1hsNWhzdjk3V2JIVDdkb1RIcGplNnlEcmlBRWhvNXBGc0w5eG5lbmZLNkhDVV9fb2JPeW1TcDdCa2phREk3aUJLU3piUURlZ2gzWnU2S1EwZ3lIWU9hUklaeWVtdi1saWd4MDdkOG5XaFlaU0xscERIV0REX2IzNDl3czhjZmtjb3lMMU1oVk9vVUp5Vk92SkZ5UnNPbVJHVnp5VEtjRU1XR2xzWTh4ZmJpX0tLV2E0T3RlR29rbnYyVzBka3E?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiqARBVV95cUxQX2t1ODN4SzhRTjZnVldxcVEwamR1WWprbGw2NzRYbWZNdjMyVHk0Q1FXaGxvUVpnTVJTMzBQbWVjcjdvWjlzVXJ4XzFVWHdkNlBuUmRlN3FuXy1lTXcwTTA3aW1jM2pnMDRPa2E3SHN3UW9BUHB2VmFYZVpsOGlYSEphWFd3N1VKY29zZ2RGb1lLa3o5U2lCa2xTLXY2SHJvYTV3SnFrRHBiVE8xdUt4UGM2Sl9GcjEwT3lTUVNWdm1TQkE0R0xRMm5LM0FhODAzMml0TTBVTjNwREpseVNqWDFLeTF2cmpCNWVWc2stSUkxT0dDT29HeDhraVdvZWhmOEdBaUZFbmxCSmZTeDFsS3FrOEQ3bV83dFpQTzlRWUdVY256NF9nNkxRckZ6UzZQeDhHY1M3RWhXdnVNQkN2amFGNFhwN0lTZ2lJX0VudUFyOWpzV2ZRelNqU2J4QWs0d1JNNVhGQlhIX1hsNWhzdjk3V2JIVDdkb1RIcGplNnlEcmlBRWhvNXBGc0w5eG5lbmZLNkhDVV9fb2JPeW1TcDdCa2phREk3aUJLU3piUURlZ2gzWnU2S1EwZ3lIWU9hUklaeWVtdi1saWd4MDdkOG5XaFlaU0xscERIV0REX2IzNDl3czhjZmtjb3lMMU1oVk9vVUp5Vk92SkZ5UnNPbVJHVnp5VEtjRU1XR2xzWTh4ZmJpX0tLV2E0T3RlR29rbnYyVzBka3E?oc=5",
+   "hint": "Error code: 403 - Internal Server Error | Moovit",
+   "nb": true
   },
   {
    "feedId": "nb-sribunruang",
@@ -341,7 +371,9 @@
    "content": "",
    "imageUrl": "https://www.banmuang.co.th/uploads/news/img/l/497850_th.jpg",
    "published": "2026-11-13T06:54:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mNmRpdHdGVE56QWtwaWNMTGtKdm5ScHhCUkJkSDI3Y1dSWFRBUFg5WXhMUlowMmlZTnpoY0trTWE3bTZOaHJ0RlI4RjdKM1ZFME51enJsbzI?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mNmRpdHdGVE56QWtwaWNMTGtKdm5ScHhCUkJkSDI3Y1dSWFRBUFg5WXhMUlowMmlZTnpoY0trTWE3bTZOaHJ0RlI4RjdKM1ZFME51enJsbzI?oc=5",
+   "hint": "เปิดเสน่ห์ \"นาทม\" อำเภอต้องเที่ยว ชูพระพุทธมิ่งเมือง–สิมโบราณล้านช้าง ต้นมะม่วงร้อยปี ต่อยอดศรัทธาสร้างรายได้ชุมชน นครพนมเดินหน้าพัฒนาการท่องเที่ยวชุมชน ต้องเที่ยว (Unseen)” ชูวัดศรีบุญเรือง อำเภอนาทม แหล่งรวมศรัทธาและมรดกวัฒนธรรม โดดเด่นด้วยพระพุทธมิ่งเมืองน... บ้านเมือง - เปิดเสน่ห์ \"นาทม\" อำเภอต้องเที่ยว ชูพระพุทธมิ่งเมือง–สิมโบราณล้านช้าง ต้นมะม่วงร้อยปี ต่อยอดศรัทธาสร้างรายได้ชุมชน",
+   "nb": true
   },
   {
    "feedId": "nb-sribunruang",
@@ -354,7 +386,24 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-17T06:53:50+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tdnhtUXBSSzFfOTd2OVdSQm0tN1Q3aHFiWUY0cDNiTzlpMmJPa3FES0NHN1A4d0VVS1NuZ2ExTEJPOXR2WmZ5UTBySkRSSnRoZkRZSTEybGM2UmJ1amZCM2JZYW5pdWg4RjBqS2EwYkgxMGs?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tdnhtUXBSSzFfOTd2OVdSQm0tN1Q3aHFiWUY0cDNiTzlpMmJPa3FES0NHN1A4d0VVS1NuZ2ExTEJPOXR2WmZ5UTBySkRSSnRoZkRZSTEybGM2UmJ1amZCM2JZYW5pdWg4RjBqS2EwYkgxMGs?oc=5",
+   "hint": "",
+   "nb": true
+  },
+  {
+   "feedId": "nb-sribunruang",
+   "category": "ศรีบุญเรือง",
+   "source": "Google News",
+   "publisher": "Tnews - ทีนิวส์",
+   "title": "ผงะริมโขง! เจอยาบ้า 10 กระสอบ ซุกริมฝั่งธาตุพนม รวม 4 ล้านเม็ด - Tnews",
+   "link": "https://www.tnews.co.th/social/social-news/662074",
+   "summary": "ที่มา: Tnews - ทีนิวส์",
+   "content": "",
+   "imageUrl": "https://image.tnews.co.th/uploads/images/md/2026/10/uKpPtsUqXm6byLHgduaW.webp",
+   "published": "2026-10-21T07:00:00+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MT2NmNmdoODZtWF9WTnhtQmZHSERhUTlrYWtzU3k4MWJSaV9ETk03Nk5TaXVLaWE2Q3I5VUhIYTRBZDVVR3dQaHR3SEdfV0w3QUQ3WFlhYjd6cVdYVHc?oc=5",
+   "hint": "ผงะริมโขง! เจอยาบ้า 10 กระสอบ ซุกริมฝั่งธาตุพนม รวม 4 ล้านเม็ด กองกำลังสุรศักดิ์มนตรีตรวจยึดยาบ้า 4 ล้านเม็ด บรรจุ 10 กระสอบ บริเวณริมแม่น้ำโขง บ้านศรีบุญเรือง อ.ธาตุพนม จ.นครพนม ผงะริมโขง! เจอยาบ้า 10 กระสอบ ซุกริมฝั่งธาตุพนม รวม 4 ล้านเม็ด",
+   "nb": true
   },
   {
    "feedId": "nb-suwannakhuha",
@@ -367,7 +416,9 @@
    "content": "",
    "imageUrl": "https://www.talknewsonline.com/wp-content/uploads/2026/07/88480.jpg",
    "published": "2026-11-06T18:17:50+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmWFNRUTVQQjZMZU1Oal80VU1NbzNnSm5BTzJZUEVBOGRYQ0xCOW9TZ1VlWHVKQ1RaOEcxMVVENjJncEh5eEZwUnJDYk50X2VtYzBnMw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmWFNRUTVQQjZMZU1Oal80VU1NbzNnSm5BTzJZUEVBOGRYQ0xCOW9TZ1VlWHVKQ1RaOEcxMVVENjJncEh5eEZwUnJDYk50X2VtYzBnMw?oc=5",
+   "hint": "พังงา-ชาวพุทธตะกั่วทุ่งร่วมสืบสานประเพณีแห่ผ้าห่มพระพุทธไสยาสน์ วัดสุวรรณคูหา เนื่องในวันอาสาฬหบูชา - Talknews Online เมื่อวันที่ 29 กรกฎาคม 2 พังงา-ชาวพุทธตะกั่วทุ่งร่วมสืบสานประเพณีแห่ผ้าห่มพระพุทธไสยาสน์ วัดสุวรรณคูหา เนื่องในวันอาสาฬหบูชา - Talknews Online",
+   "nb": true
   },
   {
    "feedId": "nb-suwannakhuha",
@@ -380,7 +431,9 @@
    "content": "",
    "imageUrl": "https://image.tnews.co.th/uploads/images/md/2026/11/DdwiJcnEnAdZPQLgl0vD.webp",
    "published": "2026-11-18T12:26:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55YVhEOXp6ZjF0MzEwSTJsZkpHSjMxU2puVUJfNkQ3VUI1SDFLYWhyMjdpYXBacHVEelhvbDk5YllnQjgtTmt2TE80VDBHcHVRM0lvbklDd0ZENVQ5dVE?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55YVhEOXp6ZjF0MzEwSTJsZkpHSjMxU2puVUJfNkQ3VUI1SDFLYWhyMjdpYXBacHVEelhvbDk5YllnQjgtTmt2TE80VDBHcHVRM0lvbklDd0ZENVQ5dVE?oc=5",
+   "hint": "ฮือฮา วัว 3 เขา 3 ตา มาอยู่วัดไม่นาน เจอแต่เรื่องแปลก รู้ความเป็นมาตกใจ ชาวบ้านแห่ชมความแปลกของ “คำก้อม” วัวพื้นเมืองเพศผู้ที่มี 3 เขา 3 ตา หลังมาอยู่ที่วัดท่าช้าง ด้านพระเผยเหตุการณ์ที่เกิดขึ้นกับช้างพลาย 3 เชือกในวันเดียวกัน ฮือฮา วัว 3 เขา 3 ตา มาอยู่วัดไม่นาน เจอแต่เรื่องแปลก รู้ความเป็นมาตกใจ",
+   "nb": false
   },
   {
    "feedId": "nb-nawang",
@@ -393,7 +446,9 @@
    "content": "",
    "imageUrl": "https://www.hfocus.org/sites/default/files/styles/hfocus_super_cover/public/2026-11/phuuenthii.jpg?itok=H1LevVQ1",
    "published": "2026-11-04T08:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Rbnk2eHk5d25IdXdRY3E0WUFvc1loWWVmTlBEQzE0Z2t0WXpwYnNHNy1QRDVnejg5blBGQ1kyeEdQcG5INjhCQmRvbGsya2Fwb2gzblplQQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Rbnk2eHk5d25IdXdRY3E0WUFvc1loWWVmTlBEQzE0Z2t0WXpwYnNHNy1QRDVnejg5blBGQ1kyeEdQcG5INjhCQmRvbGsya2Fwb2gzblplQQ?oc=5",
+   "hint": "เปิดพื้นที่เป้าหมาย 108 อำเภอ 76 จังหวัด เดินหน้าปฏิรูป ‘ระบบสุขภาพปฐมภูมิ’ ปี 70 | Hfocus เปิดรายชื่อพื้นที่เป้าหมาย 108 อำเภอ 76 จังหวัด เดินหน้าปฏิรูป ‘ระบบสุขภาพปฐมภูมิ’ ปี 2570 กางงบ Primary Care Fund 500 บาท/คน ให้บริการประชาชน 6 ด้านเป็นหมอประจำตัว ประจำครอบครัว เผยเป้าหมาย พร้อมตั้งเป้าจัดกำลังคนด้านสุขภาพ ทั้งแพทย์แฟมเมด สหวิชาชีพ ฯลฯ เปิดพื้นที่เป้าหมาย 108 อำเภอ 76 จังหวัด เดินหน้าปฏิรู",
+   "nb": false
   },
   {
    "feedId": "nb-nawang",
@@ -406,7 +461,9 @@
    "content": "",
    "imageUrl": "https://ratchaburi.prd.go.th/th/file/get/file/20261104e03255709fbf8eb671ddb03fb2495c41085743.jpg",
    "published": "2026-11-04T08:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FU1NnWk1vMTZDbXF1dFYyZGdueWFYRDFKMTZULWRHcVd2RWFPLVNLVlR5TUg1YjMtWEsyNkpoRGREc2l2dkRnQ2pfcWUzSnJnbFI4VURXNFpMUXBPR0pnZkNEZ2FBRXI1TW5HVTRST2dYd3VscG1DeUxZbnc?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FU1NnWk1vMTZDbXF1dFYyZGdueWFYRDFKMTZULWRHcVd2RWFPLVNLVlR5TUg1YjMtWEsyNkpoRGREc2l2dkRnQ2pfcWUzSnJnbFI4VURXNFpMUXBPR0pnZkNEZ2FBRXI1TW5HVTRST2dYd3VscG1DeUxZbnc?oc=5",
+   "hint": "ครม.สัญจร อุดรธานี เดินหน้า 4 มิติพัฒนาอีสานตอนบน 1 ยกระดับเกษตร พัฒนาการค้าชายแดน ส่งเสริมการท่องเที่ยว แก้ไขปัญหายาเสพติด ครม.สัญจร อุดรธานี เดินหน้า 4 มิติพัฒนาอีสานตอนบน 1 ยกระดับเกษตร พัฒนาการค้าชายแดน ส่งเสริมการท่องเที่ยว แก้ไขปัญหายาเสพติด",
+   "nb": false
   },
   {
    "feedId": "nb-travel",
@@ -419,7 +476,9 @@
    "content": "",
    "imageUrl": "https://medias.thansettakij.com/uploads/images/md/2026/11/9xXFFrM9m0i453gQuEHe.webp",
    "published": "2026-11-01T07:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fdER5SFZab3BkLV9IZmoyenFYSnRiLVpOSEpxak1RTGpuMjMyZzRUcE44dlRXSTVISEt4dUtBbVpZbS04MkNCbHFpc195NWVldkktQ3lR?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fdER5SFZab3BkLV9IZmoyenFYSnRiLVpOSEpxak1RTGpuMjMyZzRUcE44dlRXSTVISEt4dUtBbVpZbS04MkNCbHFpc195NWVldkktQ3lR?oc=5",
+   "hint": "ททท.ต่อยอด 'พืชสวนโลก 2569' ดันเส้นทางท่องเที่ยวเชื่อมจังหวัดรอบอุดรธานี ททท. ต่อยอดเส้นทางท่องเที่ยวเชื่อมจังหวัดรอบอุดรธานี ใช้พืชสวนโลก 2569 กระตุ้นนักท่องเที่ยวไทย-ต่างชาติ 3.6 ล้านคน สร้างสะพัด 3.2 หมื่นล้าน สลายอุปสรรค กระจายรายได้สู่ชุมชนบ้านโนนกอก-คีรีวงกต ปั้นเมืองฮับท่องเที่ยวอีสานตอนบน ททท.ต่อยอด 'พืชสวนโลก 2569' ดันเส้นทางท่องเที่ยวเชื่อมจังหวัดรอบอุดรธานี",
+   "nb": false
   },
   {
    "feedId": "nb-travel",
@@ -432,7 +491,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-14T09:03:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TbEZjLXRuWHBxOGs4MmhvOEdqd3VETXMteDVUaHhHcElZak9sTnBGSG1jME1qQkVLRm5OWl8tWW5sMjlWZFRmNmc3bDZQVVl5S1Jr?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TbEZjLXRuWHBxOGs4MmhvOEdqd3VETXMteDVUaHhHcElZak9sTnBGSG1jME1qQkVLRm5OWl8tWW5sMjlWZFRmNmc3bDZQVVl5S1Jr?oc=5",
+   "hint": "Just a moment...",
+   "nb": true
   },
   {
    "feedId": "nb-travel",
@@ -445,7 +506,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-01T07:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFSTM1bkVpbkUzeklHYzE0aEZyM1NtWVJyZmdRRDh6cy0taEZ1TkNHUUEweHc1eWxjMTdvSmVjY3hnbXZQV3BrbjdOSDBtdXVGeTQ4ZGc3RjFaZWVqelN4bTVoQjV2UQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFSTM1bkVpbkUzeklHYzE0aEZyM1NtWVJyZmdRRDh6cy0taEZ1TkNHUUEweHc1eWxjMTdvSmVjY3hnbXZQV3BrbjdOSDBtdXVGeTQ4ZGc3RjFaZWVqelN4bTVoQjV2UQ?oc=5",
+   "hint": "ERROR: The request could not be satisfied",
+   "nb": false
   },
   {
    "feedId": "nb-travel",
@@ -458,7 +521,9 @@
    "content": "",
    "imageUrl": "https://thestandard.co/wp-content/uploads/2026/11/cabinet-retreat-udon-thani-cover-1.jpg",
    "published": "2026-11-03T08:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiVUxybWs4TThKaTdzVjlIXzZXaTRNanNHR09qTnRXUXAtMU5pbEhiVGtQcVFfdWx5Sm9rOFBKS2JqUmNaU3JHYnprN1BLN2ZnWXNfQTl3V0lxTUJ1WV82b1B2dlhyQ0h6ZHc?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiVUxybWs4TThKaTdzVjlIXzZXaTRNanNHR09qTnRXUXAtMU5pbEhiVGtQcVFfdWx5Sm9rOFBKS2JqUmNaU3JHYnprN1BLN2ZnWXNfQTl3V0lxTUJ1WV82b1B2dlhyQ0h6ZHc?oc=5",
+   "hint": "นายกฯ สรุป ครม.สัญจรอุดรฯ ดันอีสานตอนบนเป็นฐานผลิตอาหารโลก เล็งบึงกาฬเป็นเขตเศรษฐกิจชายแดน เร่งท่องเที่ยว-ปราบยาเสพติด อนุทิน ชาญวีรกูล สรุปผล ครม.สัญจร อุดรธานี เน้นพัฒนาอีสานตอนบน 4 มิติ ดันเป็นฐานผลิตอาหารโลก พร้อมศึกษาบึงกาฬเป็นเขตเศรษฐกิจชายแดน นายกฯ สรุป ครม.สัญจรอุดรฯ ดันอีสานตอนบนเป็นฐานผลิตอาหารโลก",
+   "nb": false
   },
   {
    "feedId": "nb-travel",
@@ -471,20 +536,9 @@
    "content": "",
    "imageUrl": "https://medias.thansettakij.com/uploads/images/md/2026/10/O7tZELYrIJf1mynXiGU8.webp",
    "published": "2026-10-27T07:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zVHpDUzlReFA3cHdqN1p6NnZBUU13ZlJ6WTV5d3FFb2RTQ2pCMkdyNXNJbUtNRXNYR2VVV01Ec2JjWm1GWFU3a2xjTWFiMF9IdmF5TDFxN25QcVQ4UnRseXotNURMbXIzVkFkYmd3?oc=5"
-  },
-  {
-   "feedId": "nb-farm",
-   "category": "เกษตร",
-   "source": "Google News",
-   "publisher": "สภาอุตสาหกรรมแห่งประเทศไทย",
-   "title": "ส.อ.ท. ชง Thailand Food Valley ยกระดับเกษตรแปรรูปมูลค่าสูง ขับเคลื่อนเศรษฐกิจกลุ่มจังหวัดภาคตะวันออกเฉียงเหนือตอนบน 1 (อุดรธานี บึงกาฬ เลย หนองคาย หนองบัวลำภู) ผ่านเวที กรอ. กลุ่มจังหวัด",
-   "link": "https://fti.or.th/news/1734-fti-proposes-thailand-food-valley-to-elevate-high-value",
-   "summary": "ที่มา: สภาอุตสาหกรรมแห่งประเทศไทย",
-   "content": "",
-   "imageUrl": "https://fti-website-tv5ka.sevalla.storage/news/banner/1793590460301-1.webp",
-   "published": "2026-11-01T07:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOem1QZWJwSFh3dV9PYjJSWTI4WmxJdm54clkxem1tRFZGTF82NmxpUnViTnVPRlNYR051ckZsV25KQzRsMklrX1UzaTExdUpuQUxIVVUxM0ZHTUlRbWY1UUxLTnJ4UkJBMXVxRUdVTWMtVjFQRU9YTmcyTzZQOGJQYTIzN2k2Z20tOW04?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zVHpDUzlReFA3cHdqN1p6NnZBUU13ZlJ6WTV5d3FFb2RTQ2pCMkdyNXNJbUtNRXNYR2VVV01Ec2JjWm1GWFU3a2xjTWFiMF9IdmF5TDFxN25QcVQ4UnRseXotNURMbXIzVkFkYmd3?oc=5",
+   "hint": "พืชสวนโลกอุดรธานี 2569 สรุปวิธีเดินทาง รถส่วนตัว-สาธารณะ มัดรวมวิธีเดินทางไปมหกรรมพืชสวนโลกอุดรธานี 2569 เช็กเลยรถส่วนตัว ขนส่งสาธารณะ และรถไฟ เส้นทางไหน จุดจอดรถมีหรือไม่ พืชสวนโลกอุดรธานี 2569 สรุปวิธีเดินทาง รถส่วนตัว-สาธารณะ",
+   "nb": false
   },
   {
    "feedId": "nb-farm",
@@ -497,7 +551,24 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-01T07:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiswRBVV95cUxQbFc3Y0w2TkR3eHZIaGkzV1M5YWFqelBYQlNPTFk1ZGdONG80Z2hTSndiNFpLcFhBbHktS1paQ0t1TGpoOEZaTWlpRXlqZDBfVzZoNDY5VUw5VzNZOVFFTHZ4MGtGcXNpbnB6NnVxdlZibGpRU1RFNV8yV2JXVFRiQkUzdHoxMXZ3bUVTdnFlTmw5OWtfNmcxc2ZkaDRUY1UzRGZULTladTlLelFTczE2V1lRd3liNWhlb1Q5QkNJUHM2VkRGeFpMM0dGRkNtbUZHbUVHZG1Ja3NEeld0Tl9yOHVubVZHeV91WnBiamJTeURfX3RuWmpBWVIzY1ZpZWRvNXNzVkgtSjF3ZzFJU1VoZVZjdTQteTVrOEVQbE0yQ2E2cFpoMWNVTnc0MkdWRU45ZDI4cGNSdU9Ub01JTW9NYVpRQ2Zna01QX2tSRkh3NWVuOHZDbGxESHlqUXN5Nk5BNHpnOVZiQnJVenVqRFRsNm5mVndESWpER0V3dlk0cXhNd3VCVzVPb2xaaVBqWGlsR0dtdzE0ZmNsS0oxTWxMVlNLN3lhVnJ5TWhXSy1oVGI2bU1yM2JmVXVLLUN2MHVDR2dNUDR5QWdmWFZTRE1WcEJJQTJMNGJXSC1VMGtHWXlSYWxLNXpSQUNld2FKVTFEWFZoemhtazRVbV9qa1RDeXhfZWZSVHU5ZktBV0xfaDV3LV9OXzloY3JQWFp4cmtRdTNzN2Zsa3pvWUZBOGFMV2RNRQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiswRBVV95cUxQbFc3Y0w2TkR3eHZIaGkzV1M5YWFqelBYQlNPTFk1ZGdONG80Z2hTSndiNFpLcFhBbHktS1paQ0t1TGpoOEZaTWlpRXlqZDBfVzZoNDY5VUw5VzNZOVFFTHZ4MGtGcXNpbnB6NnVxdlZibGpRU1RFNV8yV2JXVFRiQkUzdHoxMXZ3bUVTdnFlTmw5OWtfNmcxc2ZkaDRUY1UzRGZULTladTlLelFTczE2V1lRd3liNWhlb1Q5QkNJUHM2VkRGeFpMM0dGRkNtbUZHbUVHZG1Ja3NEeld0Tl9yOHVubVZHeV91WnBiamJTeURfX3RuWmpBWVIzY1ZpZWRvNXNzVkgtSjF3ZzFJU1VoZVZjdTQteTVrOEVQbE0yQ2E2cFpoMWNVTnc0MkdWRU45ZDI4cGNSdU9Ub01JTW9NYVpRQ2Zna01QX2tSRkh3NWVuOHZDbGxESHlqUXN5Nk5BNHpnOVZiQnJVenVqRFRsNm5mVndESWpER0V3dlk0cXhNd3VCVzVPb2xaaVBqWGlsR0dtdzE0ZmNsS0oxTWxMVlNLN3lhVnJ5TWhXSy1oVGI2bU1yM2JmVXVLLUN2MHVDR2dNUDR5QWdmWFZTRE1WcEJJQTJMNGJXSC1VMGtHWXlSYWxLNXpSQUNld2FKVTFEWFZoemhtazRVbV9qa1RDeXhfZWZSVHU5ZktBV0xfaDV3LV9OXzloY3JQWFp4cmtRdTNzN2Zsa3pvWUZBOGFMV2RNRQ?oc=5",
+   "hint": "Error Facebook",
+   "nb": false
+  },
+  {
+   "feedId": "nb-farm",
+   "category": "เกษตร",
+   "source": "Google News",
+   "publisher": "สภาอุตสาหกรรมแห่งประเทศไทย",
+   "title": "ส.อ.ท. ชง Thailand Food Valley ยกระดับเกษตรแปรรูปมูลค่าสูง ขับเคลื่อนเศรษฐกิจกลุ่มจังหวัดภาคตะวันออกเฉียงเหนือตอนบน 1 (อุดรธานี บึงกาฬ เลย หนองคาย หนองบัวลำภู) ผ่านเวที กรอ. กลุ่มจังหวัด",
+   "link": "https://fti.or.th/news/1734-fti-proposes-thailand-food-valley-to-elevate-high-value",
+   "summary": "ที่มา: สภาอุตสาหกรรมแห่งประเทศไทย",
+   "content": "",
+   "imageUrl": "https://fti-website-tv5ka.sevalla.storage/news/banner/1793590460301-1.webp",
+   "published": "2026-11-01T07:00:00+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOem1QZWJwSFh3dV9PYjJSWTI4WmxJdm54clkxem1tRFZGTF82NmxpUnViTnVPRlNYR051ckZsV25KQzRsMklrX1UzaTExdUpuQUxIVVUxM0ZHTUlRbWY1UUxLTnJ4UkJBMXVxRUdVTWMtVjFQRU9YTmcyTzZQOGJQYTIzN2k2Z20tOW04?oc=5",
+   "hint": "ส.อ.ท. ชง Thailand Food Valley ยกระดับเกษตรแปรรูปมูลค่าสูง ขับเคลื่อนเศรษฐกิจกลุ่มจังหวัดภาคตะวันออกเฉียงเหนือตอนบน 1 (อุดรธานี บึงกาฬ เลย หนองคาย หนองบัวลำภู) ผ่านเวที กรอ. กลุ่มจังหวัด เมื่อวันที่ 1 พฤศจิกายน 2569 นายศักดิ์ชัย อุ่นจิตติกุล รองประธานอาวุโสสภาอุตสาหกรรมแห่งประเทศไทย (ส.อ.ท.) และนายมนัสชัย สกัดกลาง ประธานสภาอุตสาหกรรมกลุ่มจังหวัดภาคตะวันออกเฉียงเหนือตอนบน 1 พร้อมด้วยประธานสภาอุตสาห",
+   "nb": true
   },
   {
    "feedId": "nb-farm",
@@ -510,7 +581,9 @@
    "content": "",
    "imageUrl": "https://www.commercenewsagency.com/media/resize/uploads/2026/11/6ae846bb00698-1200x630.jpg?quality=80",
    "published": "2026-11-02T08:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aNWhPaGJHSDl1VzBtTlUtb1EwNm45a1ZoZkNXUXZYdkJjY2ZOalI4RURpaG5PekZyVHRzTHM2VFBpcFRNemtuWnpfRjlLaVlFUUhnMmpSZw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aNWhPaGJHSDl1VzBtTlUtb1EwNm45a1ZoZkNXUXZYdkJjY2ZOalI4RURpaG5PekZyVHRzTHM2VFBpcFRNemtuWnpfRjlLaVlFUUhnMmpSZw?oc=5",
+   "hint": "​“ศุภจี”ตรวจเยี่ยม Moc Market หลังนำสินค้าเกษตร-ชุมชน ขายที่ท่าอากาศยานอุดรธานี “ศุภจี”นำทีมพาณิชย์ ตรวจเยี่ยม Moc Market ณ ท่าอากาศยานอุดรธานี ช่วงเดินทางไปประชุม ครม.สัญจร เพื่อติดตามผลการเพิ่มช่องทางการตลาดให้กับสินค้าเกษตร สินค้าชุมชน และผลิตภัณฑ์ท้องถิ่น เผยช่วยเพิ่มรายได้ให้กับชุมชน นักเดินทางมีโอกาสซื้อสินค้าที่หลากหลาย เตรียมจัดต่อในปี 70 ที่อุดรธานี หนองคาย หนองบัวลำภู และบึงกาฬ จังหวัดละ",
+   "nb": true
   },
   {
    "feedId": "nb-farm",
@@ -523,7 +596,9 @@
    "content": "",
    "imageUrl": "https://today-obs.line-scdn.net/0hC_gc6QaoHHBaGgD-nxNjJ2JMEAFpfAZ5eHsHE34SEEAnNl0mYX5PEywcRVwnIlwkenoHFyxIRUgiKAgkZA/w1200",
    "published": "2026-11-03T08:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aZTQwYm51WjNBX01TM3VwVTItOXFCTkE2N1FLTWQ0cEh3MmNVYjFpUFlEQ2RIYWI1WFBDZ056MzZjWUVxSUc5TFBZX29fV2VING9BWVRR?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aZTQwYm51WjNBX01TM3VwVTItOXFCTkE2N1FLTWQ0cEh3MmNVYjFpUFlEQ2RIYWI1WFBDZ056MzZjWUVxSUc5TFBZX29fV2VING9BWVRR?oc=5",
+   "hint": "นายกฯ ประชุม ครม.สัญจรอุดรฯ วางเกษตรเป็นวาระแห่งชาติ มุ่งสร้างความมั่นคงทางอาหาร | The Reporters | LINE TODAY นายกฯ นำ ครม.สัญจรอุดรฯ สวมผ้าหมี่ขิดประชุม วางเกษตรเป็นวาระแห่งชาติ มุ่งสร้างความมั่นคงทางอาหาร เพิ่มมูลค่าสินค้าเกษตร รับมือภัยไซเบอร์กระทบซัพพล... นายกฯ ประชุม ครม.สัญจรอุดรฯ วางเกษตรเป็นวาระแห่งชาติ มุ่งสร้างความมั่นคงทางอาหาร | The Reporters | LINE TODAY",
+   "nb": false
   },
   {
    "feedId": "nb-farm",
@@ -536,7 +611,24 @@
    "content": "",
    "imageUrl": "https://image.bangkokbiznews.com/uploads/images/md/2026/11/sMZlRICA3tXam5A6F8LF.webp",
    "published": "2026-11-02T02:02:44+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03ZkJWeFltMzdjOHV4SF9pX2lJTHM3NWdaT0Z4THpSV19GUktfWl8xVnU4STNnVkNrNjhSc24wVE5DVHU0ajVfMVRPaVFSLXEzNXQtNVpLVy16N0ts?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03ZkJWeFltMzdjOHV4SF9pX2lJTHM3NWdaT0Z4THpSV19GUktfWl8xVnU4STNnVkNrNjhSc24wVE5DVHU0ajVfMVRPaVFSLXEzNXQtNVpLVy16N0ts?oc=5",
+   "hint": "กรอ.อีสานตอนบน1 ถก 170 โครงการ 7.8 หมื่นล้าน ชง ’ครม.สัญจร อุดรธานี’ 3 พ.ย. กรอ.อีสานตอนบน 1 ถกข้อเสนอ 170 โครงการ กว่า 7.8 หมื่นล้าน เฟ้นโครงการสำคัญ ชง ครม.สัญจร อุดรธานี 3 พ.ย. นี้ ตั้งเป้ายกระดับเกษตรมูลค่าสูง-ค้าชายแดน กรอ.อีสานตอนบน1 ถก 170 โครงการ 7.8 หมื่นล้าน ชง ’ครม.สัญจร อุดรธานี’ 3 พ.ย.",
+   "nb": false
+  },
+  {
+   "feedId": "nb-farm",
+   "category": "เกษตร",
+   "source": "Google News",
+   "publisher": "thairath.co.th",
+   "title": "รัฐบาลเดินหน้ายกระดับเกษตรไทยสู่เศรษฐกิจคาร์บอนต่ำ ขับเคลื่อน Net Zero 2050",
+   "link": "https://www.thairath.co.th/news/politic/2970219",
+   "summary": "ที่มา: thairath.co.th",
+   "content": "",
+   "imageUrl": "",
+   "published": "2026-11-03T08:00:00+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rUERvNGpfTU56SE1JWWJOZEkwTzMzN3dneEZpYjRVVkEzVjFhMFhpeEVfYTdaVVQyc1RHR1NnaV9Td2UxMm5QTHlKMWxlY0dYVzNNNWl1cmRqRmc?oc=5",
+   "hint": "ERROR: The request could not be satisfied",
+   "nb": false
   },
   {
    "feedId": "nb-farm",
@@ -549,7 +641,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-04T10:49:18+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CREl1MkEzSnVWQlhHVVBqZEFYekFXT2NTOGxYWVI2dkNQVjNaMGZzaEtTRDBELWc4R3dNczBvNE1UVlNXTEFuSVhlTDVpOVE?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CREl1MkEzSnVWQlhHVVBqZEFYekFXT2NTOGxYWVI2dkNQVjNaMGZzaEtTRDBELWc4R3dNczBvNE1UVlNXTEFuSVhlTDVpOVE?oc=5",
+   "hint": "Just a moment...",
+   "nb": false
   },
   {
    "feedId": "nb-all",
@@ -562,7 +656,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-19T09:07:33+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUMV8yRU8za2ZFV3dvVVdfZVhhZEhzN1lzbWhyQ0JHanFDLUVaSF9pYU1CdkJRNkh5aUxtak14SkRQR09feE1wMHM4azhaaXpuV2gxS1UyblNEUQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUMV8yRU8za2ZFV3dvVVdfZVhhZEhzN1lzbWhyQ0JHanFDLUVaSF9pYU1CdkJRNkh5aUxtak14SkRQR09feE1wMHM4azhaaXpuV2gxS1UyblNEUQ?oc=5",
+   "hint": "Attention Required! | Cloudflare",
+   "nb": true
   },
   {
    "feedId": "nb-all",
@@ -575,7 +671,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-16T08:34:13+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zMGF2X1hnbEttei0ta0M2SWhkb0o4SDczQjlMLUxDdlJnbktzWTZjTHIyVjRBMDhMQThnZXVUdW1OaEtNOWhkSUMyT3d0Z2lRdEpsTVlUN3p4Zw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zMGF2X1hnbEttei0ta0M2SWhkb0o4SDczQjlMLUxDdlJnbktzWTZjTHIyVjRBMDhMQThnZXVUdW1OaEtNOWhkSUMyT3d0Z2lRdEpsTVlUN3p4Zw?oc=5",
+   "hint": "Attention Required! | Cloudflare",
+   "nb": true
   },
   {
    "feedId": "nb-all",
@@ -588,7 +686,9 @@
    "content": "",
    "imageUrl": "https://www.banmuang.co.th/uploads/news/img/l/498041_th.png",
    "published": "2026-11-16T06:48:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pZWdqMEFCenBVdGdQLUtRTHdyS0U2RjZtZzJHZFcyb2lHUm5wVkpaWDZKYjNhS29XTWJ2ZWgwNFFMVElKQUxFSXBmNC10STBLcl9uUTBwcGUzYjZ4U3NEUVY4aUxmUQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pZWdqMEFCenBVdGdQLUtRTHdyS0U2RjZtZzJHZFcyb2lHUm5wVkpaWDZKYjNhS29XTWJ2ZWgwNFFMVElKQUxFSXBmNC10STBLcl9uUTBwcGUzYjZ4U3NEUVY4aUxmUQ?oc=5",
+   "hint": "สพม.เลย หนองบัวลำภู สอบครูผู้ช่วย สพม.เลย หนองบัวลำภู สอบครูผู้ช่วย ดร.กานนท์ แสนเภา ประธาน อ.ก.ค.ศ. เขตพื้นที่การศึกษามัธยมศึกษาเลย หนองบัวลำภู ลงพื้นที่ตรวจเยี่ยมและกำกับดูแลความเรีย... บ้านเมือง - สพม.เลย หนองบัวลำภู สอบครูผู้ช่วย",
+   "nb": true
   },
   {
    "feedId": "nb-all",
@@ -601,7 +701,9 @@
    "content": "",
    "imageUrl": "https://www.thecoverage.info/sites/default/files/styles/super_cover/public/image/2026-11/untitled-1_8.jpg?itok=C810e_Tq",
    "published": "2026-11-13T07:40:58+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95UjF3c1otZUpUemJETzA4OEpXa29fVFBoUUVHdWRnSklDOVRYaDJybFlOV2xuWUhBaEhUdU9uS2tlUWNTQjdjTURtYk93Z0ZEaDZ1cUd4UDFiQ0E?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95UjF3c1otZUpUemJETzA4OEpXa29fVFBoUUVHdWRnSklDOVRYaDJybFlOV2xuWUhBaEhUdU9uS2tlUWNTQjdjTURtYk93Z0ZEaDZ1cUd4UDFiQ0E?oc=5",
+   "hint": "5 อบจ. 5 โมเดลพัฒนา ‘รพ.สต.หลังถ่ายโอน’ พร้อมเผยปัญหาที่ยังต้องเผชิญทั้ง ‘คน-เงิน-ที่ดิน’ | TheCoverage 5 อบจ. แชร์แนวทางพัฒนา “ระบบสุขภาพปฐมภูมิ” หลังรับถ่ายโอน รพ.สต. “อบจ.กาญจนบุรี” ชู รพ.สต.พรีเมียม ลดป่วย ลดภาระโรงพยาบาล “อบจ.ลำปาง” พัฒนาระบบเทเลเมดิซีน ส่วน “อบจ.ชลบุรี” ขอเดินหน้า Smart รพ.สต. เสริมแพทย์-ทันตแพทย์เข้าสังกัด ขณะที่ “อบจ.หนองบัวลำภู” ใช้ข้อมูลสุขภาพขับเคลื่อนลด NCDs และ “อบจ.ภ",
+   "nb": true
   },
   {
    "feedId": "nb-all",
@@ -614,7 +716,9 @@
    "content": "",
    "imageUrl": "https://www.spaceref.com/images/meteo-nong-bua-lamphu.jpg",
    "published": "2026-11-14T09:29:19+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPUnFLWGd5cExTWXlSUzJwSXE1anJxRzZfemM1YlBIbkpQaUJTUWF2cXlOclVuLVl2eEVDS0IwZXRYeW1Qa3R6VnpjeExTNmpsdG9xdE95a0RWMUZEaXRuLVhBMXRLWFA1YlQtYnhyd08wNENLX0diQ2VuUTJuWk9PQkxnOEpvdUJ6Z2xubGt5akRCOW5lcm9BQ29GdzhiQnlVemQ4NGtpTkxoY3lsVGU4NlAwUmpsVURUd2lXTE1vQ0wzWndsNG9fQ3VfbXZLeEtxWDl4ZUs3SWVKVjRaaHVhQUVjOFJ5VGp3RVFMeHFqM095cDhsdWFrRzJlcHQ4N29JTFVaLVMzbUVTYVFRamlmWnpicDM4YWJ3S3FjdGZLaUxoZHNCT1hJb0wtM3huUUNNWWR4ajNOWHR4dw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPUnFLWGd5cExTWXlSUzJwSXE1anJxRzZfemM1YlBIbkpQaUJTUWF2cXlOclVuLVl2eEVDS0IwZXRYeW1Qa3R6VnpjeExTNmpsdG9xdE95a0RWMUZEaXRuLVhBMXRLWFA1YlQtYnhyd08wNENLX0diQ2VuUTJuWk9PQkxnOEpvdUJ6Z2xubGt5akRCOW5lcm9BQ29GdzhiQnlVemQ4NGtpTkxoY3lsVGU4NlAwUmpsVURUd2lXTE1vQ0wzWndsNG9fQ3VfbXZLeEtxWDl4ZUs3SWVKVjRaaHVhQUVjOFJ5VGp3RVFMeHFqM095cDhsdWFrRzJlcHQ4N29JTFVaLVMzbUVTYVFRamlmWnpicDM4YWJ3S3FjdGZLaUxoZHNCT1hJb0wtM3huUUNNWWR4ajNOWHR4dw?oc=5",
+   "hint": "พยากรณ์อากาศรายชั่วโมงสำหรับ บ้านหนองปิง, หนองบัวลำภู | SpaceRef ตรวจสอบพยากรณ์อากาศรายชั่วโมงสำหรับ บ้านหนองปิง, หนองบัวลำภู ดูอุณหภูมิ ฝน ลม ความชื้น ดัชนีรังสียูวี คุณภาพอากาศ และพยากรณ์อากาศ 15 วัน พยากรณ์อากาศรายชั่วโมงสำหรับ บ้านหนองปิง, หนองบัวลำภู | SpaceRef",
+   "nb": true
   },
   {
    "feedId": "nb-all",
@@ -627,7 +731,9 @@
    "content": "",
    "imageUrl": "https://siamrath.co.th/assets/10548812-1076-4977-a624-69e60ed365be?width=680&quality=80&format=webp",
    "published": "2026-11-17T05:38:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IMXZib3E3UnlydVVoVFUxUW9uTGJTOUxhUGlfdDU4M19MUlQyeG1xRklkMHFrZTFpUVR4TmltZ0RXTENmd28wQTRoUXN3N0U?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IMXZib3E3UnlydVVoVFUxUW9uTGJTOUxhUGlfdDU4M19MUlQyeG1xRklkMHFrZTFpUVR4TmltZ0RXTENmd28wQTRoUXN3N0U?oc=5",
+   "hint": "à¸à¸³à¸£à¸§à¸à¸à¸¸à¸à¸à¸±à¸à¸à¸¥à¸²à¸à¸à¸²à¸à¸¥à¸­à¸¢à¸à¸£à¸°à¸à¸! à¸£à¸§à¸à¸«à¸à¸¸à¹à¸¡à¹à¸à¸´à¸à¹à¸¥à¹à¸à¸à¸à¸±à¸à¸¢à¸´à¸à¹à¸à¹à¸²à¹à¸à¹à¸à¹à¸à¸´à¸ 40 à¸à¸²à¸à¸à¹à¸­à¸£à¸­à¸ - à¸ªà¸¢à¸²à¸¡à¸£à¸±à¸ à¸à¸³à¸£à¸§à¸ à¸ªà¸ .à¹à¸¡à¸·à¸­à¸à¸«à¸à¸­à¸à¸à¸±à¸§à¸¥à¸³à¸ à¸¹ à¸à¸¸à¸à¸à¸±à¸à¸«à¸à¸¸à¹à¸¡à¸§à¸±à¸¢ 28 à¸à¸µ à¸¥à¸±à¸à¸¥à¸­à¸à¸à¸±à¸à¸à¸²à",
+   "nb": false
   },
   {
    "feedId": "nb-all",
@@ -640,7 +746,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-14T12:53:10+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15R2tVc1NqTHJPR1NUb0JOeEQ5NEF3MjJkYk8wbF9RVGI1SXEtZVdvMTJ4YlpoRm1ZYjBIY1BpMDV3TmFrM01tZlh3MzU3MjlSbXU4?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15R2tVc1NqTHJPR1NUb0JOeEQ5NEF3MjJkYk8wbF9RVGI1SXEtZVdvMTJ4YlpoRm1ZYjBIY1BpMDV3TmFrM01tZlh3MzU3MjlSbXU4?oc=5",
+   "hint": "Just a moment...",
+   "nb": true
   },
   {
    "feedId": "nb-all",
@@ -653,7 +761,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-17T10:15:42+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wNXJoMHdHYlpGYUt4TTdla0pCU3lmeFNvUGFmaG9CTUF2U0tSYkJrSUkzNDdEbDFiZkFFVjhQME1rUFc1UTRaTm9UX255UUtJLU1qckh4N3doQQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wNXJoMHdHYlpGYUt4TTdla0pCU3lmeFNvUGFmaG9CTUF2U0tSYkJrSUkzNDdEbDFiZkFFVjhQME1rUFc1UTRaTm9UX255UUtJLU1qckh4N3doQQ?oc=5",
+   "hint": "Attention Required! | Cloudflare",
+   "nb": false
   },
   {
    "feedId": "nb-all",
@@ -666,7 +776,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-17T04:05:44+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTc3FwTS1MSG5VWm55RmJaaE1CQWVnYXVoaEd6Z3dJTUVQNEItdWhLLTUtU0NLc2RyY2N3WXBjNXIyX294V0RxMVhsSDZsazhwZ2FnZDRZa0pwQQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTc3FwTS1MSG5VWm55RmJaaE1CQWVnYXVoaEd6Z3dJTUVQNEItdWhLLTUtU0NLc2RyY2N3WXBjNXIyX294V0RxMVhsSDZsazhwZ2FnZDRZa0pwQQ?oc=5",
+   "hint": "Attention Required! | Cloudflare",
+   "nb": false
   },
   {
    "feedId": "nb-all",
@@ -679,7 +791,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-14T09:13:31+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wZmpTZ2JUUE5pR0NXdlp6bXdxdWhYOFJVbHlvWW9aNzdOempQanRmaFd4VHRoNGNNSkZnQWtWLWZEUm1pOGtwZGVTWmFEWmNfX25Fa3VUeU9JUQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wZmpTZ2JUUE5pR0NXdlp6bXdxdWhYOFJVbHlvWW9aNzdOempQanRmaFd4VHRoNGNNSkZnQWtWLWZEUm1pOGtwZGVTWmFEWmNfX25Fa3VUeU9JUQ?oc=5",
+   "hint": "Attention Required! | Cloudflare",
+   "nb": false
   },
   {
    "feedId": "nb-all",
@@ -692,150 +806,9 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-14T16:07:41+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zYWlFby1iVlNxeVNOeWNRUnVmX25fZlRyWXVjek92TENLZmpmQ1Nqa0xZTXFrWkh0am5PbmRxMExBRnU0b01mZl9aMmY0Q2ptTjI4Wml1WDBHUQ?oc=5"
-  },
-  {
-   "feedId": "nb-all",
-   "category": "ข่าวหนองบัว",
-   "source": "Google News",
-   "publisher": "สำนักสารนิเทศ",
-   "title": "‘จ.นครพนม’ จัดทัพร่วมให้กำลังใจ เยาวชนตัวแทนจังหวัด พร้อมลุย ส่ง 2 ทีม เข้าประกวดTO BE NUMBER ONE TEEN DANCERCISE THAILAND CHAMPIONSHIP 2027 ระดับภาคตะวันออกเฉียงเหนือ",
-   "link": "https://pr.moph.go.th/online/index/news/350672",
-   "summary": "ที่มา: สำนักสารนิเทศ",
-   "content": "",
-   "imageUrl": "",
-   "published": "2026-11-14T07:37:10+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51bkF0MTNvNEluUF9YdkI4YnhRS2R1TWNGTy1MTFdSem01LUpVSjVpZ2VFcElYbTM2VGtxczQ1dDJENUs5Tl9PYVg5cFFwWkRyUi1kbTVaTjExQQ?oc=5"
-  },
-  {
-   "feedId": "nb-isan",
-   "category": "อีสาน",
-   "source": "Google News",
-   "publisher": "เดลินิวส์",
-   "title": "สกัดโรคใบขาวอ้อย 12 จังหวัดอีสาน เร่งผลิตพันธุ์สะอาดจากเนื้อเยื่อ ตัดวงจรระบาด",
-   "link": "https://www.dailynews.co.th/news/6375265/",
-   "summary": "ที่มา: เดลินิวส์",
-   "content": "",
-   "imageUrl": "",
-   "published": "2026-11-20T03:24:10+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xcWlsTVcyMjVCNl9SWFhscFFWemZhU0VBaFpWQTUyZG9zR3hqUjJGS0V6UmJvZDBfQkstM1NPM0RPVGFYOUZZLXNKbVVZMWhaVHZB?oc=5"
-  },
-  {
-   "feedId": "nb-isan",
-   "category": "อีสาน",
-   "source": "Google News",
-   "publisher": "สวพ.FM91",
-   "title": "กรมทางหลวงชนบท เชื่อมโยงพื้นที่เศรษฐกิจการค้าชายแดนไทย - ลาว เสริมศักยภาพคมนาคมภาคอีสานตอนบน",
-   "link": "https://fm91bkk.com/newsarticle/82395",
-   "summary": "ที่มา: สวพ.FM91",
-   "content": "",
-   "imageUrl": "https://fm91bkk.com/upload/tb_news/webp/2026-11/20/82395/1795148353_17c3060d281ec4ab80bf.webp",
-   "published": "2026-11-20T04:23:33+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LakpwTFU1bm5Rd1FKYXV6ZFNYSWxsSzBQZVgzUTlSU3dQNGlMRFQwNWtNbmU0Q3cyOVpVLWpTZzF6MGh5NUZJQnVXbUx0Zw?oc=5"
-  },
-  {
-   "feedId": "nb-isan",
-   "category": "อีสาน",
-   "source": "Google News",
-   "publisher": "bangkokbiznews",
-   "title": "ลมหนาวมาใหม่ ปกคลุม อีสานอุณหภูมิลด 3°C กทม.เย็นลง ลมแรง ภาคใต้มีฝน",
-   "link": "https://www.bangkokbiznews.com/news/news-update/1261586",
-   "summary": "ที่มา: bangkokbiznews",
-   "content": "",
-   "imageUrl": "https://image.bangkokbiznews.com/uploads/images/md/2026/11/if3OYs8kJBR6XnelNbJj.webp",
-   "published": "2026-11-20T00:46:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEMEluY05Ja2U1TG9BTk1yRjBoaHI0NGtaT2Rtc3lSdHdXQlZfdWFxYWJ6M0VfY1hQTHI3ZzUxUDJESlU5MGVKYTU3RWc1VGpOc2xfYUdfby1lRGItZDVqbjkzWFdIQQ?oc=5"
-  },
-  {
-   "feedId": "nb-isan",
-   "category": "อีสาน",
-   "source": "Google News",
-   "publisher": "News1Live",
-   "title": "“ซอง ดูฮี” คือใคร? เปิดชีวิตจริงหนุ่มอีสานยากจน สู่ครีเอเตอร์ผู้ติดตามหลักล้าน และดรามาสะท้านวงการ!",
-   "link": "https://news1live.com/detail/1795153395844",
-   "summary": "ที่มา: News1Live",
-   "content": "",
-   "imageUrl": "https://media.news1live.com/887ea7e5b0a86833c5da2bb52446f9b98f12ce83094271c414730f96cb92d056.webp",
-   "published": "2026-11-20T05:45:09+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PZ3FidmRKaXlGdjJUUkNHbzcwR2JFOGdLcXBXem5wYWplV1RkRzdSZTBEek5ieldHcjFVUENFMUFaN2tkMnRJV0ZIdHRxaC1ZQ2xvYQ?oc=5"
-  },
-  {
-   "feedId": "nb-isan",
-   "category": "อีสาน",
-   "source": "Google News",
-   "publisher": "แนวหน้า",
-   "title": "ชุมทางอีสาน : 20 พฤษจิกายน 2569",
-   "link": "https://www.naewna.com/n/national-news/179119/",
-   "summary": "ที่มา: แนวหน้า",
-   "content": "",
-   "imageUrl": "https://storage-wp.naewna.com/2026/11/%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99-2.jpg",
-   "published": "2026-11-19T19:07:04+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43c3JhRWRmbDdrOXBPQUljNHMzSWl6eG9CMkZ6S1FLYXptaUo0eHcwQ1gtNlB3bVhsal9CVGp1d3RCc21VcFdDRFZFdkx2Z1ZQMWVPcG1FMDlRZw?oc=5"
-  },
-  {
-   "feedId": "nb-isan",
-   "category": "อีสาน",
-   "source": "Google News",
-   "publisher": "Thaipost.net",
-   "title": "เตือน ภาคใต้ ฝนตกหนักถึงหนักมาก 20-22พ.ย. เหนืออากาศเย็นลง อีสานอุณหภูมิลดลง2-4 องศา",
-   "link": "https://www.thaipost.net/general-news/1112183/",
-   "summary": "ที่มา: Thaipost.net",
-   "content": "",
-   "imageUrl": "https://storage-wp.thaipost.net/2026/11/div696.jpg",
-   "published": "2026-11-19T23:24:48+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15STJqVlkyZE53SXBTUE42NnFiUFVKTlI5VEcwT1RFUjBROW52cGsxN1NsVXJsLWdWdHpzQ3VyMEt0Vnk3QzBGeEhTc01sT0cwSmc1UEFQSkpFQQ?oc=5"
-  },
-  {
-   "feedId": "nb-isan",
-   "category": "อีสาน",
-   "source": "Google News",
-   "publisher": "ข่าวสด",
-   "title": "ธปท.ห่วงเศรษฐกิจอีสานปี 70 เสี่ยงติดลบ 0.4% เตือนภัยแล้งซ้ำเติม",
-   "link": "https://www.khaosod.co.th/economics/news_10478238",
-   "summary": "ที่มา: ข่าวสด",
-   "content": "",
-   "imageUrl": "https://www.khaosod.co.th/wpapp/uploads/2026/01/bot-building.jpg",
-   "published": "2026-11-19T11:23:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wZGVadTV1ZzNfaUVNMWNEMUtwOE5PSXFUcHFNMXBxbVhOY3AtODNtVlRxUTBkZnkxQ0tOSk1PbnZTa2pTSGxuSXNtdU14MDNJMS1tOTRYcjdoUndtR1E?oc=5"
-  },
-  {
-   "feedId": "nb-isan",
-   "category": "อีสาน",
-   "source": "Google News",
-   "publisher": "Facebook",
-   "title": "🌬️ ลมหนาวรอบใหม่เริ่มมาแล้ว วันนี้ (19 พ.ย.) ประเทศไทยตอนบนเริ่มมีอุณหภูมิลดลง และมีลมแรง 📌 ภาคอีสานจะเย็นลงก่อน 📌 ส่วนภาคเหนือ ภาคกลาง รวมถึง กทม. และปริมณฑล และภาคตะวันออก จะเริ่มเย็นลงตามมา แต่บางพื้นที่ของภาคเหนือและด้านตะวันตกของภาคกลางยังมีฝนตกได้ค่ะ ดู",
-   "link": "https://www.facebook.com/tmd.go.th/posts/%EF%B8%8F-%E0%B8%A5%E0%B8%A1%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-19-%E0%B8%9E%E0%B8%A2-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%A1%E0%B8%B5%E0%B8%AD%E0%B8%B8%E0%B8%93%E0%B8%AB%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B8%A5%E0%B8%87-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B5%E0%B8%A5/1618080467030749/",
-   "summary": "ที่มา: Facebook",
-   "content": "",
-   "imageUrl": "",
-   "published": "2026-11-19T03:54:43+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMi1gdBVV95cUxNUzl5ZUdFbU50TWsxS1RZczcwdC1YeHBIQ2Z4OG1mX0M3MHl4ejdGMGFHaTVmelp6alNURXUyM1FoSF92aU1CZENrUnhuNjdyNHlhNVBKRURqMUZXQkFVUVdkZjFoVU54TjVHSlhWLU4yRFhSNzBuX1V0eEFOcXNsR0cxWWx2NGlPeGp1dVNkZjRpaWo0U3kzNVJCZzhUUWpQamhQcGFmOF9DdlVuVmNzcHhGSDNTc3pnS1BJeDB2UVg0OHhOZEc2THZLQkFLaG1vNWlxYjk5NUE4RXhXTTlZdXF4ai03LWdQZXd6dWt5cDdqQXJod3ZxMEZZZHQ0aElldDVTRHl0OEtKQ3N5bDhuWDlrVHd3UXZBZVNwRDZFSGdyTmU0bXdKZTh1bHNsX3cwNy1nckdWODlqeDFsVWtjSkwzV0J2dnY3bXpYeFk5OWgxWFlnNFJWeUoxN0pfSmZpZzc4TmgzMWpGR2JtTkZlT1BMZ2FuNjIxX3EzaUQyUXdYS1VYZU9VVEc0OTdkSm5yU3JQVDdIeGdkdTJJMlk3TnduU3FvbngtTXUtVUxzNDktaHpKNlhWM1F3QkFkck9YMlVic0h1cDZjUzhFYW1uU205dzhpYnBZUGdsVFU3Vmk5UmhWSTk0ZC1iSEFpcURuNE5leTNKSHVQMW1hMmF0MktHa1c1XzZYNDNRVlE3Qk5BUkhXWWhKS09XSDZRazVfWnBkTjJ1aVR6ZnpRbGFQVGxGX3NhS2s5WDdrd0NIbGRNSW5pak5PZ1kyOV9jZVh4aVY5NUJUZDRiajFGZzF4NTFMN2NzUnQzelRuLWVLZHJtRnVGTUg4NVlDd3k2OFo2ZEZmSlZxVnQ1ZkJlN1B6RTI3WEdrdkZXRlpUNTZWSGwtQXhDYXRHZkJiSzNJNmhVZTQ0WG5LU1lIZTRyNzYydjhPRTZIWFdFSFdsZEw4Q1FLNzI1RTQyMFZEYlJIdjZTMHYxc3Q3QnNUZXRjeXc1VjdkbU1nMVRGY2RzT0w1alpyWDNrbm9QT1FqM2RRbUVGaVVQVnBnTE1RYTJnaGtFUW9OZVFkQXZ2U1lidDItUWNSbDg1a0pDVU5MQV9lV3I2VEsxTE1RSVNCX0thZ1AtdVVEN1JLeElVRTlCMlE0V2JEMGFvMUhXbnpaaEJBakNNZ2JvdFRUYXp4ZW5rWGwtMTMtUWJtMkp4R0d1OGZjOS1TdnZodVlUU2tjVmE0TjB0UkpLUzNBdDRoc1VXMFFTcEZxUFlhRFJqZlRYbi0xSm53UVZlZzliU0RvaWc1eHpjZ1JyYV9B?oc=5"
-  },
-  {
-   "feedId": "nb-isan",
-   "category": "อีสาน",
-   "source": "Google News",
-   "publisher": "Workpoint TV",
-   "title": "แบงก์ชาติเตือนปี 70 เศรษฐกิจอีสานเสี่ยงติดลบ | Workpoint News Daily | 18 พ.ย. 69",
-   "link": "https://www.workpointtv.com/news/video/16503",
-   "summary": "ที่มา: Workpoint TV",
-   "content": "",
-   "imageUrl": "https://images.workpointtoday.com/workpoint/uploads/2026/11/youtube-Gb-Yo-_6lXw-1200x630-7ffe00e4.jpg",
-   "published": "2026-11-18T12:50:57+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DMm9yYWFNc254V3dPSUhiR0NEcXBlSVVVRGVtbXZRN2ZrdDRNbnJCZF8wcnZuUEFTLUkxZ01DUG9jaHJqU0VFWEdXdTZDY1plM0p1TlZKdw?oc=5"
-  },
-  {
-   "feedId": "nb-isan",
-   "category": "อีสาน",
-   "source": "Google News",
-   "publisher": "Facebook",
-   "title": "News1. . แผ่นดินอีสาน!! ย่อยยับ!! หากเกลือใต้พิภพโผล่มา!! #ชัดเจนเปลี่ยนbyสภากาแฟ #เหมืองโปแตชอุดรธานี #ดินเสื่อมโทรม #ด่านขุนทด #เกลือเค็ม #เกลืออีสาน",
-   "link": "https://www.facebook.com/MGRNEWS1/videos/%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99-%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%A2%E0%B8%B1%E0%B8%9A-%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%9E%E0%B8%B4%E0%B8%A0%E0%B8%9E%E0%B9%82%E0%B8%9C%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%B2-%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%88%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99by%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%9F-%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%81%E0%B8%95%E0%B8%8A%E0%B8%AD%E0%B8%B8%E0%B8%94/1112789401556749/",
-   "summary": "ที่มา: Facebook",
-   "content": "",
-   "imageUrl": "",
-   "published": "2026-11-18T14:20:54+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMi6wdBVV95cUxObHZuUlpDeUdndlUwaUJ0NW4tbHgyRE9ZRUkwZzZoLVpvNUR5MHg1YlJSVU5FQ1BTUTdXZVRLNnZnN0M1VFJfaHRYc0NUVkZPNVhKX1dTT2RFTDlkVmcyTkIyT3ZrOFZyLXlhMWhZNkx5Q1lMNDRHdmNNc1BBV3FSUFAyMlZPNjJGQnY4OXJNaVNYbXU0WEZPYmEwbXE0a0hUVG5YMHhlN2ZSLTYwQlRybGlfc1c0YzFReWxya2JrVWlBZUpqaHpxTE9QNGs4TTJZa2VqOWJBQjJpWk42LXJjNmRaX19vZEdvWVBPRm1tNC1VZjRHMjlmV1JFSTBlamthQWttUFV4dkZGSlUzMlJZT3RlN3lmajJ2UWVmZS0wdmpkMWRGQWlfS0JFZmF2d1BZc2ROdUh0eEhoZEtsYVhQeTRnbzI3VkNrUmYxUG1OLTlXS19ETTRtSWhEdlQ0R0syQ0xBX3JqWlNxNFhxZjBvWVRTVENRcG1OcGFsbmVWenhZYWVnWWRmQW5xV0Z6NWM3ZTBQMkpmMjZrdjBFYTM4WDNQbEs4SDhKOGpZMmZRdTRlOHFZdHY2RzdWb2h0YU5HRzhjRmNYOHNWeGRXWXVfbTFoVEpnZzlnTWw4WUNla0ZrWEluVnhubUkwZ21wUUJEUk5mZ2ZLYUtZSWFKdGpqcndGcGpFMk9Da1FpaGJpemduV3RpX2dFb1g4ZzNDWFlLbnN2R2YyTVRkM1E4MU9iTzgxWTVlQWdEbl9ndHZOWW5LVThyR0xENnFDLVZxbm9VaHB3a09lUnZyWG5fX0hTUkV2R2dnOFJ3Zm9qRi1VaFBQcmptWGVDYlJHdDJYWk1yRkFFNlpHX3pPenEwZU5kcG4wRUU0QnE4aWt5aGliWHVtM09kbFpxaGN4Ym4wM1V2ZmZwcC1LWURIRFhjbGlpTkI5cmJzTk9lc2E2RWJ4R3Fpb1NQVTkweHhVWF83UlRocFY2UzRZRUlRQUhPaTJqaHlNUmY0MlhiTlFnb3FQcFg5eTVFeDdoQmctYzgydXpJUktRQXQ5ZWtIVTJNUThxcDBxVVJzazE0VExmR0txN1RYUWlCbTRwaFZmTUk4V3RSTnNxZ3JHTHZEWG5qNFlMcnpIRlYwbGNBY2F0M2V4dnI3Vi1kdlpxeGpBMXFUMU1VUXo3a2RtM0NxVWdlTk0wWDhZYm12RTFlei0teXYwNm5YQVlMSVU1cWtJdERNRF9lY0F2R0Q1dzE0a3RabUx4THJzdDlhQzdNSkR6UmFHMmIyMkN2XzF0QlByZG9ucjVnT3VicjdSRjBwTURTd1l3Qk9Ca3h5d2l3bm5N?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zYWlFby1iVlNxeVNOeWNRUnVmX25fZlRyWXVjek92TENLZmpmQ1Nqa0xZTXFrWkh0am5PbmRxMExBRnU0b01mZl9aMmY0Q2ptTjI4Wml1WDBHUQ?oc=5",
+   "hint": "Attention Required! | Cloudflare",
+   "nb": false
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:13:56.695057+00:00",
+ "updated": "2026-11-20T07:24:06.535712+00:00",
  "items": [
   {
    "feedId": "community-own",
@@ -68,7 +68,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-20T05:00:30+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpT3RYU0FXY2dXN1hRSWpPMlYyeU5JTS1NaW1vU2FzWTQyeXdhcTl0MVBGTlhvdTlMdzdpQkE5TkhJaU5ITGlVWTV1X1k1OFVjZHVzcG01cmpSUS00Ri1rRg?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpT3RYU0FXY2dXN1hRSWpPMlYyeU5JTS1NaW1vU2FzWTQyeXdhcTl0MVBGTlhvdTlMdzdpQkE5TkhJaU5ITGlVWTV1X1k1OFVjZHVzcG01cmpSUS00Ri1rRg?oc=5",
+   "hint": ""
   },
   {
    "feedId": "google-news-th",
@@ -81,7 +82,8 @@
    "content": "",
    "imageUrl": "https://storage-wp.thaipost.net/2026/11/Iigf.jpg",
    "published": "2026-11-20T04:57:10+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBncnNpTXZ2TndWcENWc201NHJfXzRYRGlnS0gxanB3VEVtZ1BBMHlhTGNVekFWMm9WblUyZkFpM3h2X1dmX1IxUGcyc2dqU2dybXJ0WktZQmo?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBncnNpTXZ2TndWcENWc201NHJfXzRYRGlnS0gxanB3VEVtZ1BBMHlhTGNVekFWMm9WblUyZkFpM3h2X1dmX1IxUGcyc2dqU2dybXJ0WktZQmo?oc=5",
+   "hint": ""
   },
   {
    "feedId": "google-news-th",
@@ -94,7 +96,8 @@
    "content": "",
    "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_thai/2764/live/3358d5d0-e3e2-11f1-99a1-253766e7ad8b.jpg",
    "published": "2026-11-19T07:33:36+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBINzktN3NtZmNCcWNCdnQ3QzcxVkdjS3JyZWtWSEdVdll1Ty1reWRsYy1QdWVPdnk2Yk1xQ3FyVzloVWE2RnZ3RXJiZ1cxbGQtb2lzMlozYmZlNzjSAWBBVV95cUxNRVAwNlVyUzdLSzdjTUozS2x2NF91NWJCNERxOWZIV0pHQ1pFQlZ5QW9hZThEUGxrRVp6RjR2NE9pQmJLdksxMEtuVi1YMFJiRWhpdTJaT25xeldVWE4yenk?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBINzktN3NtZmNCcWNCdnQ3QzcxVkdjS3JyZWtWSEdVdll1Ty1reWRsYy1QdWVPdnk2Yk1xQ3FyVzloVWE2RnZ3RXJiZ1cxbGQtb2lzMlozYmZlNzjSAWBBVV95cUxNRVAwNlVyUzdLSzdjTUozS2x2NF91NWJCNERxOWZIV0pHQ1pFQlZ5QW9hZThEUGxrRVp6RjR2NE9pQmJLdksxMEtuVi1YMFJiRWhpdTJaT25xeldVWE4yenk?oc=5",
+   "hint": ""
   },
   {
    "feedId": "google-news-th",
@@ -107,33 +110,36 @@
    "content": "",
    "imageUrl": "https://fm91bkk.com/upload/tb_news/webp/2026-11/20/82384/1795130664_751e01c75ca8d793189e.webp",
    "published": "2026-11-19T23:27:58+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIc3p2RlYxSkZVdTJyRHVtMXRWVDNLNzRJRXZCMUM3TTFLaEhfU2lpZDR3OXE3RnFlZnhySHc0dkxOdUFXZzhSNjRRanBTZw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIc3p2RlYxSkZVdTJyRHVtMXRWVDNLNzRJRXZCMUM3TTFLaEhfU2lpZDR3OXE3RnFlZnhySHc0dkxOdUFXZzhSNjRRanBTZw?oc=5",
+   "hint": ""
   },
   {
    "feedId": "google-news-th",
    "category": "ข่าว",
    "source": "Google News",
-   "publisher": "thairath.co.th",
-   "title": "มินตรา ขับรถมารับ น้ำ รพีภัทร ที่สนามบิน ฝ่ายชายลั่นประโยคเด็ด กลับไปโดนเช็กเกลียวแน่ (คลิป)",
-   "link": "https://www.thairath.co.th/entertain/news/2973587",
-   "summary": "ที่มา: thairath.co.th",
+   "publisher": "เดลินิวส์",
+   "title": "เมีย ‘น้ำ รพีภัทร’ เคลื่อนไหวหลัง ‘ซอง ดูฮี’ เตรียมบุกโหนกระแส เผยเหตุฝั่งตนไม่ไปเพราะติดงาน!",
+   "link": "https://www.dailynews.co.th/news/6375459/",
+   "summary": "ที่มา: เดลินิวส์",
    "content": "",
    "imageUrl": "",
-   "published": "2026-11-20T02:51:44+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aMGpjWnphN1dVVzZsSWp6cER6aFUzWnc4d3pwNDY4aTJPbUl6T2ROYk1GOXJnRHNJSXN4bUxVekstck5zaWdOMmxXSjVkMHJwNHZiTFBOd21FVmdZUHc?oc=5"
+   "published": "2026-11-20T05:00:00+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ybFQ3alZUd3lBVmI2VElfODUwR0ZHOTZxd0FGb3Y2UWVsdGF5SThoMnJJYUNXSkVWaTBWM0hkS0tkRmRleU94dHUzbXRTbklGVFNB?oc=5",
+   "hint": "Just a moment..."
   },
   {
    "feedId": "google-news-th",
    "category": "ข่าว",
    "source": "Google News",
-   "publisher": "สยามรัฐ",
-   "title": "“จตุพร” เตือนม็อบมะโน ตร.ขอคืนพื้นที่เป็นสัญญาณตั้งคดี แนะแกนนำหลอมรวมอุดมการณ์ก่อนเคลื่อนไหว",
-   "link": "https://siamrath.co.th/politics/336867",
-   "summary": "ที่มา: สยามรัฐ",
+   "publisher": "Thaipost.net",
+   "title": "'โตโต้' ปัด ปชน.อยู่เบื้องหลัง 'ม็อบเจน Z' หนุนไล่ 'นายกฯ' ก็เป็นสิทธิ์ เตือนรัฐอย่าข่มขู่",
+   "link": "https://www.thaipost.net/politics-news/1112406/",
+   "summary": "ที่มา: Thaipost.net",
    "content": "",
-   "imageUrl": "https://siamrath.co.th/assets/8f974561-b0dc-4a2e-907e-44956a8b954e?width=680&quality=80&format=webp",
-   "published": "2026-11-20T03:29:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0LWxNVHJoZEROaDJOX21kSjFUUzV5QmlHNXFaMjV5ZkFVa3NtMG8tdXFUOElBYWFRZmtxZ25LM3VNb01iRVhyVHBuWEc0STg?oc=5"
+   "imageUrl": "https://storage-wp.thaipost.net/2026/11/F9F9h.jpg",
+   "published": "2026-11-20T06:09:23+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vS2YwQUNYOHNzekQ4cVgwNWJSeFBFVklhSl9Oc3hoTzhESDNHTXlZRVJ6SnFrQ3VlU1Exbnh5R0tycmxWUEJKZmZ4OVA0c0dwc29pcE0tMk5pdzA?oc=5",
+   "hint": "'โตโต้' ปัด ปชน.อยู่เบื้องหลัง 'ม็อบเจน Z' หนุนไล่ 'นายกฯ' ก็เป็นสิทธิ์ เตือนรัฐอย่าข่มขู่ 'โตโต้' ยัน 'พรรคประชาชน' ไม่ได้อยู่เบื้องหลัง 'ม็อบเจน Z' ชี้ จะออกมาไล่ 'นายกฯ' ก็เป็นสิทธิ์ เตือนรัฐอย่าข่มขู่-ล้อมรั้วอนุสาวรีย์ฯ หวั่นทำสถานการณ์บานปลาย แนะ 'อนุทิน' โชว์สปิริตรับฟังข้อเรียกร้องด้วยตัวเอง มอง ม็อบตกผลึกแล้วไม่ใช่แค่นึกสนุก ไม่แปลกหากมีครั้งหน้า 'โตโต้' ปัด ปชน.อยู่เบื้องหลัง 'ม็อบเจน Z'"
   },
   {
    "feedId": "google-news-th",
@@ -146,20 +152,22 @@
    "content": "",
    "imageUrl": "https://siamrath.co.th/assets/98332ebe-0a97-443f-b0d8-4dbb67c35885?width=680&quality=80&format=webp",
    "published": "2026-11-20T02:56:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VYTBKdDYyNVBGLW1uejVjeHg2MUFIUHRsSWxvV1lsbGVSUUFQbXRHdGpQbXpkUDJVbDRFbXVlWk5halMzYnhOajZuUjg2Qk1oN2ZPaXFSai0?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VYTBKdDYyNVBGLW1uejVjeHg2MUFIUHRsSWxvV1lsbGVSUUFQbXRHdGpQbXpkUDJVbDRFbXVlWk5halMzYnhOajZuUjg2Qk1oN2ZPaXFSai0?oc=5",
+   "hint": ""
   },
   {
    "feedId": "google-news-th",
    "category": "ข่าว",
    "source": "Google News",
-   "publisher": "ผู้จัดการออนไลน์",
-   "title": "ชาวบ้านหนองบอนผวาขยะกากอุตสาหกรรม หวั่นปนเปื้อนคลองกระทบสวนผัก-นาข้าว รอผลตรวจน้ำผุด",
-   "link": "https://mgronline.com/local/detail/9690000110976",
-   "summary": "ที่มา: ผู้จัดการออนไลน์",
+   "publisher": "Thai PBS",
+   "title": "บ่อขยะพิษสระแก้วฟองผุดจุดไฟติด จนท.เร่งเก็บดิน-น้ำ ตรวจซ้ำ",
+   "link": "https://www.thaipbs.or.th/news/content/573002",
+   "summary": "ที่มา: Thai PBS",
    "content": "",
-   "imageUrl": "https://mpics2.mgronline.com/pics/Images/569000011262601.JPEG",
-   "published": "2026-11-20T05:26:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKTF93NUxLSkRvQUcwNUNHaHRWUy1jS0x4UEcza0lxSFNKUkNlVjhEUjVzME1qNkg3Q3BobGRQZ3l1eDRiamtTQXM5bW9aMngtNnFaY0xvNmFQT3F5?oc=5"
+   "imageUrl": "https://content-images.thaipbs.or.th/imgpx1/unsafe/rt:fill/el:1/s:1200:630/q:90/aHR0cHM6Ly9vbmVjbXMudGhhaXBicy5vci50aC9tZWRpYS9xdHloSlJqQ0p1QmRhZnJ3RDVxTzhLM3A3QnVabklrTXVicWYzaFF3M3JRNkxIbnhDUHk1dXFoLmpwZw==.jpg",
+   "published": "2026-11-19T11:35:51+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpR2tSRzdKdEExNk4xV3BueXpTNkptTzA1WHVDWE5xQWRyekFGRnN0c1BPWU1ZaGxsR09Vb3drdjd4LVJXWXdHV3lWTU01VHlJaW5RWGtrU3Q?oc=5",
+   "hint": "บ่อขยะพิษสระแก้วฟองผุดจุดไฟติด จนท.เร่งเก็บดิน-น้ำ ตรวจซ้ำ จนท.สระแก้วเก็บตัวอย่างน้ำ-ดิน บ่อลูกรังเก่าซ้ำ หลังพบฟองอากาศผุดจากใต้ดิน ทดลองจุดไฟแล้วติด ขณะที่ชาวบ้านใกล้จุดทิ้งขยะอุตสาหกรรมมีอาการผื่นคันและปัญหาระบบทางเดินหายใจ เร่งตรวจสุขภาพและหาต้นทางขยะ หลังพบจุดลักลอบทิ้งแล้ว 13 แห่งใน 2 อำเภอ บ่อขยะพิษสระแก้วฟองผุดจุดไฟติด จนท.เร่งเก็บดิน-น้ำ ตรวจซ้ำ | Thai PBS News ข่าวไทยพีบีเอส"
   },
   {
    "feedId": "google-news-th",
@@ -172,7 +180,8 @@
    "content": "",
    "imageUrl": "https://thestandard.co/wp-content/uploads/2026/11/the-election-commission-of-cover.jpg",
    "published": "2026-11-19T13:36:45+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS1V4WjZJT1QtRnk3dVE2Ty1hd3R2Um1sbGtJZDZVUEo3RnFpMVlmU2ZDTzFjX21BT0dUelF2dVJIS3REVjJFbFVaMFlqNldYRGI0MjE5UWxLM19FOHNQakFpMnBpLTlEOFZuaHBrLVVLbjk4SWtOYjAxWjVzd25yeFdIZE8?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS1V4WjZJT1QtRnk3dVE2Ty1hd3R2Um1sbGtJZDZVUEo3RnFpMVlmU2ZDTzFjX21BT0dUelF2dVJIS3REVjJFbFVaMFlqNldYRGI0MjE5UWxLM19FOHNQakFpMnBpLTlEOFZuaHBrLVVLbjk4SWtOYjAxWjVzd25yeFdIZE8?oc=5",
+   "hint": ""
   },
   {
    "feedId": "google-news-th",
@@ -185,20 +194,22 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-20T04:20:57+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwZkxQVXdhMzVMc1ZTT0tUOVpGbjBJcEN5cWlfaGVjQUZZUmt6OVY0NVlha0xoNU9yaExMWlRjeFA5cEMxVTFsZWpBS0lJVk9oSUlB?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwZkxQVXdhMzVMc1ZTT0tUOVpGbjBJcEN5cWlfaGVjQUZZUmt6OVY0NVlha0xoNU9yaExMWlRjeFA5cEMxVTFsZWpBS0lJVk9oSUlB?oc=5",
+   "hint": ""
   },
   {
    "feedId": "google-news-th",
    "category": "ข่าว",
    "source": "Google News",
    "publisher": "Thaipost.net",
-   "title": "ศาลโลกพิพากษา! เมียนมาก่ออาชญากรรมฆ่าล้างเผ่าพันธุ์ชาวโรฮีนจา",
-   "link": "https://www.thaipost.net/abroad-news/1112175/",
+   "title": "'อังคณา' ยินดีศาลโลกชี้เมียนมาฆ่าล้างเผ่าพันธุ์โรฮิงยา ถามไทยจะอุ้มอีกนานแค่ไหน",
+   "link": "https://www.thaipost.net/x-cite-news/1112348/",
    "summary": "ที่มา: Thaipost.net",
    "content": "",
-   "imageUrl": "https://storage-wp.thaipost.net/2026/11/AFP__20261119__D7YJ3KE__v3__HighRes__TopshotBangladeshMyanmarRohingyaIcjCourtGenocid.jpg",
-   "published": "2026-11-19T23:09:14+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBNXUxSFVNOHVVRlk3SUlzQ0ZZaEtrcHpFY3ZmanVCdy1FaHNqOXIzTGtfNnZ0b3o4bm50SGwyZ25LZmV2eWswbHNtbm9CT1g0N0V5VUl3UnU?oc=5"
+   "imageUrl": "https://storage-wp.thaipost.net/2024/07/25011.jpg",
+   "published": "2026-11-20T04:33:15+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lVTAzajJMV3ZNRkdXTlFrYlB2M2ZSLV9Uc09TUUZKQldvM0ZYSGVtZjktS2NNa2tkaEVUbHVMaWtTN3Nkb05HUXBSYl9vdGJlTlNieE1GSWc?oc=5",
+   "hint": "'อังคณา' ยินดีศาลโลกชี้เมียนมาฆ่าล้างเผ่าพันธุ์โรฮิงยา ถามไทยจะอุ้มอีกนานแค่ไหน สว.อังคณา ยินดีคำพิพากษาประวัติศาสตร์ ศาลโลกชี้เมียนมากระทำการฆ่าล้างเผ่าพันธุ์ชาวโรฮิงยา ต้อ 'อังคณา' ยินดีศาลโลกชี้เมียนมาฆ่าล้างเผ่าพันธุ์โรฮิงยา ถามไทยจะอุ้มอีกนานแค่ไหน"
   },
   {
    "feedId": "google-news-th",
@@ -211,7 +222,8 @@
    "content": "",
    "imageUrl": "https://image.bangkokbiznews.com/uploads/images/md/2026/11/sOTQCe8LR7UOecsxmuLX.webp",
    "published": "2026-11-20T05:34:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03V2lvOG5Xa1B0dWhMcWc5cUZLc1hTSjluVEFWMVNmTzBodGRBd3ZuMEVKdWpyeGJ0Wl9rU1B3ZVFySGtlWjRtNHZ0dWdmNWQ3b19BYjc1aEs0cVNzRmhFM1JqS1FrcWc?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03V2lvOG5Xa1B0dWhMcWc5cUZLc1hTSjluVEFWMVNmTzBodGRBd3ZuMEVKdWpyeGJ0Wl9rU1B3ZVFySGtlWjRtNHZ0dWdmNWQ3b19BYjc1aEs0cVNzRmhFM1JqS1FrcWc?oc=5",
+   "hint": ""
   },
   {
    "feedId": "google-news-th",
@@ -224,20 +236,22 @@
    "content": "",
    "imageUrl": "https://www.matichon.co.th/wp-content/uploads/2026/11/Sean-Cairncross3.jpg",
    "published": "2026-11-20T03:40:47+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OS3FmcW5aa1NMT2ZiMlFLZ3BJbGp1VDFQVHAwUUtHZkFOY010UU5xU1p5M1JDVTJJSlFXQm5mTWhoWTFhLTd5N21KTkc4eVJ4a19YNFEtUHJGNVk?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OS3FmcW5aa1NMT2ZiMlFLZ3BJbGp1VDFQVHAwUUtHZkFOY010UU5xU1p5M1JDVTJJSlFXQm5mTWhoWTFhLTd5N21KTkc4eVJ4a19YNFEtUHJGNVk?oc=5",
+   "hint": ""
   },
   {
    "feedId": "google-news-th",
    "category": "ข่าว",
    "source": "Google News",
-   "publisher": "banmuang.co.th",
-   "title": "“สีจิ้นผิง” เปิดประชุม APEC CEO Summit ปลุกเอเชียแปซิฟิกเจริญรุ่งเรืองร่วมกัน",
-   "link": "https://www.banmuang.co.th/mobile/news/inter/498475",
-   "summary": "ที่มา: banmuang.co.th",
+   "publisher": "thairath.co.th",
+   "title": "รัสเซียโวย ยูเครนโจมตีสะพานไครเมียครั้งที่ 3 ในรอบสัปดาห์",
+   "link": "https://www.thairath.co.th/news/foreign/2973562",
+   "summary": "ที่มา: thairath.co.th",
    "content": "",
-   "imageUrl": "https://www.banmuang.co.th/uploads/news/img/l/498475_th.jpg",
-   "published": "2026-11-18T10:56:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLWmQyLU03aVdSTURjbTFYUmI3bmtQNUVJMWxXZEhGdWJnZ181aHZGd3FaazY2UjZnNk1PR3JEdDRCa3NXYU1FcXBNYjdDVGN5eGM3QzJENjdZOGROR2RhNQ?oc=5"
+   "imageUrl": "",
+   "published": "2026-11-19T22:23:24+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tbE1RVEhEVmk2a0UwblFqMTgzOTNRaTVzOFBUS3ZvZlRvaHg2NnFlWVNmNzRabERscWwtSVI2ZEhSa2MxaW1YUXNsNTRrOWVEbnB0UWNjZjNMQkU?oc=5",
+   "hint": ""
   },
   {
    "feedId": "google-news-th",
@@ -250,20 +264,22 @@
    "content": "",
    "imageUrl": "https://content-images.thaipbs.or.th/imgpx1/unsafe/rt:fill/el:1/s:1200:630/q:90/aHR0cHM6Ly9vbmVjbXMudGhhaXBicy5vci50aC9tZWRpYS9xdHloSlJqQ0p1QmRhdVJrV2J4WWdRanpsRDZSSVNObndDY2V5b1dmbnZRODk4OXVpSXNGZlFKLmpwZw==.jpg",
    "published": "2026-11-20T03:27:36+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WbUJUalJkRWcwWDVDekRNN1JEYXR2S0EzWi1PT096WGZUdzdUMTNMUmdRQnBRRERQZGZJZ0V2ZHVsenpxUjBoNTc4SjRfZkg5RmdGQ2JmLVA?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WbUJUalJkRWcwWDVDekRNN1JEYXR2S0EzWi1PT096WGZUdzdUMTNMUmdRQnBRRERQZGZJZ0V2ZHVsenpxUjBoNTc4SjRfZkg5RmdGQ2JmLVA?oc=5",
+   "hint": ""
   },
   {
    "feedId": "google-news-th",
    "category": "ข่าว",
    "source": "Google News",
-   "publisher": "Moomoo",
-   "title": "Moomoo สรุปแนวโน้มตลาดหุ้นสหรัฐฯ ประจำวันศุกร์",
-   "link": "https://www.moomoo.com/th/community/feed/moomoo-u-s-markets-look-ahead-for-friday-117646510129169",
-   "summary": "ที่มา: Moomoo",
+   "publisher": "thestandard.co",
+   "title": "หุ้น Anthropic พุ่ง 17% หลัง IPO ดันติดอันดับ 12 บริษัทมหาชนมูลค่าสูงสุดในโลก",
+   "link": "https://thestandard.co/anthropic-shares-surge-after-ipo/",
+   "summary": "ที่มา: thestandard.co",
    "content": "",
-   "imageUrl": "https://1500015405.vod2.myqcloud.com/57f4fa2avodtransusw1500015405/d8d82f6e5001834828198528575/coverBySnapshot/coverBySnapshot_10_0.jpg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
-   "published": "2026-11-20T02:54:42+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMingFBVV95cUxOejhDbHVwMFd0UlA3WnNVOVJoYUR1bGpnMk9mZWdiYllQRk4tblFJQVJkZzV6VG1CVVJ2aGU0Vy10MlBtNzNtMmU1eEZlSHB4NUZBVldmbzdaNDlKR2V3VnBaTEF0SnNjZGh1Y25kb25ncEZwYnEwSUZUa21sYWMzMHlhekdleEl4aU5wdDNPSVRkU1kxbHdEOXNETEt4Zw?oc=5"
+   "imageUrl": "https://thestandard.co/wp-content/uploads/2026/11/anthropic-shares-surge-after-cover.jpg",
+   "published": "2026-11-20T04:04:14+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xVmNZT1BvVW5CMkpHdlAtSEtBRGs4czhYS3ROTGNSV2FTRFhVS0lGa1c4UjJsdnN4Wko2RzQxaXN0a1gtcGkxTjItQmNveTB4cFc4Wk4wZ09lRDFiX25UZWI5V2RQR0k?oc=5",
+   "hint": "หุ้น Anthropic พุ่ง 17% หลัง IPO ดันติดอันดับ 12 บริษัทมหาชนมูลค่าสูงสุดในโลก หุ้น Anthropic วันแรกพุ่ง 17% เหนือราคา IPO ปิดที่ 97.17 ดอลลาร์ ดันมูลค่าตลาดแตะ 1.8 ล้านล้านดอลลาร์ ก้าวสู่อันดับ 12 บริษัทมหาชนมูลค่าสูงสุดในโลก หุ้น Anthropic พุ่ง 17% หลัง IPO ดันติดอันดับ 12 บริษัทมหาชนมูลค่าสูงสุดในโลก"
   },
   {
    "feedId": "google-news-th",
@@ -276,7 +292,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-20T03:20:44+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zdUtxRE5Fai1rQ3l1MUdmT19JVzF3NXpKSXgyYW9scWo1aDhzejNXNmd6V0JKbjg4YmlVZDM5bExwUWFKOFg5VVlR?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4zdUtxRE5Fai1rQ3l1MUdmT19JVzF3NXpKSXgyYW9scWo1aDhzejNXNmd6V0JKbjg4YmlVZDM5bExwUWFKOFg5VVlR?oc=5",
+   "hint": ""
   },
   {
    "feedId": "google-news-th",
@@ -289,7 +306,8 @@
    "content": "",
    "imageUrl": "https://wp.thunhoon.com/wp-content/uploads/2026/06/tfex-à¹à¸¥à¹à¸à¹-1.jpg",
    "published": "2026-11-19T23:15:25+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5rSFJwSTNrM1VjS3l4U0hKQ2d4VUxUb2pwS1ptUGN1d1d6MVg2M1g3eVJjbWNVaXREX3M1LXEtSzVCQVFxSmVZ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5rSFJwSTNrM1VjS3l4U0hKQ2d4VUxUb2pwS1ptUGN1d1d6MVg2M1g3eVJjbWNVaXREX3M1LXEtSzVCQVFxSmVZ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "google-news-th",
@@ -302,7 +320,8 @@
    "content": "",
    "imageUrl": "https://wp.thunhoon.com/wp-content/uploads/2026/11/GTA-VI2-20112026.jpg",
    "published": "2026-11-20T03:36:03+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01NXZwM0Z0dzZyMW9DQ2kzcmNhQVRYV0U4OXJva3VQbGVmMTFSckJZOXEtOG9GZU1yeXRRZTVRS2MyQXR6RC1BNzE1U1pEcFhVTDUxU0tCNE0yUGhBYXN4Zkt2SDZsU09oYmZzX3ZXMlpHcFZMbXpzWg?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01NXZwM0Z0dzZyMW9DQ2kzcmNhQVRYV0U4OXJva3VQbGVmMTFSckJZOXEtOG9GZU1yeXRRZTVRS2MyQXR6RC1BNzE1U1pEcFhVTDUxU0tCNE0yUGhBYXN4Zkt2SDZsU09oYmZzX3ZXMlpHcFZMbXpzWg?oc=5",
+   "hint": ""
   },
   {
    "feedId": "google-news-th",
@@ -315,7 +334,8 @@
    "content": "",
    "imageUrl": "https://tmgm-cdn2.com/images/2026-09-17/WFNtfVaXzM.png",
    "published": "2026-11-20T04:00:39+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZYmItUjlxZ1gxLVhkZndXTUNzSU10cTllaG52RDVYel9Waks5NS1LNGo2SzVnWDI2c2hpYXdTcTUzZzVIYTlNSnAtVTNxTUJlcTVBUm9Sby11czdKem92NFBYczFadTlDYUhaNXJuY0wtVG0zZ1JyWTNaVQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZYmItUjlxZ1gxLVhkZndXTUNzSU10cTllaG52RDVYel9Waks5NS1LNGo2SzVnWDI2c2hpYXdTcTUzZzVIYTlNSnAtVTNxTUJlcTVBUm9Sby11czdKem92NFBYczFadTlDYUhaNXJuY0wtVG0zZ1JyWTNaVQ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-community",
@@ -328,7 +348,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-20T06:30:02+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiighBVV95cUxPa2ppclFlUWRPb2ZhTkNzRXVuekQwOU0wQ2JySThOV2JpSGtoSi1LMXhRVFd6c0RKZE0waWRHaVgxOWlOWTZXVlNaeHNxNHZYLUpyaXotX2xwVlJCQ292Z0EzMjZaWDhoUUVGVXM4NkQzMVREbmpXcGUzRm00VlMtTFlQeFhBNDBBalh4XzlaYTBlQVhRY2lvVUVQcHJ0aVhPV05QeXRiM0c0VlUzOWExeFQxcmh3bzVmMlo2OTJ5Y3lHak5sUHhJdWpQNjllUDdGbmNCb21idzROUE51NW5Hb0dwRkZhWk5OQlRTMFhrTEFVV0hSRUFzQlNVNkJ6bXBxSmlhZUhRaGZZNTBhdHJ3M2JtNnpVR1kxQnlHSTRsVHp0bzVUNmlKS2hodjU2ejBQbmduZHduT3JwUkVzLU5NRFR5MkxIZTl0YWNHRWNCTzg3cmdTVmlxTFdraXkxY2dVenlucTB5VEJpZU9MMGE3NDNGR2EtU1NRWFhOR1BGN0tSdHIwTEhrWFJzVkJROXJEQVR0dk9waEVwQUh0MTl4SHotNUpTdHowYWQtNkNfUFpRU3VlcHZxbXk1MWlYMUMwNlF2eTVGdW5KcHBiX2R1Tng5YVpCaU03TTJUdVNXbHpkLV9HT0RrM2k1Qm1zNHRJOExvRm1yQV9NUU9peElUd0UyWkFTbWpRWjJKeXVDSjdsTERyLXBLWFVNd1VwZHVvdFBxbEtpcVVYTXY5akVlWndOTlNabGx1cm51dHd4ZDMwb3Z4TlBGSlRKU1hVX2JLRFFKWWxsVHVINWR1UmxNWl9FOUZzRTZWUmMzbm1uajh4RFo0RC1FZmlHOHdTamdFcGRBTEJYcERZOEdhd1dVOTZDa0ViT3Q5eGMtdlNCRnU5U2FJay1XZG9vMU5uN0xOTEJNY2ZXc1lIUDZMMlE2YWROREdPV3oydXJKSkw5cWdSOEFIMkhrX3BSYXpDX0R4Z3hlZWNuQVRXT0xza0Ezby1Hdy1pcXNLWjhQd3YxZ0ZpbTkxN1hfYkhoLW5Cdl9BcU1ERnBTMmltUHdvTUFaZV9YSWlzRDFxZE5JeENpZjZLLVF6YkUyTy10ZGo2Qm5taUtZSHdHZmNHbkNNNFFUWDJvN3A2Y1ZEYlJ1QnhRQUpWNGNyQXN1Q3E3V2wtckw2b3pNQjFiV29lZEVvRmR0RWhxZDRFY0EwUXhoTzZUMFFmX3MxUllDNUwyb0ZXM3NuMk0zS0h3ZVB3WnBIWkV0Tk5IWUE1TEVyY0IxNUpyTlV5ODNDb05wZ3JkWWxjTFptczlVWk9GYmcxNm5IcmJDSk5ELUNEWU5OR2lGU3NzN3FMYlJtMjFncFBBeFlBOTRZb3JaXzNGX09iQQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiighBVV95cUxPa2ppclFlUWRPb2ZhTkNzRXVuekQwOU0wQ2JySThOV2JpSGtoSi1LMXhRVFd6c0RKZE0waWRHaVgxOWlOWTZXVlNaeHNxNHZYLUpyaXotX2xwVlJCQ292Z0EzMjZaWDhoUUVGVXM4NkQzMVREbmpXcGUzRm00VlMtTFlQeFhBNDBBalh4XzlaYTBlQVhRY2lvVUVQcHJ0aVhPV05QeXRiM0c0VlUzOWExeFQxcmh3bzVmMlo2OTJ5Y3lHak5sUHhJdWpQNjllUDdGbmNCb21idzROUE51NW5Hb0dwRkZhWk5OQlRTMFhrTEFVV0hSRUFzQlNVNkJ6bXBxSmlhZUhRaGZZNTBhdHJ3M2JtNnpVR1kxQnlHSTRsVHp0bzVUNmlKS2hodjU2ejBQbmduZHduT3JwUkVzLU5NRFR5MkxIZTl0YWNHRWNCTzg3cmdTVmlxTFdraXkxY2dVenlucTB5VEJpZU9MMGE3NDNGR2EtU1NRWFhOR1BGN0tSdHIwTEhrWFJzVkJROXJEQVR0dk9waEVwQUh0MTl4SHotNUpTdHowYWQtNkNfUFpRU3VlcHZxbXk1MWlYMUMwNlF2eTVGdW5KcHBiX2R1Tng5YVpCaU03TTJUdVNXbHpkLV9HT0RrM2k1Qm1zNHRJOExvRm1yQV9NUU9peElUd0UyWkFTbWpRWjJKeXVDSjdsTERyLXBLWFVNd1VwZHVvdFBxbEtpcVVYTXY5akVlWndOTlNabGx1cm51dHd4ZDMwb3Z4TlBGSlRKU1hVX2JLRFFKWWxsVHVINWR1UmxNWl9FOUZzRTZWUmMzbm1uajh4RFo0RC1FZmlHOHdTamdFcGRBTEJYcERZOEdhd1dVOTZDa0ViT3Q5eGMtdlNCRnU5U2FJay1XZG9vMU5uN0xOTEJNY2ZXc1lIUDZMMlE2YWROREdPV3oydXJKSkw5cWdSOEFIMkhrX3BSYXpDX0R4Z3hlZWNuQVRXT0xza0Ezby1Hdy1pcXNLWjhQd3YxZ0ZpbTkxN1hfYkhoLW5Cdl9BcU1ERnBTMmltUHdvTUFaZV9YSWlzRDFxZE5JeENpZjZLLVF6YkUyTy10ZGo2Qm5taUtZSHdHZmNHbkNNNFFUWDJvN3A2Y1ZEYlJ1QnhRQUpWNGNyQXN1Q3E3V2wtckw2b3pNQjFiV29lZEVvRmR0RWhxZDRFY0EwUXhoTzZUMFFmX3MxUllDNUwyb0ZXM3NuMk0zS0h3ZVB3WnBIWkV0Tk5IWUE1TEVyY0IxNUpyTlV5ODNDb05wZ3JkWWxjTFptczlVWk9GYmcxNm5IcmJDSk5ELUNEWU5OR2lGU3NzN3FMYlJtMjFncFBBeFlBOTRZb3JaXzNGX09iQQ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-community",
@@ -341,7 +362,64 @@
    "content": "",
    "imageUrl": "https://www.matichon.co.th/weekly/wp-content/uploads/2026/11/CTW03090_0-1200x800.jpg",
    "published": "2026-11-20T04:08:24+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IVlptSC1ZcWxOcXJELVYwTG1fTUsyN1lmcEJvRWNZdHVlUlpOek9xWEtRVFhZdmJMbzk1a0w3RzdHUHJvVWhCQlVfYzdwQUktUFpVaUxOUEE3aExiQ2tUYw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IVlptSC1ZcWxOcXJELVYwTG1fTUsyN1lmcEJvRWNZdHVlUlpOek9xWEtRVFhZdmJMbzk1a0w3RzdHUHJvVWhCQlVfYzdwQUktUFpVaUxOUEE3aExiQ2tUYw?oc=5",
+   "hint": ""
+  },
+  {
+   "feedId": "g-community",
+   "category": "ข่าวชุมชน",
+   "source": "Google News",
+   "publisher": "COP'S Magazine",
+   "title": "นครบาลผนึกกำลัง ป.ป.ส.กทม. จู่โจมชุมชนย่านหลักสี่-จตุจักร จับเอเย่นต์ 4 ราย หิ้ว 13 ผู้เสพเข้าบำบัด “ชัชชาติ” รุดลงพื้นที่ปลุกชาวบ้านร่วมสอดส่อง",
+   "link": "https://www.cops-magazine.com/topic/160128/",
+   "summary": "ที่มา: COP'S Magazine",
+   "content": "",
+   "imageUrl": "https://www.cops-magazine.com/wp-content/uploads/2026/11/1795147570070.jpg",
+   "published": "2026-11-20T04:36:37+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55UWlkc2JNbTQ1WFNWRU1jcVdub3F6ZVBEZl91NUdhZ2FuQnRBa1B0MmtXLThCRkQ5MTFfNUNEOHg4alVERV9fbkRqTlFuZktBVHh2LXdn?oc=5",
+   "hint": "นครบาลผนึกกำลัง ป.ป.ส.กทม. จู่โจมชุมชนย่านหลักสี่-จตุจักร จับเอเย่นต์ 4 ราย หิ้ว 13 ผู้เสพเข้าบำบัด “ชัชชาติ” รุดลงพื้นที่ปลุกชาวบ้านร่วมสอดส่อง - COP'S Magazine พล.ต.ท.สยาม บุญสม ผบช.น. มอบหมายให้ พล.ต.ต.ธีรเดช ธรรมส […] นครบาลผนึกกำลัง ป.ป.ส.กทม. จู่โจมชุมชนย่านหลักสี่-จตุจักร จับเอเย่นต์ 4 ราย หิ้ว 13 ผู้เสพเข้าบำบัด “ชัชชาติ” รุดลงพื้นที่ปลุกชาวบ้านร่วมสอดส่อง - COP'S Magazine"
+  },
+  {
+   "feedId": "g-community",
+   "category": "ข่าวชุมชน",
+   "source": "Google News",
+   "publisher": "แนวหน้า",
+   "title": "ข่าวดีท้ายเหมือง! แม่เต่ามะเฟืองพาย 2 เมตร-ขึ้นวางไข่หาดบ่อดานพังงา 74 ฟอง",
+   "link": "https://www.naewna.com/n/like-learn/180737/",
+   "summary": "ที่มา: แนวหน้า",
+   "content": "",
+   "imageUrl": "https://storage-wp.naewna.com/2026/11/1-553.jpg",
+   "published": "2026-11-20T02:40:48+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aNlBiZE1mQzhaSFZQSmltYWFsS1ZNaW5GVEp3ZnJKdnFxcVpJVHNxcXBNOS11bmU1OTJpNDVuUXh1MWxyU3dJSm5TUTY5S1Q0LU4xYVl3?oc=5",
+   "hint": "ข่าวดีท้ายเหมือง! แม่เต่ามะเฟืองพาย 2 เมตร-ขึ้นวางไข่หาดบ่อดานพังงา 74 ฟอง ข่าวดีท้ายเหมือง! สทช.6 สนธิกำลังร่วมชุมชนบ่อดาน ตรวจพบเต่ามะเฟืองแม่พันธุ์ใหญ่ ความยาวพายกว้าง 2 เมตร ขึ้นวางไข่ชายหาดบ่อดาน ตะกั่วป่า-ท้ายเหมือง นับได้ ข่าวดีท้ายเหมือง! แม่เต่ามะเฟืองพาย 2 เมตร-ขึ้นวางไข่หาดบ่อดานพังงา 74 ฟอง - สำนักข่าวแนวหน้า มั่นคง ตรงไป ตรงมา"
+  },
+  {
+   "feedId": "g-community",
+   "category": "ข่าวชุมชน",
+   "source": "Google News",
+   "publisher": "Vietnam.vn",
+   "title": "เมื่อผู้ที่จบปริญญาเอกและปริญญาโทไปทำงานในหมู่บ้านและเมืองต่างๆ",
+   "link": "https://www.vietnam.vn/th/khi-tien-si-thac-si-nhan-viec-lang-viec-pho",
+   "summary": "ที่มา: Vietnam.vn",
+   "content": "",
+   "imageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/20/1795147910638_01a1f6d6-08e4-7e5f-8a8c-19f83e68fe36.jpeg",
+   "published": "2026-11-20T04:50:53+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kbkRDNlB2SDZ4bDJENVVZQWdYZVJoTDZZOVA2ZktlM1daQUd5VGhfSHoyS2s2NDNFV0ppUVJOcFJ6WEpxbXNmUnhmbVVvT0hHMDg4dVRTVk1NZWRqMU4ycnZUUFhEeENES21NbjM1OGUyT2J6cVExOA?oc=5",
+   "hint": "เมื่อผู้ที่จบปริญญาเอกและปริญญาโทไปทำงานในหมู่บ้านและเมืองต่างๆ VHO - ในจังหวัดดักลัก มีผู้จบปริญญาเอกและปริญญาโทจำนวนมากที่เข้าไปทำงานในหมู่บ้านและเมืองต่างๆ ในพื้นที่ที่ตนเองอาศัยอยู่ หลังจากทำงานในภาคธุรกิจและโครงการพัฒนามาหลายปี พวกเขานำความรู้และประสบการณ์กลับมาช่วยเหลือชุมชน ทำงานร่วมกับประชาชนเพื่อแก้ไขปัญหาในทางปฏิบัติ และสร้างพื้นที่อยู่อาศัยที่เจริญรุ่งเรืองและพัฒนายิ่งขึ้น เมื่อผู้ที่จบ"
+  },
+  {
+   "feedId": "g-community",
+   "category": "ข่าวชุมชน",
+   "source": "Google News",
+   "publisher": "ช่อง 7",
+   "title": "สุดทน ! กองขยะเน่าเหม็นกลางชุมชน จ.พังงา",
+   "link": "https://www.ch7.com/en/news/204502/",
+   "summary": "ที่มา: ช่อง 7",
+   "content": "",
+   "imageUrl": "",
+   "published": "2026-11-20T02:22:43+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xMWh0bjdRTGdLTlRhb0hNeG1RZzVMLVZMOWdDb3plWTh5T0VlX2tBa2FzZFFSQ253SEJPVG01TnQwUzZ5bUZxSkE2bw?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-community",
@@ -354,7 +432,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-20T02:00:03+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMi6gdBVV95cUxNb3NaZmkxcjlORllWTjNkSmNXMkxRQWdWRldzS3FjWkhwWnpCTzFJem9lMnNfbDJ6T2xHaE5KTkhkcDBpSHQtZG9MQ3U2ZDFiV2hxdnlNZXc3VUdSVGd0R1NEUFJYYmkyeHk0cUp2WmhCczBhOHE5V2dqSmRUSFA1VHNQVjBISVVLR0ZvMDRmV0hLTndYZ0lhY2RQbFEtZkJDYVVoV2tOaXZCV0JLUlFlSFV2dU9xX1pDc0duUEhOX3ZOTmZLVVlyLUpFYTA3NFlFOVRHWUdETEJQWE16S2NGTHh0N1Q4X3Jfa09uZEhqeDV0NS1PcndVVUdUcnpPbVhDWjRucTNTOWdmb05WcF9uYUN4RHpyN2tfRFNUcGJnZWNRMkxOSVhRWFpDcDdsMGRIRjNxQ285bjB1eDdCRU1HeGNUTzJ0cjhPN1N4Q095ams1QXpscDVqLTIxSGpNV0dLS3M4YUNoOFc0NzMyakJSbGp2RjhKWDYxQ25QUnVUaXVVU21JZmdpYmRoWmFHTDlSWEl1Ri1jWGJKbUxUNmplS2ljcnFEMzF6d3FfSVJfX0hfLU1MXzVjM1M3dmJ1ZVBGaEVmUV9mZVZveWZIUHk3YUt5bXoxUmdoYzJDamJDZGlCT0NmN281a0FoTkVvTnJwU1puZGlnN2twZENVelZCWTM0QXZycVFWc3pRQ211bW5OdXNNb3g4QXVZeENIanJiMzJkaXRlWkN3ZGlwZ3ZaTUptcGJvaTRMb1lNT2RQV0dfbzRrRV9LNERNZllnazAxUGlldkhhVEJUamZqRVI0cU5JdTBxcXdmYW56bkRlZ05kWXdFY05uUzJmeHhMVUtSdmhULU5SVzJ2TzczbHNHWElpTGV1UXk3M2haUHc1ZmxjYk4zNlNjbFBmdU5XbEdTcFlYLVh1UUxGRmM4eWluSC1hQktKMU1hMkQ4eC1nOUFiMjBtTVZTcnoyV1NrWUpPWDFPeGVHRmZQMUxzNGdQVEx2M21mM1hOOTk2alp0a3l4RVZaT0dkWUpLRG1TWVZicXo5S2lFN0poVU5hb3I3VXlNcjNNRVNPWFhJUHMyZ2FEQ2lVU0Y3Y3ZpNUx2eXI0U3BJUUhPX2xSQXVSTDQ2RXZMdmF0dnc5YU9jUkRMaWRsY0FnandSYnZfVTlTWXJTN0NsejVUNW0yRUcxR05LTTBzQWl6Y3kxNlZiY04yN3R5Y1NFOVg2SjNOSVZFd0ZwZ1ZuTi1TdTdEVVhqTGh6NTU0WEczcXZ0bU1ZalFyeDBWRHdJZ3VKUEtBTFVpaVNUSzEzUVVBREtXQVh0eWhhMWM2RXhReWh3c3c?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMi6gdBVV95cUxNb3NaZmkxcjlORllWTjNkSmNXMkxRQWdWRldzS3FjWkhwWnpCTzFJem9lMnNfbDJ6T2xHaE5KTkhkcDBpSHQtZG9MQ3U2ZDFiV2hxdnlNZXc3VUdSVGd0R1NEUFJYYmkyeHk0cUp2WmhCczBhOHE5V2dqSmRUSFA1VHNQVjBISVVLR0ZvMDRmV0hLTndYZ0lhY2RQbFEtZkJDYVVoV2tOaXZCV0JLUlFlSFV2dU9xX1pDc0duUEhOX3ZOTmZLVVlyLUpFYTA3NFlFOVRHWUdETEJQWE16S2NGTHh0N1Q4X3Jfa09uZEhqeDV0NS1PcndVVUdUcnpPbVhDWjRucTNTOWdmb05WcF9uYUN4RHpyN2tfRFNUcGJnZWNRMkxOSVhRWFpDcDdsMGRIRjNxQ285bjB1eDdCRU1HeGNUTzJ0cjhPN1N4Q095ams1QXpscDVqLTIxSGpNV0dLS3M4YUNoOFc0NzMyakJSbGp2RjhKWDYxQ25QUnVUaXVVU21JZmdpYmRoWmFHTDlSWEl1Ri1jWGJKbUxUNmplS2ljcnFEMzF6d3FfSVJfX0hfLU1MXzVjM1M3dmJ1ZVBGaEVmUV9mZVZveWZIUHk3YUt5bXoxUmdoYzJDamJDZGlCT0NmN281a0FoTkVvTnJwU1puZGlnN2twZENVelZCWTM0QXZycVFWc3pRQ211bW5OdXNNb3g4QXVZeENIanJiMzJkaXRlWkN3ZGlwZ3ZaTUptcGJvaTRMb1lNT2RQV0dfbzRrRV9LNERNZllnazAxUGlldkhhVEJUamZqRVI0cU5JdTBxcXdmYW56bkRlZ05kWXdFY05uUzJmeHhMVUtSdmhULU5SVzJ2TzczbHNHWElpTGV1UXk3M2haUHc1ZmxjYk4zNlNjbFBmdU5XbEdTcFlYLVh1UUxGRmM4eWluSC1hQktKMU1hMkQ4eC1nOUFiMjBtTVZTcnoyV1NrWUpPWDFPeGVHRmZQMUxzNGdQVEx2M21mM1hOOTk2alp0a3l4RVZaT0dkWUpLRG1TWVZicXo5S2lFN0poVU5hb3I3VXlNcjNNRVNPWFhJUHMyZ2FEQ2lVU0Y3Y3ZpNUx2eXI0U3BJUUhPX2xSQXVSTDQ2RXZMdmF0dnc5YU9jUkRMaWRsY0FnandSYnZfVTlTWXJTN0NsejVUNW0yRUcxR05LTTBzQWl6Y3kxNlZiY04yN3R5Y1NFOVg2SjNOSVZFd0ZwZ1ZuTi1TdTdEVVhqTGh6NTU0WEczcXZ0bU1ZalFyeDBWRHdJZ3VKUEtBTFVpaVNUSzEzUVVBREtXQVh0eWhhMWM2RXhReWh3c3c?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-community",
@@ -367,20 +446,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-19T11:52:17+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KYWQxWFdvNF9DN2FpNmVMelZ0NW5lQ3pxcU5RZmd5SFIwTGx3VTFkRkdFS3hzUS1uTGh6N0UwZ0dYM1MtUXgzQXFyVWJOclk?oc=5"
-  },
-  {
-   "feedId": "g-community",
-   "category": "ข่าวชุมชน",
-   "source": "Google News",
-   "publisher": "COP'S Magazine",
-   "title": "ภูเขาขยะทุนจีน 5 หมื่นตันโผล่ \"ห้วยกระเจา\" ชาวบ้านสุดทนกลิ่นเหม็นคลุ้ง ร้องสอบโรงงานรีไซเคิลเถื่อน ซุกมลพิษมหึมากลางชุมชน",
-   "link": "https://www.cops-magazine.com/topic/160086/",
-   "summary": "ที่มา: COP'S Magazine",
-   "content": "",
-   "imageUrl": "",
-   "published": "2026-11-19T10:08:59+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lSm9pRTMtTnRIdF91UVNmYl8tNHBmX1JRUHFQYlhvaHpUeTJLdzg3REMyejhvNXF6ZEktQWRkVDBEd1ZOamQ0R2FuZzZsZnlOcEhWZFVn?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KYWQxWFdvNF9DN2FpNmVMelZ0NW5lQ3pxcU5RZmd5SFIwTGx3VTFkRkdFS3hzUS1uTGh6N0UwZ0dYM1MtUXgzQXFyVWJOclk?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-community",
@@ -393,7 +460,8 @@
    "content": "",
    "imageUrl": "https://mpics2.mgronline.com/pics/Images/569000011233202.JPEG",
    "published": "2026-11-19T08:31:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kNjJfM3dTRmh2WGZ2d0lGUC1OM01Xc0VuQk1NSFZCMFBZcHJYZ19VTUlaNEUwdUhnaEdpSHFsQzlCUFotUnZFMG84UWJoLVdDNHhLWXcybXpiMkg4?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kNjJfM3dTRmh2WGZ2d0lGUC1OM01Xc0VuQk1NSFZCMFBZcHJYZ19VTUlaNEUwdUhnaEdpSHFsQzlCUFotUnZFMG84UWJoLVdDNHhLWXcybXpiMkg4?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-community",
@@ -406,20 +474,22 @@
    "content": "",
    "imageUrl": "https://siamrath.co.th/assets/4f99a980-ab7e-498b-8e17-27e94a0b4900?width=680&quality=80&format=webp",
    "published": "2026-11-19T07:25:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vM0tGYkhZU1MzcTliaEs5bGwxR1RqY3Q4dXplb05RMWpGYnpzdVRfOHlLclRhMXhtNjlCbXpqTjZ3aC0xUDhIc2FhUHhzTTA?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vM0tGYkhZU1MzcTliaEs5bGwxR1RqY3Q4dXplb05RMWpGYnpzdVRfOHlLclRhMXhtNjlCbXpqTjZ3aC0xUDhIc2FhUHhzTTA?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-community",
    "category": "ข่าวชุมชน",
    "source": "Google News",
-   "publisher": "www.ch7.com",
-   "title": "ล่ามือดีบุกเผารถ จยย.ของชาวบ้านวอด จ.พัทลุง",
-   "link": "https://www.ch7.com/news/204160/",
-   "summary": "ที่มา: www.ch7.com",
+   "publisher": "ททบ. 5",
+   "title": "นครพนมเดือด! ชาวบ้านรวมตัวต้านทุนจีนรุกป่าสร้างฟาร์มหมู 100 ล้าน",
+   "link": "https://thaitv5hd.com/content/204079/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%9E%E0%B8%99%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94-%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%A3%E0%B8%B8%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B9-100-%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99",
+   "summary": "ที่มา: ททบ. 5",
    "content": "",
-   "imageUrl": "",
-   "published": "2026-11-19T02:52:32+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzX2swWl9sY0pHWEh4NHNjcU5JWDh1dXVGeW9WM2NLbUxMOWp1RGc4MDk4enl3SXVEMU1IVDJEeVpVUzZJa2hJ?oc=5"
+   "imageUrl": "https://thaitv5hd.com/content-manager/article_image?id=204079&ym=2026-11&file=article204079_20261118_aoxnr.webp",
+   "published": "2026-11-18T08:56:00+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiggZBVV95cUxQNXZITGJmN2R1RDBvc2s5d2xzR1lGRGhDV29lN19xMFVmTk40bHI3ajhLR3c0NlZWNlVxS1hUZlBhZEtxcDVRQkFQaEYxdnY3TXBoUnd1cmUzRTVCWWM4dktvUFVOdm95cW5FaEZHMDdieEtGY1M2eUJtOVFWc2tOaVNQS295eGlmcnRjcHpQZF9JcWJRck81eVlJcGdQc0JKd3BLRjN0eFJyZGFtckRmVVR1NmItcHhXaU1fWGltOGFGWmtHa2c0WERGV185WFdIc2xmbC1DMVVsM2xUNnpFZlN4R25rb0F2VmhQc0dFWWNmWDV4V0lQT2ZONVduQklrQlRObXpiVV81MHBZQ2l4RlppanBiM1pDNkJFZDhpN2UxQWI1T2I4Zk5tY3RabnRXVEZWYmpOZWE1MjM1YjhiUUY1LTFBNVVESU1ILTVDc282LXVCY3U3MXRUM05MRjY1Vk0zYUxwQkVGTUxEaVJ4b0hTdGZHb1pvczhDREVkOEE1SFNxUlVxRGZJYTQ3cTkwZEhXQTFNblZhRDkwYTV5SkQ4dWw4WTlTdnF6Y0RSUGFNLTAxdVpod0lfVTBSNjJITUtmdGF0NVlySVNjVk5IVE44OTJWV2dZU2pFZG9ub0t0YjFYbWxvblVjSE1uYk44cG1SRTl5NlZfRXRYR1lsQ1RFOE5DUElWYnVndmZPZGpMZHdCY2M3X3hkNTBHZ0otbmVnXzJSWVZaVmdNa1NnZm5QSE1SdDdrVFo5amtPdmJPV0NNZEctaGY4cEF4Z2taZEFDcGsxcE9Tc202QnFuVUl6dUY2RF9ZV0NZamczSkRTT1hHbGhQQUtpcldvODBxbUxVWW02T3c1VUlzWjdVNFY5RDJYWEQ0bVI5TkdHRVFqUmdYNU8tQmgtcUdZYlk0eGx5UW10S1VQTW1yRGJ3NzFJZU1vN2JDN09ZT1RyVHdxRWpsbUJqaGJOV2ZaLUd1SzM1QldaRmRaNVQtakNsZVlpeVMzajczRlF2Y0RoWFUyZw?oc=5",
+   "hint": "นครพนมเดือด! ชาวบ้านรวมตัวต้านทุนจีนรุกป่าสร้างฟาร์มหมู 100 ล้าน ‘นายอำเภอโพนสวรรค์’ สั่งตั้งกรรมการสอบข้อเท็จจริง! ปมเอกชนกลุ่มทุนจีนเทากว้านซื้อป่า 60 ไร่เตรียมสร้างฟาร์มหมูยักษ์ 8,000 ตัว นครพนมเดือด! ชาวบ้านรวมตัวต้านทุนจีนรุกป่าสร้างฟาร์มหมู 100 ล้าน | สถานีวิทยุโทรทัศน์กองทัพบก TV5HD"
   },
   {
    "feedId": "g-community",
@@ -432,46 +502,8 @@
    "content": "",
    "imageUrl": "https://resource.nationtv.tv/uploads/images/md/2026/11/r2F1ZnBO0XKukxuy8GoK.webp",
    "published": "2026-11-18T07:25:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xQzZyMDdmOVpoZmJZRDVlZzR6al9oX1c0U094QVF1Rm1zTlFzMjAzcE12OGlpUWVQQkR0X0ZGeTJTSlZmQkYyRDFHVXR5QlN6ckZiVzFFczI?oc=5"
-  },
-  {
-   "feedId": "g-community",
-   "category": "ข่าวชุมชน",
-   "source": "Google News",
-   "publisher": "แนวหน้า",
-   "title": "ชาวบ้านเขาย้อยฮือ! บุกยื่นหนังสืออุตสาหกรรมเพชรบุรี-ค้านตั้งโรงงานขยะอิเล็กทรอนิกส์ทุนจีน",
-   "link": "https://www.naewna.com/n/national-news/173909/",
-   "summary": "ที่มา: แนวหน้า",
-   "content": "",
-   "imageUrl": "https://storage-wp.naewna.com/2026/11/739263_0.jpg",
-   "published": "2026-11-18T07:26:22+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiYU14cGU4UzNHV3pzMTlhVzBYTEVjN1FBQmFNOG9EMnFjZlEzTkVNMTRIUGc0dVVFWlJwT3M2Z1ZzNUs5MmIzRTlJME1ZbDNFcWV3N3VpVU1pZw?oc=5"
-  },
-  {
-   "feedId": "g-community",
-   "category": "ข่าวชุมชน",
-   "source": "Google News",
-   "publisher": "News1Live",
-   "title": "เขาย้อยเดือด! ชาวบ้านบุกอุตสาหกรรมเพชรบุรี ค้าน 2 โรงงาน หวั่นขยะพิษ-สารเคมีถล่มชุมชน!",
-   "link": "https://news1live.com/detail/1794987973536",
-   "summary": "ที่มา: News1Live",
-   "content": "",
-   "imageUrl": "https://media.news1live.com/f8e5a384ca5916c5dd44b504e32791f94582cf4a60987ef10329807a43d4fa1a.webp",
-   "published": "2026-11-18T09:15:01+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5Tk8tWFJvaHBpa0U1eEhlcUVLbC1hWllfYUFjdmVWU201d3lEMUNlbFpYN0F0elhNMnp3b2VmbTkwMnE5Y1gyQjdXeFlBRHA5aE00cA?oc=5"
-  },
-  {
-   "feedId": "g-community",
-   "category": "ข่าวชุมชน",
-   "source": "Google News",
-   "publisher": "ผู้จัดการออนไลน์",
-   "title": "แฉทุนจีนเทาอ้างเส้นใหญ่ระดับนายกฯ! รุกป่าโพนสวรรค์ 60 ไร่ ผุดฟาร์มหมูยักษ์ 8,000 ตัว ชาวบ้านฮือต้านทำประชาคมรวบรัด 2 วัน",
-   "link": "https://mgronline.com/local/detail/9690000110320",
-   "summary": "ที่มา: ผู้จัดการออนไลน์",
-   "content": "",
-   "imageUrl": "https://mpics2.mgronline.com/pics/Images/569000011195601.JPEG",
-   "published": "2026-11-18T07:41:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FWW8ydkN1dFlBU3BreXE4UThZbmxSRjRHZ0ZNQVo1WWtfUW9tbF8zUUR6WExkVnJ0cEZLbWpPWWNBVzVOazhqdG9mV0IzZWd6UDR5bk1iOXdQY18y?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xQzZyMDdmOVpoZmJZRDVlZzR6al9oX1c0U094QVF1Rm1zTlFzMjAzcE12OGlpUWVQQkR0X0ZGeTJTSlZmQkYyRDFHVXR5QlN6ckZiVzFFczI?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-local",
@@ -484,7 +516,8 @@
    "content": "",
    "imageUrl": "https://www.isranews.org/article/images/stories/flexicontent/l_dla-20-11-26-pic.jpg",
    "published": "2026-11-20T00:12:33+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT2ZVOHVuNTZveVlqaWNVMThyNGw0ZWQxSEVKWTRxTTBNbko5MDRFUDZpSDJKRmc1bE9VUjZFLU5hZG9Ob3hQNzVoMTVoT0oya18wajBmeGtkRE41YTBMRTY0cmFuV212MFVpQlRCR1pYVnptRkpwQ2ludk1tOFJlYTdwM0JjbG5tZm9EdWJJTnk2U0pWUkFPOFNDTXo2RjMyMm5lQjlOMFpfSGlsbG5YR0lwQkhVU2lMOWtz?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT2ZVOHVuNTZveVlqaWNVMThyNGw0ZWQxSEVKWTRxTTBNbko5MDRFUDZpSDJKRmc1bE9VUjZFLU5hZG9Ob3hQNzVoMTVoT0oya18wajBmeGtkRE41YTBMRTY0cmFuV212MFVpQlRCR1pYVnptRkpwQ2ludk1tOFJlYTdwM0JjbG5tZm9EdWJJTnk2U0pWUkFPOFNDTXo2RjMyMm5lQjlOMFpfSGlsbG5YR0lwQkhVU2lMOWtz?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-local",
@@ -497,7 +530,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-20T03:00:04+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMi9AdBVV95cUxOcHdFQnA3Zk5nWGVvNjd1c3ZxMlV5WlhqWmkxM3NYa0R5Vm9SNnh5Sk0wTmU2UUlzZTBxbHVUc0sxRFlXUWNKQXFQcDlEZjNjbkxZTjVzS0k5bmxSSm52ZVN6T2NlR05HS2VydTdRa1lFa2xFMjBMVFRpbmdYTlJSVWZ0RDZVZEg0TG00Y2NlTHNHODlxMl95TFZfVTRvVW5qSjhWdzVWM3JLcVNEU08ySWFxSGRDRjJKV0MwcHNyX3psb0t0STJLeUdhZzh6Mk42Q3J3Ym9BbHZzUFFvLVZoSUM3ak5yVTBmZzBObDRxenlVMllrd1FhdFpyRVVISzUtV1JpaXRILTVkS2gyeTNQZDlwMDNidWtubEt4Tnp2T0FTSjIxLWcwYzhobHNFR2hSMHVBcUI5YmlpdVgtQkZHS2lRT2hzREE0SVVoVFNfZGlCSFlreW9mWkZ2WEdaYkM2a01SaHE0OXh5aGNSa0g2LWFnM19jMW81cVZNRUlZX0ZMWjFzc2dIaVhJTDBnYVZEdk1LS2laWmFhSThuYlVJSURSbWlUcGZDMHdyLUhaMmJHUWMyVUxaSldWeDl4OXhqYUNLNDVwcXB3SkJvdjNGMmxoY0NidlUxZUtWYnk0Z2QyZVZtYk9ZOGhzSzJiREd4cGhyR3o4N3dzMWdhNkM4cUFkc21Kd19FNUNuUHBrR28tbzBLRFY5bTNON1dlR1o0RVM2Z2FOSEQzeERzNS0tR0ZWemdidjdFSWE0SHB0Y21ITkEzSEtZLXJUSURxbzBoTV80c0NDVWtjcEkwclRMNDZJSjl4TzhMVm04TEdsQU1OV2ZVWGxQU09NV2hDWkoybDQzSnZ0SGVnSHk4SFZMMFpYOWM0bEV1a3djODJlR0FRRjhQc1NqWW5XcG1xZHFfUFZxY21aOUszZDYyYWR0cFRzUk00OV92NHFqT3BTVndGUUo3VlVYSUZmMkNaS0FVa0lzczBoQk1BOGlEdThGRDZtak81TUNieDlfbVdfTUpmdS1CX1YxeE02ckxkVHNvTFM4Y1pBOXNkVVkzOXVaY1JfTUJtZVVsZ29SUHNJN3dHS3JJakpVeE1XQncydXFyRXhCWmNNNVIxaUlnQ29udEw0OVMzYjVBTVBqa2N1OUV1WG1WeWJ5dkZUS0RMdmNUYUtIaFJVS1R4Q0FlMmxJLTZhYTU2QkZTUGVGQncyUnFSN09scjBhX2tVTGp4OV83eHVvM18xRmRaZ2E0Y3dDWG55UU1kWFFkdnI5TEJXQTBjaDc4WHFTOGROUm0tUlZ3ZjVXWUZzMVpMRHpmWlRUUVBra0FXQVI5Mi1FWE1iLUlCcHEy?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMi9AdBVV95cUxOcHdFQnA3Zk5nWGVvNjd1c3ZxMlV5WlhqWmkxM3NYa0R5Vm9SNnh5Sk0wTmU2UUlzZTBxbHVUc0sxRFlXUWNKQXFQcDlEZjNjbkxZTjVzS0k5bmxSSm52ZVN6T2NlR05HS2VydTdRa1lFa2xFMjBMVFRpbmdYTlJSVWZ0RDZVZEg0TG00Y2NlTHNHODlxMl95TFZfVTRvVW5qSjhWdzVWM3JLcVNEU08ySWFxSGRDRjJKV0MwcHNyX3psb0t0STJLeUdhZzh6Mk42Q3J3Ym9BbHZzUFFvLVZoSUM3ak5yVTBmZzBObDRxenlVMllrd1FhdFpyRVVISzUtV1JpaXRILTVkS2gyeTNQZDlwMDNidWtubEt4Tnp2T0FTSjIxLWcwYzhobHNFR2hSMHVBcUI5YmlpdVgtQkZHS2lRT2hzREE0SVVoVFNfZGlCSFlreW9mWkZ2WEdaYkM2a01SaHE0OXh5aGNSa0g2LWFnM19jMW81cVZNRUlZX0ZMWjFzc2dIaVhJTDBnYVZEdk1LS2laWmFhSThuYlVJSURSbWlUcGZDMHdyLUhaMmJHUWMyVUxaSldWeDl4OXhqYUNLNDVwcXB3SkJvdjNGMmxoY0NidlUxZUtWYnk0Z2QyZVZtYk9ZOGhzSzJiREd4cGhyR3o4N3dzMWdhNkM4cUFkc21Kd19FNUNuUHBrR28tbzBLRFY5bTNON1dlR1o0RVM2Z2FOSEQzeERzNS0tR0ZWemdidjdFSWE0SHB0Y21ITkEzSEtZLXJUSURxbzBoTV80c0NDVWtjcEkwclRMNDZJSjl4TzhMVm04TEdsQU1OV2ZVWGxQU09NV2hDWkoybDQzSnZ0SGVnSHk4SFZMMFpYOWM0bEV1a3djODJlR0FRRjhQc1NqWW5XcG1xZHFfUFZxY21aOUszZDYyYWR0cFRzUk00OV92NHFqT3BTVndGUUo3VlVYSUZmMkNaS0FVa0lzczBoQk1BOGlEdThGRDZtak81TUNieDlfbVdfTUpmdS1CX1YxeE02ckxkVHNvTFM4Y1pBOXNkVVkzOXVaY1JfTUJtZVVsZ29SUHNJN3dHS3JJakpVeE1XQncydXFyRXhCWmNNNVIxaUlnQ29udEw0OVMzYjVBTVBqa2N1OUV1WG1WeWJ5dkZUS0RMdmNUYUtIaFJVS1R4Q0FlMmxJLTZhYTU2QkZTUGVGQncyUnFSN09scjBhX2tVTGp4OV83eHVvM18xRmRaZ2E0Y3dDWG55UU1kWFFkdnI5TEJXQTBjaDc4WHFTOGROUm0tUlZ3ZjVXWUZzMVpMRHpmWlRUUVBra0FXQVI5Mi1FWE1iLUlCcHEy?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-local",
@@ -510,7 +544,8 @@
    "content": "",
    "imageUrl": "https://thestandard.co/wp-content/uploads/2026/11/anutin-local-gov-solar-cover.jpg",
    "published": "2026-11-20T00:53:58+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvMVhPd0I0dndRaDE1YVYxOEJSLWRyODZfTFRVZThCcW5meHNGZi1pTnk1MklSUWNpS2lDMVg4a2I5OFRiZjVLdU5tSHpoOTJNQVpOZ1dpQnljOC00cUZJRA?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvMVhPd0I0dndRaDE1YVYxOEJSLWRyODZfTFRVZThCcW5meHNGZi1pTnk1MklSUWNpS2lDMVg4a2I5OFRiZjVLdU5tSHpoOTJNQVpOZ1dpQnljOC00cUZJRA?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-local",
@@ -523,7 +558,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-19T13:35:13+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vUTQ4dXg5ZWw2UU9OWlpzMlVGUkI5T3VHM1owS0xQZm56a2hWa2NpMFpLTGxtNkxqcU5sb0ZQWFlVaVNZREo1ejdra1dNT1k?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vUTQ4dXg5ZWw2UU9OWlpzMlVGUkI5T3VHM1owS0xQZm56a2hWa2NpMFpLTGxtNkxqcU5sb0ZQWFlVaVNZREo1ejdra1dNT1k?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-local",
@@ -536,7 +572,8 @@
    "content": "",
    "imageUrl": "https://www.matichon.co.th/wp-content/uploads/2026/11/CTW02739-1024x683.jpg",
    "published": "2026-11-19T06:02:39+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqZFVRR2gxZ2JOejBFMm1aVWNDcDBWVHM2WExaZWJBcFdHUGZ0b05LdURyS2N2WHRaR05Oc241UnVsS3dmSHJJcEhkSzF3VFh6VXI4dHYzNVdoelhBT2c?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqZFVRR2gxZ2JOejBFMm1aVWNDcDBWVHM2WExaZWJBcFdHUGZ0b05LdURyS2N2WHRaR05Oc241UnVsS3dmSHJJcEhkSzF3VFh6VXI4dHYzNVdoelhBT2c?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-local",
@@ -549,7 +586,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-19T05:18:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ickVGX0JpNWhJdU8xeTdIdVNqdUd2Y1NFWm8zYWJsM3M3VWJSamd5NEJoZDdKTXlHbVBfUjl3WXNNdmtDVmRJOWlkU3lyS3F0MXI4?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ickVGX0JpNWhJdU8xeTdIdVNqdUd2Y1NFWm8zYWJsM3M3VWJSamd5NEJoZDdKTXlHbVBfUjl3WXNNdmtDVmRJOWlkU3lyS3F0MXI4?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-local",
@@ -562,7 +600,8 @@
    "content": "",
    "imageUrl": "https://resource.nationtv.tv/uploads/images/md/2026/11/1fZkbWBKsv5ciArkKJpm.webp",
    "published": "2026-11-18T08:11:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzWnBpRWtkd2xrT3NWSG0zUzUxaFFfV2JSakpwMnJLSmJRaDRuaTdvazgzY3JGeGxkTWlNb1R1dU1qX2liY0NEaEVEY0JGUm1Wckp3SUlrU05jWGduVzIzT2p3?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzWnBpRWtkd2xrT3NWSG0zUzUxaFFfV2JSakpwMnJLSmJRaDRuaTdvazgzY3JGeGxkTWlNb1R1dU1qX2liY0NEaEVEY0JGUm1Wckp3SUlrU05jWGduVzIzT2p3?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-local",
@@ -575,7 +614,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-18T10:25:25+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMihghBVV95cUxPd011NHlsLVpLeTJETmFxcHVLc0NfWFRJRUpCbTJQejEzVl9iclNMdlFVdEtjdUZOUTRLQm9Mejg0VHhSVlhLNVRQaldsa1ZvaVVYLXR2elNQelVLRlNhQ1AySFdsV3VZZ3hqczZtUTNuYWF0bk5OSmJZTWg2eE80aHFjSlRGS3duMVBKajBWazFva0dOUEVTN2tFYW5saURoLWZPZkx5YTRnUmVLckdVVjgxZHJwNmswcFExT0U4d09LMUZuNGlrdVFRUnYyZS1wM0hZUHM4eXVrQ3NNaU9SM2d5U3JrTGV5clF0bE9oQTBaR2NsVWhFcklZNzJUa2tUdnowenAxaW90MnNBNU5KUnkyTGp1WkU3OGlzRFEtR2l1T0drZWVPVjd0YTJXcHVSazV0YW1qaEhoMzFkMm9HaFpHTVJtSU1NZFNRT25jYTZvNjduTHN6dzU2Zkx6WnVBM2pjc3BadU9oYXBfUEhEekNNYXQ3d3BXQ1BhSVJROEYyeUZ2M3RjOW1FQTRDVnZaanFoMGwzcHJMU0JaUUpKeHl6cHgzUmIzeWx0YkRzQmdjQ2JJYnc1T08xVFpZakl3dF9HaWJuOG1leE1LUjVDMUNkUHVKNldLOW1mMFpqRXhjaXVoRlYyNEQ2V1JqUy1xVXBXaG5zTnFVekNTY3h3ZGdpOUhnODhkSnhpSUk3U1lMaFhyWHY2ajF4eFpFd0wzaW13eWtpZW0tWGhOTnVXU3BrQnhkVGpELTM3bjlyNUlOSFlyMXdkVVVscU56Q1h1X1Azdm9oRXRXazdrbEZEOGxvTUpaOEVNdWx1YW04eWZSVG9VaklXaDNlU29RLXhPXzJ5VkVyRmxtTG1XdzdxTW9OeWRxYlVUOEtSMGJhcFpycHJESGh6MDRQZXhaeTREZTY2amF4ZHNoZE5lVFRFajRrWVhoS2dISWlWMW5XOGpxZk1DR3dFWUFQVXpyYmZmNHVubmlNS294aWxIZTcxYlhkdnkxemZTRFktTHJOWWJhTUhtaXE3THAyc0dYVXRuWlppRkx4aVN2RHhlc3hObU13WkxGa2M4bWhNelc3bzRuWllLRGFJQmY2ZXdDOGU3Y1g2dE8xNEw1MUhrUmpXNExxTU1JTDFwNmg0c2tRMUdEeTduZFVYelN4NWs5X1BVLWdyRGc1NWJpTGxVM1N2a0NnbHpLMXJ2NjYyTDE5Q2xwX1V4cGRDSzZ4emZENVNCVmlKYXZzRzM4N2lEd200OGZCdW5oVkNyUUhjZGxYdndDVjI1bzVqalVwS3Vfb0t1azJQdW5tTEFJUS1hM3FSbU5yQzZRMWFMLTRIWGZmSjBuZmthQXM5X3h4UVgzV3VZYWZtOVlR?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMihghBVV95cUxPd011NHlsLVpLeTJETmFxcHVLc0NfWFRJRUpCbTJQejEzVl9iclNMdlFVdEtjdUZOUTRLQm9Mejg0VHhSVlhLNVRQaldsa1ZvaVVYLXR2elNQelVLRlNhQ1AySFdsV3VZZ3hqczZtUTNuYWF0bk5OSmJZTWg2eE80aHFjSlRGS3duMVBKajBWazFva0dOUEVTN2tFYW5saURoLWZPZkx5YTRnUmVLckdVVjgxZHJwNmswcFExT0U4d09LMUZuNGlrdVFRUnYyZS1wM0hZUHM4eXVrQ3NNaU9SM2d5U3JrTGV5clF0bE9oQTBaR2NsVWhFcklZNzJUa2tUdnowenAxaW90MnNBNU5KUnkyTGp1WkU3OGlzRFEtR2l1T0drZWVPVjd0YTJXcHVSazV0YW1qaEhoMzFkMm9HaFpHTVJtSU1NZFNRT25jYTZvNjduTHN6dzU2Zkx6WnVBM2pjc3BadU9oYXBfUEhEekNNYXQ3d3BXQ1BhSVJROEYyeUZ2M3RjOW1FQTRDVnZaanFoMGwzcHJMU0JaUUpKeHl6cHgzUmIzeWx0YkRzQmdjQ2JJYnc1T08xVFpZakl3dF9HaWJuOG1leE1LUjVDMUNkUHVKNldLOW1mMFpqRXhjaXVoRlYyNEQ2V1JqUy1xVXBXaG5zTnFVekNTY3h3ZGdpOUhnODhkSnhpSUk3U1lMaFhyWHY2ajF4eFpFd0wzaW13eWtpZW0tWGhOTnVXU3BrQnhkVGpELTM3bjlyNUlOSFlyMXdkVVVscU56Q1h1X1Azdm9oRXRXazdrbEZEOGxvTUpaOEVNdWx1YW04eWZSVG9VaklXaDNlU29RLXhPXzJ5VkVyRmxtTG1XdzdxTW9OeWRxYlVUOEtSMGJhcFpycHJESGh6MDRQZXhaeTREZTY2amF4ZHNoZE5lVFRFajRrWVhoS2dISWlWMW5XOGpxZk1DR3dFWUFQVXpyYmZmNHVubmlNS294aWxIZTcxYlhkdnkxemZTRFktTHJOWWJhTUhtaXE3THAyc0dYVXRuWlppRkx4aVN2RHhlc3hObU13WkxGa2M4bWhNelc3bzRuWllLRGFJQmY2ZXdDOGU3Y1g2dE8xNEw1MUhrUmpXNExxTU1JTDFwNmg0c2tRMUdEeTduZFVYelN4NWs5X1BVLWdyRGc1NWJpTGxVM1N2a0NnbHpLMXJ2NjYyTDE5Q2xwX1V4cGRDSzZ4emZENVNCVmlKYXZzRzM4N2lEd200OGZCdW5oVkNyUUhjZGxYdndDVjI1bzVqalVwS3Vfb0t1azJQdW5tTEFJUS1hM3FSbU5yQzZRMWFMLTRIWGZmSjBuZmthQXM5X3h4UVgzV3VZYWZtOVlR?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-politics",
@@ -588,7 +628,8 @@
    "content": "",
    "imageUrl": "https://content-images.thaipbs.or.th/imgpx1/unsafe/resizing_type:fit/size:1920:1080/format:webp/quality:75/aHR0cHM6Ly90aGFpcGJzLXByb2dyYW0tcHJvZHVjdGlvbi5zMy5hbWF6b25hd3MuY29tL2ltYWdlcy84ZEt2V3hjOEwuanBn",
    "published": "2026-11-20T00:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTa29QTFhZLTd6OWk2Q21rZTdGdmJBT0Y1Zk5PM2Z0X0Q0QXJGRGpLbEc3WnZBcm84WXNKYnNVSnplYTFlSG9ieS1fakpFVEpFd3ZVNmRCUmJfUDZmTkk4V2VtSFFKVUR6TE1RQWFNUEwxaF9L?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTa29QTFhZLTd6OWk2Q21rZTdGdmJBT0Y1Zk5PM2Z0X0Q0QXJGRGpLbEc3WnZBcm84WXNKYnNVSnplYTFlSG9ieS1fakpFVEpFd3ZVNmRCUmJfUDZmTkk4V2VtSFFKVUR6TE1RQWFNUEwxaF9L?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-politics",
@@ -601,7 +642,8 @@
    "content": "",
    "imageUrl": "https://thaitv5hd.com/content-manager/article_image?id=204170&ym=2026-11&file=article204170_20261120_83r7a.webp",
    "published": "2026-11-20T02:32:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMitwdBVV95cUxQZzdXR2NZYjFybzhSWmZlNDBmRWJqMS1WT0swb2gwQUYxSkRUdjFVenN4X0lrQ1VnVmFCVnBMeVRKSW5VQVV6anhERUV2T2Z0YlBkeTNuQV81ai1PS3hlcHg3YnZ4clJseWFrTTBlbVpGSzlTVVlsZHpYVEdteHBxSWR2OUR3Vmd5U1VyZW9lZ1kxZGYzRjhwSWZfcGJRYWZJZ01QV2ZRajJQcmgwMEdrcmJNNUlnSkhoTDhpYW5NdG8ySlRuaVp4cGVjQk13ZWdwU0ViendxUHFXb3ZkclUxZ0Q1X1dlbHRMOWNVQ3N1cENycmx2ZXFWUnZzZHdsc0RnbFB3M1ZCTlZtVUY4S1lqdlYzRUZ6ckI3UXloRkYzWWVTVXN1X2N2X0FMQVlMdmo3dG53SkRZVmN4ZXUzTS1WelZ6bUtVV3lmVFVvdHBUczVxWXRoVlNjRUlMRHhoQ1U4bVYwY1VxeHNRV0NEb2hmcDk3UGZaeWtrRTg2THl5bENoVExYOGRKREpUaWc2d3VoN3FGTHFNMnczZW5nQmRadVdNT1NNUzY4dFJGektNOUhMa1AzZm42Y2RvbnNRMXZPd3R4bU82VEpQbmRrZjRlZHhDN1dYRVhidWh1ZkhzZVBsbWlTdHNheE81QXZfWmxlVVc0VDVaLW5Qekh4dDkwWkNHak9oVDRjTW1zQjhLQ1pEdWRUcmhjSXMzY1NyYVdwdGxHTWt0U1dNTmo1ZlhtempDOVdaaTE2TUQwZVpYUUtZTEhlNTZlREJjTzVOOFNHckliX2UtOVhIbTFvNVN3cG1DU0RwbmNFR3pXVmZyelBVZFlUYWlaNldxazhaRTZXa2xzQlFUbVZ5bW5nOWc2VVZQbklSSjZ1T1pIYlpLWGJhSEpqSGZhUWI2MmdUUjFZald6V3dtLWN5YzVvanA4SUhHZWpQNUh3U2hLdVlQRHVHblAweGcxSlZJd0lTVzNSanlPRHNXbE1uOXFFaWFGczRzaDY5dWtJekJKY2FORzZtcllYRW5TeEpWMDFOWUIxcllNUHZLbGZUb0pzRlY4Y3NyRHdHcEJxeGRxLV9VVzR2Mnl0eGp4cndSRnlGaHNvVzFtbE9GNFRDUE44cXl2TTlUS1BkZUNfM1ExWG5lVk41Mm1GMHRsRkkxZmhCRkR4QUFNZFB4M2xtbnZNMG5ZczAxR1JyR3VtRExENll5aEEwdVRuSHVzZXgxY3psdjVDM0hwOEhMYlZaU3ZDU0hiYjA5UWVXR1k?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMitwdBVV95cUxQZzdXR2NZYjFybzhSWmZlNDBmRWJqMS1WT0swb2gwQUYxSkRUdjFVenN4X0lrQ1VnVmFCVnBMeVRKSW5VQVV6anhERUV2T2Z0YlBkeTNuQV81ai1PS3hlcHg3YnZ4clJseWFrTTBlbVpGSzlTVVlsZHpYVEdteHBxSWR2OUR3Vmd5U1VyZW9lZ1kxZGYzRjhwSWZfcGJRYWZJZ01QV2ZRajJQcmgwMEdrcmJNNUlnSkhoTDhpYW5NdG8ySlRuaVp4cGVjQk13ZWdwU0ViendxUHFXb3ZkclUxZ0Q1X1dlbHRMOWNVQ3N1cENycmx2ZXFWUnZzZHdsc0RnbFB3M1ZCTlZtVUY4S1lqdlYzRUZ6ckI3UXloRkYzWWVTVXN1X2N2X0FMQVlMdmo3dG53SkRZVmN4ZXUzTS1WelZ6bUtVV3lmVFVvdHBUczVxWXRoVlNjRUlMRHhoQ1U4bVYwY1VxeHNRV0NEb2hmcDk3UGZaeWtrRTg2THl5bENoVExYOGRKREpUaWc2d3VoN3FGTHFNMnczZW5nQmRadVdNT1NNUzY4dFJGektNOUhMa1AzZm42Y2RvbnNRMXZPd3R4bU82VEpQbmRrZjRlZHhDN1dYRVhidWh1ZkhzZVBsbWlTdHNheE81QXZfWmxlVVc0VDVaLW5Qekh4dDkwWkNHak9oVDRjTW1zQjhLQ1pEdWRUcmhjSXMzY1NyYVdwdGxHTWt0U1dNTmo1ZlhtempDOVdaaTE2TUQwZVpYUUtZTEhlNTZlREJjTzVOOFNHckliX2UtOVhIbTFvNVN3cG1DU0RwbmNFR3pXVmZyelBVZFlUYWlaNldxazhaRTZXa2xzQlFUbVZ5bW5nOWc2VVZQbklSSjZ1T1pIYlpLWGJhSEpqSGZhUWI2MmdUUjFZald6V3dtLWN5YzVvanA4SUhHZWpQNUh3U2hLdVlQRHVHblAweGcxSlZJd0lTVzNSanlPRHNXbE1uOXFFaWFGczRzaDY5dWtJekJKY2FORzZtcllYRW5TeEpWMDFOWUIxcllNUHZLbGZUb0pzRlY4Y3NyRHdHcEJxeGRxLV9VVzR2Mnl0eGp4cndSRnlGaHNvVzFtbE9GNFRDUE44cXl2TTlUS1BkZUNfM1ExWG5lVk41Mm1GMHRsRkkxZmhCRkR4QUFNZFB4M2xtbnZNMG5ZczAxR1JyR3VtRExENll5aEEwdVRuSHVzZXgxY3psdjVDM0hwOEhMYlZaU3ZDU0hiYjA5UWVXR1k?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-politics",
@@ -614,7 +656,8 @@
    "content": "",
    "imageUrl": "https://today-obs.line-scdn.net/0hBOilabTFHWBUFQH4mjNiN2xDERFncwdpdnYAViFGEFMqOQlmO3JOAyQXRUwpIFs1dHdTBiFFF1EqJ1s2Pw/w1200",
    "published": "2026-11-20T04:03:26+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEZiemtIbWsteVlnSTVhX01EY0xiRy0yeHdkRUFxNkpCanlDbXpjc0Fjd1J4cG9uUzlVMEZxYXI1OVZOQTFsd0F2aXNYUnUteTN4TUFhRDRoQzlKbzY4SjJlejd0RXloRXJwdmhqRW5STkxXVlZ5enNlRFF2R0d4MDAtRG1FV0NB?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEZiemtIbWsteVlnSTVhX01EY0xiRy0yeHdkRUFxNkpCanlDbXpjc0Fjd1J4cG9uUzlVMEZxYXI1OVZOQTFsd0F2aXNYUnUteTN4TUFhRDRoQzlKbzY4SjJlejd0RXloRXJwdmhqRW5STkxXVlZ5enNlRFF2R0d4MDAtRG1FV0NB?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-politics",
@@ -627,7 +670,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-19T23:09:43+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMivwdBVV95cUxPSmtjRDdHRDZlbjZ4c3ltNEQzWklsdF80Uk5XVWZWYTdXbkxZNFJOTzVQMXEtXzh6YWR4dFVWNUlLWGdwSDF2UXhMTjNQSGwtbTk0dDFXeVE3c21WZWxoM05mSmVrdEVKM1hUZEFmM1FDUGZoZEpnVEVxdDFEVFMwSklDRm53U2ZabnhGNW5IeXJUNFJWMjdNbkdjVk53d082YjA5ZXNDUC1fcXdjMEFMekd2YWVvRTN2emItOHhKS0NQOGhLcVA4S0RPTF84SV9lQWNvTWoyeXNmTnZDb3p3M3RyMnkwMXNJcFVnMHp1alpBSTVwZEtUcVJjN2FjaW9sX2dDdDFnbUgwTlU4V24tVThwMWVqUWZRMGQ4aVFVVDJ5UXh4NF9VeFRaQ1VqekJlTjhfMTdVZWFicXRoQ3RwTjltSkl1ZXAzMTZ5OExYSkNXRkZkQmhuOWhvUHBmX3ZBMGJvdmJmTnVWSHhZSmlRa3lKZHFIZEN3ZjFGN1RQR2lfV29neXVpbXo4SW9vU01ra0VMMHF0aHJHQ1VmM29HNFFtZlR1aERxdVNLdzg1clZSRmVrZTh4ZkFsYmI1NXE4S0xhaXJ2WmlwUWxaMVUtMVM4QlAxdUJ2eDNRQmhlY1VCeTBUZ2RBSWI2THRUMDZBV2pxVG9sSHBSbWt1TklWZWREQkJhTUh1cmhFWndndDFSbjJPSlFDaFVKb3UzSFU5S1ZkUE9sTDBmX0dtTmJKSzY4VVlxTzh0RGlVaHMzY1dwZ0xHMzUxRkpuc013QVB2MVlidU9SNGNZaUVEcmtXMkhYcmVtUS1ZbG9VbW1uc3A0d1hJaFJFRDIyeWI0UU92TTY3X3NPNGlaMWs3bjJRR1VHZTVtcGxOMDRPaEtoWXJUNkNQS0JkX1FsbGpfLWdONktMT2pxMWpUUWRGM21EekRzVmNMZTFhMnpoa3BzQlJlYU5qZXM0cTVCZWNUZTkyTEdNQzhDaHhlN0UybE4xdEhGaVdfMUR3OEpqOG1CeEppRTExN0ZiVlZtb2o5dWQzYlYxWGpZdFBOUkczeWU5N1JQLXVYdmdHQ0pMT09FY2JQRkZJQU9iWWFzZklYd2JteURzZFlsUk9BZG5jdDhvVHFVS05NMks1Y1dUMjJuMXExNFJFN3ZOZjZyejNmMkxNUFViNldkWmxOMjNaRDdNQk4xLUVkdW01akhIOU55eFhybVhSS3hPZURyOEl0Z1Bsek9Wak1OVUpacmJ5WHFZRVJhcWhDMC1mSzhIX3VyOA?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMivwdBVV95cUxPSmtjRDdHRDZlbjZ4c3ltNEQzWklsdF80Uk5XVWZWYTdXbkxZNFJOTzVQMXEtXzh6YWR4dFVWNUlLWGdwSDF2UXhMTjNQSGwtbTk0dDFXeVE3c21WZWxoM05mSmVrdEVKM1hUZEFmM1FDUGZoZEpnVEVxdDFEVFMwSklDRm53U2ZabnhGNW5IeXJUNFJWMjdNbkdjVk53d082YjA5ZXNDUC1fcXdjMEFMekd2YWVvRTN2emItOHhKS0NQOGhLcVA4S0RPTF84SV9lQWNvTWoyeXNmTnZDb3p3M3RyMnkwMXNJcFVnMHp1alpBSTVwZEtUcVJjN2FjaW9sX2dDdDFnbUgwTlU4V24tVThwMWVqUWZRMGQ4aVFVVDJ5UXh4NF9VeFRaQ1VqekJlTjhfMTdVZWFicXRoQ3RwTjltSkl1ZXAzMTZ5OExYSkNXRkZkQmhuOWhvUHBmX3ZBMGJvdmJmTnVWSHhZSmlRa3lKZHFIZEN3ZjFGN1RQR2lfV29neXVpbXo4SW9vU01ra0VMMHF0aHJHQ1VmM29HNFFtZlR1aERxdVNLdzg1clZSRmVrZTh4ZkFsYmI1NXE4S0xhaXJ2WmlwUWxaMVUtMVM4QlAxdUJ2eDNRQmhlY1VCeTBUZ2RBSWI2THRUMDZBV2pxVG9sSHBSbWt1TklWZWREQkJhTUh1cmhFWndndDFSbjJPSlFDaFVKb3UzSFU5S1ZkUE9sTDBmX0dtTmJKSzY4VVlxTzh0RGlVaHMzY1dwZ0xHMzUxRkpuc013QVB2MVlidU9SNGNZaUVEcmtXMkhYcmVtUS1ZbG9VbW1uc3A0d1hJaFJFRDIyeWI0UU92TTY3X3NPNGlaMWs3bjJRR1VHZTVtcGxOMDRPaEtoWXJUNkNQS0JkX1FsbGpfLWdONktMT2pxMWpUUWRGM21EekRzVmNMZTFhMnpoa3BzQlJlYU5qZXM0cTVCZWNUZTkyTEdNQzhDaHhlN0UybE4xdEhGaVdfMUR3OEpqOG1CeEppRTExN0ZiVlZtb2o5dWQzYlYxWGpZdFBOUkczeWU5N1JQLXVYdmdHQ0pMT09FY2JQRkZJQU9iWWFzZklYd2JteURzZFlsUk9BZG5jdDhvVHFVS05NMks1Y1dUMjJuMXExNFJFN3ZOZjZyejNmMkxNUFViNldkWmxOMjNaRDdNQk4xLUVkdW01akhIOU55eFhybVhSS3hPZURyOEl0Z1Bsek9Wak1OVUpacmJ5WHFZRVJhcWhDMC1mSzhIX3VyOA?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-politics",
@@ -640,59 +684,8 @@
    "content": "",
    "imageUrl": "https://www.infoquest.co.th/dxt-content/uploads/2026/11/S__51847172.jpg",
    "published": "2026-11-20T04:53:57+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5meU5wQ2UtNDU4Nk9udEVvRGczRzVSX0djSGZDUXk2a3hRLW9VRXduMHpZejk2VU05MTI1bVl5S19sZXc0ZXBnaUs1ME5saUVr?oc=5"
-  },
-  {
-   "feedId": "g-politics",
-   "category": "การเมือง",
-   "source": "Google News",
-   "publisher": "thairath.co.th",
-   "title": "“ณัฐพงษ์” เสนอญัตติให้รัฐบาลทำ Pre-budget งบประมาณปี 71",
-   "link": "https://www.thairath.co.th/news/politic/2973611",
-   "summary": "ที่มา: thairath.co.th",
-   "content": "",
-   "imageUrl": "",
-   "published": "2026-11-20T05:23:57+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MbzFhQ1ktdnlzTjNkaDMzUHh0cmxBa2F3M25VQzFtQXlqcC16YmFZUmlCOWpBUUhYOG5DSTFqNERjUzJGU1JUYS10VVVoVk9OWjFQa1o0VXE3MVE?oc=5"
-  },
-  {
-   "feedId": "g-politics",
-   "category": "การเมือง",
-   "source": "Google News",
-   "publisher": "ผู้จัดการออนไลน์",
-   "title": "พรรคส้มปัดชักใยม็อบ Gen Z ชี้เป็นสิทธิ เตือนรัฐบาลอย่าข่มขู่-ล้อมรั้วอนุสาวรีย์ฯ ทำสถานการณ์บานปลาย",
-   "link": "https://mgronline.com/politics/detail/9690000110986",
-   "summary": "ที่มา: ผู้จัดการออนไลน์",
-   "content": "",
-   "imageUrl": "https://mpics2.mgronline.com/pics/Images/569000011263301.JPEG",
-   "published": "2026-11-20T05:57:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45bmRiRUhLS29aa2MyRm83T01vcFQzb2RkeURrYUZxeVFrNXcyUHAya3dXcDdRSDBPb0o3Tk8zNm1fRnVXdE9EVG96MTU4MHpXaUYtQWw3dlJYN0NfeHpWSA?oc=5"
-  },
-  {
-   "feedId": "g-politics",
-   "category": "การเมือง",
-   "source": "Google News",
-   "publisher": "สยามรัฐ",
-   "title": "รองโฆษกรัฐบาลสวนอดีตนายกฯ! ชี้ตัวเลขทรัมป์เปิดเผยตั้งแต่ปี 2568 ไม่ใช่ดีลใหม่ ย้ำเปิดตลาดไม่ใช่บังคับซื้อ",
-   "link": "https://siamrath.co.th/politics/336839",
-   "summary": "ที่มา: สยามรัฐ",
-   "content": "",
-   "imageUrl": "https://siamrath.co.th/assets/b5a85656-dd4f-4b00-8f89-52077ea9a686?width=680&quality=80&format=webp",
-   "published": "2026-11-20T02:30:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hbWtNYUQyMDFCVThLZ0FPLVdtQVpicDZIMHB2M3ZINHA3MVVRcWt0TWdJWEZnN2tFYXRSZkNOeUp5amFnT0V0dkFjMjFZS2c?oc=5"
-  },
-  {
-   "feedId": "g-politics",
-   "category": "การเมือง",
-   "source": "Google News",
-   "publisher": "Facebook",
-   "title": "UPDATE :​ สโมสรนิสิตจุฬาฯ ออกแถลงการณ์หนุน ‘ม็อบเจน Z’ ชี้เยาวชนมีสิทธิตั้งคำถาม ย้ำ 4 จุดยืนหลัก จี้รัฐบาลเคารพสิทธิการชุมนุมโดยสงบ ผู้สื่อข่าวรายงานว่า เมื่อวันที่ 19 พฤศจิกายน 2569 สโมสรนิสิตจุฬาลงกรณ์มหาวิทยาลัย (อบจ.) ได้ออกแถลงการณ์เรื่อง ‘สนับสนุนการเคลื่อนไหวม็อ",
-   "link": "https://www.facebook.com/thestandardth/posts/update-%E0%B8%AA%E0%B9%82%E0%B8%A1%E0%B8%AA%E0%B8%A3%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%95%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%AF-%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%96%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B8%99-%E0%B8%A1%E0%B9%87%E0%B8%AD%E0%B8%9A%E0%B9%80%E0%B8%88%E0%B8%99-z-%E0%B8%8A%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B8%8A%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%B3%E0%B8%96%E0%B8%B2%E0%B8%A1-%E0%B8%A2%E0%B9%89%E0%B8%B3-/1517577913834880/",
-   "summary": "ที่มา: Facebook",
-   "content": "",
-   "imageUrl": "",
-   "published": "2026-11-20T01:56:28+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMimwdBVV95cUxQbUFLZUlQRlZaZ3BfVlRHdGUxbHMxWUQyQTlnUjM2Nnk1UHFWbUZwb3YzMUFrX2RaLWJ3dFZQWE5ua2ttbFpjUnUzcEpjdGlBZUJUbGNKMWl0c281UDZCUUdxVVRLWnlqREJmUDI0STcyQlJwdTdNZmZYMDF5d3JiWndkQzZEd1k1SzYwTDJzeWNfYVJ6Tnk0aWdnM0FxNFJ6ZXZHQTdJY3VuTlk2VmdveG44MDJVbGtyVkNaY0FpLUdlWlVXaTN4aDM0U3FWZlJGSHhKaEh1N1BHeURhbG5DamU5endLOVpDQllnNS1uU0VjaWY0NHVCSkc0VGtqRVNZc0QzM0ZYWDVERE9BaU5EdE41Y0k5SHdPWGdYRjB1c0NCUGhZYmFrM2VncHkxamtQaV80ZkhXcWV0YVJNWjlzcHBqUVNSS09EaEdIaU1mSGFWWFpGNHpGTEN4UmdXRnFybERCaHdrS0MwM1FlMFRvNkRrNTQ3M2ZoSXVxeDMxUUxoVjJyM0QtakdhY1d4ZFRHdDJYX19DOGtSS3BncWIzZWFYbTZZUk9qdXhhX0xPVDl6QVVaNkctbVhqS2RnOU5JazViVXB0XzdQbV9VempOaGtGVEotaWZ5VUJZcmhab2ZjMG9ycENJb1RiblJ3WTdFUUtNLXpBN1BJNVpacVMxMUZmNTB3UV9MZVpKVExiaklVV2hKQTJfdkwwSUV0a0dhUkMtRTVOV3l0SmVQcHMyOEdVMkhKUmJvMUR6UGZsN3R2WGY1emplajRRTktWWElqY1FacHJ0el9MQUZqTUNkaXZITkE4NTFBX2lSQmxSeEd6Y29OWHgwY2VHTmR1Vk80LVhKT29XeHlZUEpXMmdTNllBNS1TQU1OUHF6aVQ3TGt0UFNVMlB3TnhOVDV6bHRDUW5CeUxzRlJwdWFHU2dmYkRVc1NmUVVBNXctUU5EZnhhRmNzZHVZdExkSzNuVVNhdmc5aGs2alBONEFYcmFpem1BaWNzbjFVNFdlZnd1YlMySm1SRWs2WXNwNFl0UmJTbUZfT1phakQ1SFdhVFZLdEpVb242YTBzVTd1S2Nqdmt3Nmp5WW1OaXlzaXJEbmpOZlFXbFgwWlQyVHhHY1FEb2laSW9CQnJhLWc0MGJYQ0xxNWZNYmRMOHJ6M3U0MkxEWlpTTG5NaUZseEJkR2hWOVNqd2Fpd1prb0U5OEdJQjBrOC0ydExjakN6RQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5meU5wQ2UtNDU4Nk9udEVvRGczRzVSX0djSGZDUXk2a3hRLW9VRXduMHpZejk2VU05MTI1bVl5S19sZXc0ZXBnaUs1ME5saUVr?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-politics",
@@ -705,7 +698,64 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-19T21:34:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZM0dCQVVKd0YtYWRIM1JQcUlqOWlIaHdDTXBvZnJlTmkxU0ZNZzlvVXNjV255eUhPVkVMVmlJejRoTWVueU9CNTgtR25aNWJuRDlfM0Jxbw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZM0dCQVVKd0YtYWRIM1JQcUlqOWlIaHdDTXBvZnJlTmkxU0ZNZzlvVXNjV255eUhPVkVMVmlJejRoTWVueU9CNTgtR25aNWJuRDlfM0Jxbw?oc=5",
+   "hint": ""
+  },
+  {
+   "feedId": "g-politics",
+   "category": "การเมือง",
+   "source": "Google News",
+   "publisher": "สยามรัฐ",
+   "title": "รองโฆษกรัฐบาลสวนอดีตนายกฯ! ชี้ตัวเลขทรัมป์เปิดเผยตั้งแต่ปี 2568 ไม่ใช่ดีลใหม่ ย้ำเปิดตลาดไม่ใช่บังคับซื้อ",
+   "link": "https://siamrath.co.th/politics/336839",
+   "summary": "ที่มา: สยามรัฐ",
+   "content": "",
+   "imageUrl": "https://siamrath.co.th/assets/b5a85656-dd4f-4b00-8f89-52077ea9a686?width=680&quality=80&format=webp",
+   "published": "2026-11-20T02:30:00+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hbWtNYUQyMDFCVThLZ0FPLVdtQVpicDZIMHB2M3ZINHA3MVVRcWt0TWdJWEZnN2tFYXRSZkNOeUp5amFnT0V0dkFjMjFZS2c?oc=5",
+   "hint": ""
+  },
+  {
+   "feedId": "g-politics",
+   "category": "การเมือง",
+   "source": "Google News",
+   "publisher": "Facebook",
+   "title": "UPDATE :​ สโมสรนิสิตจุฬาฯ ออกแถลงการณ์หนุน ‘ม็อบเจน Z’ ชี้เยาวชนมีสิทธิตั้งคำถาม ย้ำ 4 จุดยืนหลัก จี้รัฐบาลเคารพสิทธิการชุมนุมโดยสงบ ผู้สื่อข่าวรายงานว่า เมื่อวันที่ 19 พฤศจิกายน 2569 สโมสรนิสิตจุฬาลงกรณ์มหาวิทยาลัย (อบจ.) ได้ออกแถลงการณ์เรื่อง ‘สนับสนุนการเคลื่อนไหวม็อ",
+   "link": "https://www.facebook.com/thestandardth/posts/update-%E0%B8%AA%E0%B9%82%E0%B8%A1%E0%B8%AA%E0%B8%A3%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%95%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%AF-%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%96%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B8%99-%E0%B8%A1%E0%B9%87%E0%B8%AD%E0%B8%9A%E0%B9%80%E0%B8%88%E0%B8%99-z-%E0%B8%8A%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B8%8A%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%B3%E0%B8%96%E0%B8%B2%E0%B8%A1-%E0%B8%A2%E0%B9%89%E0%B8%B3-/1517577913834880/",
+   "summary": "ที่มา: Facebook",
+   "content": "",
+   "imageUrl": "",
+   "published": "2026-11-20T01:56:28+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMimwdBVV95cUxQbUFLZUlQRlZaZ3BfVlRHdGUxbHMxWUQyQTlnUjM2Nnk1UHFWbUZwb3YzMUFrX2RaLWJ3dFZQWE5ua2ttbFpjUnUzcEpjdGlBZUJUbGNKMWl0c281UDZCUUdxVVRLWnlqREJmUDI0STcyQlJwdTdNZmZYMDF5d3JiWndkQzZEd1k1SzYwTDJzeWNfYVJ6Tnk0aWdnM0FxNFJ6ZXZHQTdJY3VuTlk2VmdveG44MDJVbGtyVkNaY0FpLUdlWlVXaTN4aDM0U3FWZlJGSHhKaEh1N1BHeURhbG5DamU5endLOVpDQllnNS1uU0VjaWY0NHVCSkc0VGtqRVNZc0QzM0ZYWDVERE9BaU5EdE41Y0k5SHdPWGdYRjB1c0NCUGhZYmFrM2VncHkxamtQaV80ZkhXcWV0YVJNWjlzcHBqUVNSS09EaEdIaU1mSGFWWFpGNHpGTEN4UmdXRnFybERCaHdrS0MwM1FlMFRvNkRrNTQ3M2ZoSXVxeDMxUUxoVjJyM0QtakdhY1d4ZFRHdDJYX19DOGtSS3BncWIzZWFYbTZZUk9qdXhhX0xPVDl6QVVaNkctbVhqS2RnOU5JazViVXB0XzdQbV9VempOaGtGVEotaWZ5VUJZcmhab2ZjMG9ycENJb1RiblJ3WTdFUUtNLXpBN1BJNVpacVMxMUZmNTB3UV9MZVpKVExiaklVV2hKQTJfdkwwSUV0a0dhUkMtRTVOV3l0SmVQcHMyOEdVMkhKUmJvMUR6UGZsN3R2WGY1emplajRRTktWWElqY1FacHJ0el9MQUZqTUNkaXZITkE4NTFBX2lSQmxSeEd6Y29OWHgwY2VHTmR1Vk80LVhKT29XeHlZUEpXMmdTNllBNS1TQU1OUHF6aVQ3TGt0UFNVMlB3TnhOVDV6bHRDUW5CeUxzRlJwdWFHU2dmYkRVc1NmUVVBNXctUU5EZnhhRmNzZHVZdExkSzNuVVNhdmc5aGs2alBONEFYcmFpem1BaWNzbjFVNFdlZnd1YlMySm1SRWs2WXNwNFl0UmJTbUZfT1phakQ1SFdhVFZLdEpVb242YTBzVTd1S2Nqdmt3Nmp5WW1OaXlzaXJEbmpOZlFXbFgwWlQyVHhHY1FEb2laSW9CQnJhLWc0MGJYQ0xxNWZNYmRMOHJ6M3U0MkxEWlpTTG5NaUZseEJkR2hWOVNqd2Fpd1prb0U5OEdJQjBrOC0ydExjakN6RQ?oc=5",
+   "hint": ""
+  },
+  {
+   "feedId": "g-politics",
+   "category": "การเมือง",
+   "source": "Google News",
+   "publisher": "Thai PBS",
+   "title": "\"สมช.\" ชี้แจง \"โอไอซี \" ระบุ รัฐบาลใช้การเมืองนำการทหารแก้ปัญหาภาคใต้",
+   "link": "https://www.thaipbs.or.th/news/content/83624",
+   "summary": "ที่มา: Thai PBS",
+   "content": "",
+   "imageUrl": "https://content-images.thaipbs.or.th/imgpx1/unsafe/rt:fill/el:1/s:1200:630/q:90/aHR0cHM6Ly9vbmVjbXMudGhhaXBicy5vci50aC9tZWRpYS9ET1d0STJNRGFtdGd4Q2VmRElZdFpIVmJpdEtmNXlubHVJNDQzdGc4UmpJVlF5eTlRVDd3T1NaR2J6YUtSLmpwZw==.jpg",
+   "published": "2026-11-18T11:54:36+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vTG5GbURBMVJTTXotaTJQVmRkajNwSExqYzI3QzhuLUNuaEw1QVNGY1JIVUhOQS1SUVhXMmZCM1ZWTi1iX1FtVnJNTmwzVWo5M0hvUjIyNA?oc=5",
+   "hint": "\"สมช.\" ชี้แจง \"โอไอซี \" ระบุ รัฐบาลใช้การเมืองนำการทหารแก้ปัญหาภาคใต้ \" id=\"news_tpbs_images\" title=\"\" src=\"http://news.thaipbs.or.th/sites/default/files/news08052012/83624-imagejpeg-121571.jpg สำนักข่าวกรองแห่งชาติและสภาความมั่นคงแห่งชาติ ชี้แจงนโยบายการแก้ไขปัญหาความไม่สงบในพื้นที่ภาคใต้ ตั้งแต่ปี \"สมช.\" ชี้แจง \"โอไอซี \" ระบุ รัฐบาลใช้การเมืองนำการทหารแก้ปัญหาภาคใต้ | Thai PBS News ข่าวไทยพีบีเอ"
+  },
+  {
+   "feedId": "g-politics",
+   "category": "การเมือง",
+   "source": "Google News",
+   "publisher": "thairath.co.th",
+   "title": "“ณัฐพงษ์” เสนอญัตติให้รัฐบาลทำ Pre-budget งบประมาณปี 71",
+   "link": "https://www.thairath.co.th/news/politic/2973611",
+   "summary": "ที่มา: thairath.co.th",
+   "content": "",
+   "imageUrl": "",
+   "published": "2026-11-20T05:23:57+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MbzFhQ1ktdnlzTjNkaDMzUHh0cmxBa2F3M25VQzFtQXlqcC16YmFZUmlCOWpBUUhYOG5DSTFqNERjUzJGU1JUYS10VVVoVk9OWjFQa1o0VXE3MVE?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-ent",
@@ -718,7 +768,8 @@
    "content": "",
    "imageUrl": "https://truevisions.co.th/static/f4ae7d43-e6fa-488c-8cff-54f5514912e1.jpg",
    "published": "2026-11-19T14:54:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zakt2T2ctQUVsME56M2w5c3B0b0dpYkdJajBxQXhqdjBSRjhZdUtZMy1OWDI5eERUcUpHNk5oNXFmUGE4SnpfRllmZFhoVFNNZUt5ejNUaw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zakt2T2ctQUVsME56M2w5c3B0b0dpYkdJajBxQXhqdjBSRjhZdUtZMy1OWDI5eERUcUpHNk5oNXFmUGE4SnpfRllmZFhoVFNNZUt5ejNUaw?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-ent",
@@ -731,7 +782,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-19T17:08:29+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOYVkwSUJWZnhYb2dKOVEzZ2daLUVkWndnQ05Xc1dMb1BiYnFlYUJiVElYZHFha3hlTDNBQmxxcG15UC0xV3JVVnk5QQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOYVkwSUJWZnhYb2dKOVEzZ2daLUVkWndnQ05Xc1dMb1BiYnFlYUJiVElYZHFha3hlTDNBQmxxcG15UC0xV3JVVnk5QQ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-ent",
@@ -744,7 +796,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-19T13:55:35+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tWmhPcE1yRkFkcDl4MjdzM2EwdHJ4SExUTEdCbnFIOUhkUVoyT2duTWw1Vnc4VlFBM2l2SndHeU1IM0d1THFnQS1aRzhDcjJLY0ZWT2lfNjktNk16M0E?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tWmhPcE1yRkFkcDl4MjdzM2EwdHJ4SExUTEdCbnFIOUhkUVoyT2duTWw1Vnc4VlFBM2l2SndHeU1IM0d1THFnQS1aRzhDcjJLY0ZWT2lfNjktNk16M0E?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-ent",
@@ -757,7 +810,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-18T22:07:18+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xbWEzWmIwMFJkd2N5bTVQTm9hVlRCQVJFbXlTMDh3QTdpX05VQlV6X2ZwcEpxbFV3SDVBUEptSG4tN2JBdmIyM1RjQQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xbWEzWmIwMFJkd2N5bTVQTm9hVlRCQVJFbXlTMDh3QTdpX05VQlV6X2ZwcEpxbFV3SDVBUEptSG4tN2JBdmIyM1RjQQ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-ent",
@@ -770,7 +824,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-19T09:11:36+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wUnY3eElyX0FLNGxvZ0liMTVNMktBZjUxZG1ubmE3RnRsVVJkQXRTLWRGQVFwekFuQVJCdzNMaTlTS0Zyd2dOYTd6UQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wUnY3eElyX0FLNGxvZ0liMTVNMktBZjUxZG1ubmE3RnRsVVJkQXRTLWRGQVFwekFuQVJCdzNMaTlTS0Zyd2dOYTd6UQ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-ent",
@@ -783,7 +838,8 @@
    "content": "",
    "imageUrl": "https://storage-wp.thaipost.net/2022/05/profile-02text-1.png",
    "published": "2026-11-19T17:02:46+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBenBZR2VPME1vTEZxZW1DNFVXSkxIcnplSllWXzNVSnZvSDJ2VXFXR1N3TGhkRWdZbWpUallGQlVLdFhuRXlHNGdZM3pDTUxEN21NWUFwdUdwbVNvbjJ3?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBenBZR2VPME1vTEZxZW1DNFVXSkxIcnplSllWXzNVSnZvSDJ2VXFXR1N3TGhkRWdZbWpUallGQlVLdFhuRXlHNGdZM3pDTUxEN21NWUFwdUdwbVNvbjJ3?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-ent",
@@ -796,7 +852,8 @@
    "content": "",
    "imageUrl": "https://thestandard.co/wp-content/uploads/2026/11/tor-saksit-piano-comedy-cover.jpg",
    "published": "2026-11-19T09:34:42+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qbmdOd3RMX3pYU0dGazItUjJlS19MYWI5RE95eFBUSUFHa1NzYnp6ZjZFNWctV1NmYWhMSXJFSFRHbkh6RGVyUHZiVFpYQm9UTkRiVHNwak1IS0FDWHFScEpabF9NUQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qbmdOd3RMX3pYU0dGazItUjJlS19MYWI5RE95eFBUSUFHa1NzYnp6ZjZFNWctV1NmYWhMSXJFSFRHbkh6RGVyUHZiVFpYQm9UTkRiVHNwak1IS0FDWHFScEpabF9NUQ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-ent",
@@ -809,7 +866,8 @@
    "content": "",
    "imageUrl": "https://media-pw.readthecloud.co/2026/11/the-remarried-empress-7-8-eh-2-12830-299964b0.webp",
    "published": "2026-11-19T04:55:33+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOd0pqRDZyclZ3dW8yeV9kSEllNDlFMWNldElVcUNSNVNkTnJjVWxwcjdhdUViWHNhM3lsejNrRU9mb2o0RTNvVzNlNTdkOGlJaVZuVE1rWmlocVFBNXB3MGx4Z1ZoTFpHSGlBWGFDSTdFWmRRMk9WRG9iRS1MMkZVZGlDMnRtd0hoWnVMejdfTnFRWHpZcUFBdHBuQktRSEJUVkFFZjlzSHExQi1pLWdvQWlaYktOUXNfV2w0WXlhUUtMOWlpNHJwRnhoeVNiVkZnVkRyWHVFT0lkWTJuZWluUmNFbXZqWnhRTFpiMUhQeE15b2FZUU1qNHp3RVNueHVfUWJURE5jOFVqVVE4dE9kWDVIcTJ0Zw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOd0pqRDZyclZ3dW8yeV9kSEllNDlFMWNldElVcUNSNVNkTnJjVWxwcjdhdUViWHNhM3lsejNrRU9mb2o0RTNvVzNlNTdkOGlJaVZuVE1rWmlocVFBNXB3MGx4Z1ZoTFpHSGlBWGFDSTdFWmRRMk9WRG9iRS1MMkZVZGlDMnRtd0hoWnVMejdfTnFRWHpZcUFBdHBuQktRSEJUVkFFZjlzSHExQi1pLWdvQWlaYktOUXNfV2w0WXlhUUtMOWlpNHJwRnhoeVNiVkZnVkRyWHVFT0lkWTJuZWluUmNFbXZqWnhRTFpiMUhQeE15b2FZUU1qNHp3RVNueHVfUWJURE5jOFVqVVE4dE9kWDVIcTJ0Zw?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-ent",
@@ -822,7 +880,8 @@
    "content": "",
    "imageUrl": "https://truevisions.co.th/static/169ceb96-84bf-476e-9bdc-a3973b1e676e.jpg",
    "published": "2026-11-19T14:05:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43cnBIVVRxaDNxWWQ0dHk1OElHSHVxalNVRjFDaktmcWk4eV94a2NJaDB0YV9ZeUd4SDViOVZtLVJwaFFxU1h2QWtLcE4wTzJ1VkZVR0xkbw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43cnBIVVRxaDNxWWQ0dHk1OElHSHVxalNVRjFDaktmcWk4eV94a2NJaDB0YV9ZeUd4SDViOVZtLVJwaFFxU1h2QWtLcE4wTzJ1VkZVR0xkbw?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-ent",
@@ -835,7 +894,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-20T03:11:46+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPallTZGFyUG0za0wzLUlQSkVXRndBdUFCZVNwbThyRzdiY0VmYTh4emJ2TkhDbE5UdW9lb3A1SjQ5Y3JJNWw0VENwMA?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPallTZGFyUG0za0wzLUlQSkVXRndBdUFCZVNwbThyRzdiY0VmYTh4emJ2TkhDbE5UdW9lb3A1SjQ5Y3JJNWw0VENwMA?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-sport",
@@ -848,20 +908,8 @@
    "content": "",
    "imageUrl": "https://media-pw.readthecloud.co/2026/11/7hd-2026-32-eh-2-13219-b86102c4.webp",
    "published": "2026-11-20T06:40:15+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbzB4SUU5MTlfUTQ0ODJVLWdsRDdkNFpQU25JaG1jQncyQ1NHSXpXaExuZVVFcWlFbVdkVUR1TmFOVXFlbm9WOHFLZHVsSnN0YkMyaG92dmV4REIyNmE0MjBUVWgtUUlyUDZjcTJYd1g5cDhDNjltOFNrUTd0eHNUOUNPSFhnckFDRlFKUGNRU2tMNVc4VUxFSW9JY3VEMDdEckJhY1lWN0NLOHZxVFRjNjhlVHRmYkpwdDcxWk8yd2FNSjZlRTE5bHJEaTQ2SU1vWGxQY2ZJc0tldnlvdkRIMzVDMklMTnVxN2hj?oc=5"
-  },
-  {
-   "feedId": "g-sport",
-   "category": "กีฬา",
-   "source": "Google News",
-   "publisher": "คลาวด์ปัง",
-   "title": "โค้ชเอกชี้ชายหาดไทย ยังพลาดหลังชนะอิรัก 5-4 ก่อนนัดบาห์เรน",
-   "link": "https://readthecloud.co/%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%8A%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B8%B5%E0%B9%89%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B9%84%E0%B8%97%E0%B8%A2/",
-   "summary": "ที่มา: คลาวด์ปัง",
-   "content": "",
-   "imageUrl": "https://media-pw.readthecloud.co/2026/11/rtc-cover-13075-eh-2-13085-a198f429.webp",
-   "published": "2026-11-20T04:30:08+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNTHl1VElVRjd6SUxkWjdndTJ2YkVSVFVQWFhFai1nMEVSaEVyUXE4Yk5wc2gweHBfRzZuaTBxYkZuRWZ2c28wNGI1eEhNclRhUEJfTThHWG1RdzN3WW5LMWFJVU4zb2dLaDlvdnhBUkZyMU04dmJjZGNwbWE5QVdSc2lLUHUxMXFtdXhERzFadENLaUFncjJCWmRwQ2E3bThvOWNiWE13SVZSaTByeTNodlhmcEVGNjBQcDdLOHAtRHRXV1ZleEFBVEJMbFRFZG9yLXVMVmVpbC1ZeXJsT2EzS2t2WTFIQVhxSkxwTjZLN0lWZUE3X3F2VTRaeHRkS2NobVF6eTlnU1I4TUVWM29salo3bDRiXzZ5Yk82X3ZQSWo0Zw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbzB4SUU5MTlfUTQ0ODJVLWdsRDdkNFpQU25JaG1jQncyQ1NHSXpXaExuZVVFcWlFbVdkVUR1TmFOVXFlbm9WOHFLZHVsSnN0YkMyaG92dmV4REIyNmE0MjBUVWgtUUlyUDZjcTJYd1g5cDhDNjltOFNrUTd0eHNUOUNPSFhnckFDRlFKUGNRU2tMNVc4VUxFSW9JY3VEMDdEckJhY1lWN0NLOHZxVFRjNjhlVHRmYkpwdDcxWk8yd2FNSjZlRTE5bHJEaTQ2SU1vWGxQY2ZJc0tldnlvdkRIMzVDMklMTnVxN2hj?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-sport",
@@ -874,46 +922,22 @@
    "content": "",
    "imageUrl": "https://media-pw.readthecloud.co/2026/11/u17-2-1-eh-2-12847-9b51b648.webp",
    "published": "2026-11-20T03:40:42+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSHZLZXNROE04ZHJROEV5WWN0elRZZmx4VkxNQVdXVHBHUkpLRjZFR1RLSmM1a2lPZjU4c1JDSDdfZ014dWR0Sk9zRmVZaTBzUlRVeDlGRnFXMllXS3lQdVVTSnFZaTNxZ201aDUtcWRISGZhSnpmUE5DVUpKSEZycG9xU1JHSFBuR0oxTFFoLUU4UVU1QU5EZWc2YmdFRWtqSTJ5ODV4cGI3eHVILW5mcDJYemZtQXo4eWFjeUpVRWNtZw?oc=5"
-  },
-  {
-   "feedId": "g-sport",
-   "category": "กีฬา",
-   "source": "Google News",
-   "publisher": "TrueID",
-   "title": "ฟุตบอลทีมชาติไทยยุคฮัดสัน คว้าแชมป์คิงส์คัพ สู่บททดสอบเอเชีย",
-   "link": "https://sport.trueid.net/detail/lp6YLaxJOQO9",
-   "summary": "ที่มา: TrueID",
-   "content": "",
-   "imageUrl": "https://img-prod.api-onscene.com/cdn-cgi/image/format=auto%2Cwidth=640/https://cms.dmpcdn.com/ugcarticle/2026/11/20/5a90ccf0-e4a2-11f1-a594-c39dfd7ea74d_webp_original.webp",
-   "published": "2026-11-20T05:52:25+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0bmRyaGtTdDJVZm5iR1NDbTZHMnZJRzhTLVVqS1gwdVZVQjJjTENIWEJxdktkMk5aMW51NU9kRDVwbzkzOHFhQTBFZnFEQ0tLVmhqb2FMWQ?oc=5"
-  },
-  {
-   "feedId": "g-sport",
-   "category": "กีฬา",
-   "source": "Google News",
-   "publisher": "thairath.co.th",
-   "title": "ตารางคะแนน ช้อปปี้ คัพ (Shopee Cup 2026-27) หลังจบ รอบแบ่งกลุ่ม กลุ่ม B นัด 2",
-   "link": "https://www.thairath.co.th/sport/eurofootball/otherleague/2973062",
-   "summary": "ที่มา: thairath.co.th",
-   "content": "",
-   "imageUrl": "",
-   "published": "2026-11-19T14:56:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9heTVFRDdSLUROTGFHTEtvTW9iZmdFZWpCMmlpZkhQUi1oQThvVkRuMWpEZnBlbmoxcER5U1NESk1OeWFjbFFNajQtRmQxSURaX01iZHZWeEZhZGIycTN0Z0xvNlNqV1pHekhOMXd5WnZUUGs?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSHZLZXNROE04ZHJROEV5WWN0elRZZmx4VkxNQVdXVHBHUkpLRjZFR1RLSmM1a2lPZjU4c1JDSDdfZ014dWR0Sk9zRmVZaTBzUlRVeDlGRnFXMllXS3lQdVVTSnFZaTNxZ201aDUtcWRISGZhSnpmUE5DVUpKSEZycG9xU1JHSFBuR0oxTFFoLUU4UVU1QU5EZWc2YmdFRWtqSTJ5ODV4cGI3eHVILW5mcDJYemZtQXo4eWFjeUpVRWNtZw?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-sport",
    "category": "กีฬา",
    "source": "Google News",
    "publisher": "คลาวด์ปัง",
-   "title": "อูเบด ฮัสเซน เล็งน็อกเอาต์ แบล็คแพนเธอร์ The Inner Circle 39",
-   "link": "https://readthecloud.co/%E0%B8%AD%E0%B8%B9%E0%B9%80%E0%B8%9A%E0%B8%94-%E0%B8%AE%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%99/",
+   "title": "โค้ชเอกชี้ชายหาดไทย ยังพลาดหลังชนะอิรัก 5-4 ก่อนนัดบาห์เรน",
+   "link": "https://readthecloud.co/%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%8A%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B8%B5%E0%B9%89%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B9%84%E0%B8%97%E0%B8%A2/",
    "summary": "ที่มา: คลาวด์ปัง",
    "content": "",
-   "imageUrl": "https://media-pw.readthecloud.co/2026/11/rtc-cover-13123-eh-2-13130-5db22294.webp",
-   "published": "2026-11-20T05:10:15+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLXFrOE55QXFzNGxfLThZYmd5NF96cXdnT0ZGUE1NQVVocUdtcHpWTXpyZHdBRjZoeUgxc2wyeWtBWm9JU3NnOHF1QVc1bERwZjB3eW41aDhtRTdWcnUtR2VLd3lVTndoS0xUS1huc2NVQXFGNTdZdmNSSVJ1dU5RZGV2VXNiZ1dWNGptRWx3TzJjUG9aN21tZ2UxZDVGZGRYMEJNTlBlR2ZmaDdFd3JEUzJ6Rnp3Qjg4WVNKMWN4ZEdDcVE?oc=5"
+   "imageUrl": "https://media-pw.readthecloud.co/2026/11/rtc-cover-13075-eh-2-13085-a198f429.webp",
+   "published": "2026-11-20T04:30:08+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNTHl1VElVRjd6SUxkWjdndTJ2YkVSVFVQWFhFai1nMEVSaEVyUXE4Yk5wc2gweHBfRzZuaTBxYkZuRWZ2c28wNGI1eEhNclRhUEJfTThHWG1RdzN3WW5LMWFJVU4zb2dLaDlvdnhBUkZyMU04dmJjZGNwbWE5QVdSc2lLUHUxMXFtdXhERzFadENLaUFncjJCWmRwQ2E3bThvOWNiWE13SVZSaTByeTNodlhmcEVGNjBQcDdLOHAtRHRXV1ZleEFBVEJMbFRFZG9yLXVMVmVpbC1ZeXJsT2EzS2t2WTFIQVhxSkxwTjZLN0lWZUE3X3F2VTRaeHRkS2NobVF6eTlnU1I4TUVWM29salo3bDRiXzZ5Yk82X3ZQSWo0Zw?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-sport",
@@ -926,7 +950,50 @@
    "content": "",
    "imageUrl": "https://thaitv5hd.com/content-manager/article_image?id=204180&ym=2026-11&file=article204180_20261120_6dwlx.webp",
    "published": "2026-11-20T05:05:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMingRBVV95cUxPNVh5d293b0FXeVdYTXllMmtmUDBGOWtiUTJYZzFOa19mLTBEdkplR2YyYlQxdXl5N1NvcTlCNjdJWDNydlpoNEF2M3NNY2VxLWo3Rk9oZGFFWW5wUENyNTlGaUEyd3NVekU1bzg2c18yUkRGZGJqcHF3akNrdFdPRWpGUC1pNHhzam9jRm83OUpVdXk1dkg4MGdoOUFtRktPbHIyejFCY25xbklQU1gwYnRQUUwzRV90X3lrVUtxYzJDX2Yxb0NIUjB1azFCV0kzbjNucVRnYmJPU0Qwa1ZOTjhTNlFfTWw5MVYzYUJadHJwVHRXNFhvVnJLeEY4T1VnXzNobzFhb0ZtaXVxMmNSWFczeS1heThWZi1KeXVQYW5wNE1TTWQwT29aRWlWRVNpZTVCZzBxWHd2MzZWeGxMMVVBNlc4dWhMemR3bWszLUJOOHFPdF81ZmZxSlF6NEtpUW95emVNVGN3eEhrNFp5UC1uRnNrUWpGaGE2TU1DeDYtMUw2aTJDTExpSERpVEV2a1djS214RmlsQVFuTWQ0aWhSOGpvakprbzl5NkxuanZaVlJTbmpHVlhxYkx5SUgwZTRJYnl1TnJnWU1BSWg5ekVTQUpxR0FCYmVpWDRJZERTelJvajhUZi13RXhZbHNUS19ObTJ2NDhyWFJTZ00xU1UycXNXV2ZfUkcyakV6c0lrYmJpckNNV011Vmlmdw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMingRBVV95cUxPNVh5d293b0FXeVdYTXllMmtmUDBGOWtiUTJYZzFOa19mLTBEdkplR2YyYlQxdXl5N1NvcTlCNjdJWDNydlpoNEF2M3NNY2VxLWo3Rk9oZGFFWW5wUENyNTlGaUEyd3NVekU1bzg2c18yUkRGZGJqcHF3akNrdFdPRWpGUC1pNHhzam9jRm83OUpVdXk1dkg4MGdoOUFtRktPbHIyejFCY25xbklQU1gwYnRQUUwzRV90X3lrVUtxYzJDX2Yxb0NIUjB1azFCV0kzbjNucVRnYmJPU0Qwa1ZOTjhTNlFfTWw5MVYzYUJadHJwVHRXNFhvVnJLeEY4T1VnXzNobzFhb0ZtaXVxMmNSWFczeS1heThWZi1KeXVQYW5wNE1TTWQwT29aRWlWRVNpZTVCZzBxWHd2MzZWeGxMMVVBNlc4dWhMemR3bWszLUJOOHFPdF81ZmZxSlF6NEtpUW95emVNVGN3eEhrNFp5UC1uRnNrUWpGaGE2TU1DeDYtMUw2aTJDTExpSERpVEV2a1djS214RmlsQVFuTWQ0aWhSOGpvakprbzl5NkxuanZaVlJTbmpHVlhxYkx5SUgwZTRJYnl1TnJnWU1BSWg5ekVTQUpxR0FCYmVpWDRJZERTelJvajhUZi13RXhZbHNUS19ObTJ2NDhyWFJTZ00xU1UycXNXV2ZfUkcyakV6c0lrYmJpckNNV011Vmlmdw?oc=5",
+   "hint": ""
+  },
+  {
+   "feedId": "g-sport",
+   "category": "กีฬา",
+   "source": "Google News",
+   "publisher": "TrueID",
+   "title": "ฟุตบอลทีมชาติไทยยุคฮัดสัน คว้าแชมป์คิงส์คัพ สู่บททดสอบเอเชีย",
+   "link": "https://sport.trueid.net/detail/lp6YLaxJOQO9",
+   "summary": "ที่มา: TrueID",
+   "content": "",
+   "imageUrl": "https://img-prod.api-onscene.com/cdn-cgi/image/format=auto%2Cwidth=640/https://cms.dmpcdn.com/ugcarticle/2026/11/20/5a90ccf0-e4a2-11f1-a594-c39dfd7ea74d_webp_original.webp",
+   "published": "2026-11-20T05:52:25+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0bmRyaGtTdDJVZm5iR1NDbTZHMnZJRzhTLVVqS1gwdVZVQjJjTENIWEJxdktkMk5aMW51NU9kRDVwbzkzOHFhQTBFZnFEQ0tLVmhqb2FMWQ?oc=5",
+   "hint": ""
+  },
+  {
+   "feedId": "g-sport",
+   "category": "กีฬา",
+   "source": "Google News",
+   "publisher": "คลาวด์ปัง",
+   "title": "อูเบด ฮัสเซน เล็งน็อกเอาต์ แบล็คแพนเธอร์ The Inner Circle 39",
+   "link": "https://readthecloud.co/%E0%B8%AD%E0%B8%B9%E0%B9%80%E0%B8%9A%E0%B8%94-%E0%B8%AE%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%99/",
+   "summary": "ที่มา: คลาวด์ปัง",
+   "content": "",
+   "imageUrl": "https://media-pw.readthecloud.co/2026/11/rtc-cover-13123-eh-2-13130-5db22294.webp",
+   "published": "2026-11-20T05:10:15+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLXFrOE55QXFzNGxfLThZYmd5NF96cXdnT0ZGUE1NQVVocUdtcHpWTXpyZHdBRjZoeUgxc2wyeWtBWm9JU3NnOHF1QVc1bERwZjB3eW41aDhtRTdWcnUtR2VLd3lVTndoS0xUS1huc2NVQXFGNTdZdmNSSVJ1dU5RZGV2VXNiZ1dWNGptRWx3TzJjUG9aN21tZ2UxZDVGZGRYMEJNTlBlR2ZmaDdFd3JEUzJ6Rnp3Qjg4WVNKMWN4ZEdDcVE?oc=5",
+   "hint": ""
+  },
+  {
+   "feedId": "g-sport",
+   "category": "กีฬา",
+   "source": "Google News",
+   "publisher": "thairath.co.th",
+   "title": "ตารางคะแนน ช้อปปี้ คัพ (Shopee Cup 2026-27) หลังจบ รอบแบ่งกลุ่ม กลุ่ม B นัด 2",
+   "link": "https://www.thairath.co.th/sport/eurofootball/otherleague/2973062",
+   "summary": "ที่มา: thairath.co.th",
+   "content": "",
+   "imageUrl": "",
+   "published": "2026-11-19T14:56:00+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9heTVFRDdSLUROTGFHTEtvTW9iZmdFZWpCMmlpZkhQUi1oQThvVkRuMWpEZnBlbmoxcER5U1NESk1OeWFjbFFNajQtRmQxSURaX01iZHZWeEZhZGIycTN0Z0xvNlNqV1pHekhOMXd5WnZUUGs?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-sport",
@@ -939,7 +1006,8 @@
    "content": "",
    "imageUrl": "https://img.pptvhd36.com/thumbor/2026/11/20/news-a47b983.jpg",
    "published": "2026-11-20T04:47:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xY18xM2hPV3RURmE2eF96UlhrR3drVFJ0OU1IQmFSQU1UaFhsVi1ISVNHMzN2TnJRRENoVEUzd2ZjVW1xNy01WC15NW1pbUpQcGxfQw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xY18xM2hPV3RURmE2eF96UlhrR3drVFJ0OU1IQmFSQU1UaFhsVi1ISVNHMzN2TnJRRENoVEUzd2ZjVW1xNy01WC15NW1pbUpQcGxfQw?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-sport",
@@ -952,7 +1020,8 @@
    "content": "",
    "imageUrl": "https://mpics2.mgronline.com/pics/Images/569000011210901.JPEG",
    "published": "2026-11-18T16:09:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hV3dxVG1OZ2JBRERlbWE4TUxQbmlXRVVEQkc2d0hYT3llNjVxdkhfd1N6czRtZVkyTjNaVzZrdDc2YWxiUElCamVuYUx6SlFiVUNheXNDZWJuYkM2?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hV3dxVG1OZ2JBRERlbWE4TUxQbmlXRVVEQkc2d0hYT3llNjVxdkhfd1N6czRtZVkyTjNaVzZrdDc2YWxiUElCamVuYUx6SlFiVUNheXNDZWJuYkM2?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-sport",
@@ -965,7 +1034,8 @@
    "content": "",
    "imageUrl": "https://truevisions.co.th/static/aeb48905-51db-4149-8aeb-d13324ae0aae.jpg",
    "published": "2026-11-19T21:14:32+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RT0RMc285QzQ3ZFF6NGtWaGFsX1JWdFRLYmlqZ0FQTVlRZ3pVdWpnMmdBNndKTmhtREw4UUJRRF9wOGpXbHZPMHhVSWJBVk1T?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RT0RMc285QzQ3ZFF6NGtWaGFsX1JWdFRLYmlqZ0FQTVlRZ3pVdWpnMmdBNndKTmhtREw4UUJRRF9wOGpXbHZPMHhVSWJBVk1T?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-tech",
@@ -978,7 +1048,8 @@
    "content": "",
    "imageUrl": "https://thestandard.co/wp-content/uploads/2026/11/gta-vi-takes-over.jpg",
    "published": "2026-11-20T04:14:08+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81N1NWT2tTZ1FQaGxFYVQzSk5lZFE5d2RHeDlYRTMyNjBOcHdZQ2RXUGY1MXFOZ0JYeEJjNWQzZ0VIcS1CdDNpVjYtVHFoYkxmVlVqR2p4akVzcnpBY0tKWWdhTDdPbkNHVWZXcGlvb2k?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81N1NWT2tTZ1FQaGxFYVQzSk5lZFE5d2RHeDlYRTMyNjBOcHdZQ2RXUGY1MXFOZ0JYeEJjNWQzZ0VIcS1CdDNpVjYtVHFoYkxmVlVqR2p4akVzcnpBY0tKWWdhTDdPbkNHVWZXcGlvb2k?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-tech",
@@ -991,7 +1062,8 @@
    "content": "",
    "imageUrl": "https://www.matichon.co.th/wp-content/uploads/2026/11/Epson-LS970.jpg",
    "published": "2026-11-20T06:48:45+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Id2RrQk1pQ1p6VjQzelJ2Q2VBT2JfT2JiRWdncXo1VnJjbGM3d2djaE9aUE1oNUZlYW1WRm5ZYnZjQnpGUWhVYUtkS0VKMGtwOC0tekdZVEhiRjNQMDF6ckI5a3o?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Id2RrQk1pQ1p6VjQzelJ2Q2VBT2JfT2JiRWdncXo1VnJjbGM3d2djaE9aUE1oNUZlYW1WRm5ZYnZjQnpGUWhVYUtkS0VKMGtwOC0tekdZVEhiRjNQMDF6ckI5a3o?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-tech",
@@ -1004,7 +1076,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-20T04:01:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LRHJIOXhDaUxWVXNlZ0pQRzBWZWpIRERza2dmZHY3VGkwVFRWaXpIOGlJeWh5NVpPeUJneXJiTUFhWnA5SGFnd0pTUWxrRTZ5UjFN?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LRHJIOXhDaUxWVXNlZ0pQRzBWZWpIRERza2dmZHY3VGkwVFRWaXpIOGlJeWh5NVpPeUJneXJiTUFhWnA5SGFnd0pTUWxrRTZ5UjFN?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-tech",
@@ -1017,7 +1090,8 @@
    "content": "",
    "imageUrl": "https://www.papayatop.com/wp-content/uploads/2026/11/c04a-n1120mob.avif",
    "published": "2026-11-20T01:20:59+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX0c2TTBPOFlaVkpBUGdCUGdaZkdFV3c2R1pmdFVjMDZtLVJsdVQ2RVFPQ0xxSlQwZFo5dXVmcGI2X2hZazg3bVZOZXNJTDcyRWZFczdZWC01SmNpdXFDT1NDdWZmTHBYRmdQdThmRk5RQ2ZtdlNFUEliVGhKa19OM254blFNbi1SRVow?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX0c2TTBPOFlaVkpBUGdCUGdaZkdFV3c2R1pmdFVjMDZtLVJsdVQ2RVFPQ0xxSlQwZFo5dXVmcGI2X2hZazg3bVZOZXNJTDcyRWZFczdZWC01SmNpdXFDT1NDdWZmTHBYRmdQdThmRk5RQ2ZtdlNFUEliVGhKa19OM254blFNbi1SRVow?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-tech",
@@ -1030,7 +1104,8 @@
    "content": "",
    "imageUrl": "https://media.online-station.net/images/2026/11/115ffb0a764351e14bf2977475e9ff52.jpg",
    "published": "2026-11-20T05:31:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6U01UNmhFOGJDSU96SFhycmIydGw5RVpfbEZuY29WMG1pUzA4aGRUVEYwWmtVQjQ2aW1ISTdvS2lSMjZ3TzhkeFd4MXRoNy1MMWhnRjBmeUJ0bEhPRDR1cVdHQkM?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6U01UNmhFOGJDSU96SFhycmIydGw5RVpfbEZuY29WMG1pUzA4aGRUVEYwWmtVQjQ2aW1ISTdvS2lSMjZ3TzhkeFd4MXRoNy1MMWhnRjBmeUJ0bEhPRDR1cVdHQkM?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-tech",
@@ -1043,7 +1118,8 @@
    "content": "",
    "imageUrl": "https://specphone.com/web/wp-content/uploads/2026/11/Xiaomi19SeriesRumorsDisplay.jpg",
    "published": "2026-11-20T07:02:12+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IMmFSeDRabDRvdFMzUTlhOWI2bjhhVTdScHgzQ3dqRUp2UWZDdVZBM1F6VlhxbnQtSDE2V3U4R3NtRVRvMGVobEpDVjRnMnhkdDNzZk8wczYyYWY5U0tUdWtYdUlZWVJpVlhEQlBWbDk0YkNjOWJ1WA?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IMmFSeDRabDRvdFMzUTlhOWI2bjhhVTdScHgzQ3dqRUp2UWZDdVZBM1F6VlhxbnQtSDE2V3U4R3NtRVRvMGVobEpDVjRnMnhkdDNzZk8wczYyYWY5U0tUdWtYdUlZWVJpVlhEQlBWbDk0YkNjOWJ1WA?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-tech",
@@ -1056,7 +1132,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-20T03:52:06+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaU9RNnhnV0ZOQVhLbXRNTWdoQnZmRjFWSmk4SEM2aTBhamc3dTluUzFpUlZhYkJQMnFsX1dJYkVfSEY1LThObUI4eTZBc210d1pDeHYtcDg3U1g2alpsWUJROE42WWcwUGRkT0lPQjdHQUJMMlZJUEsxZk9HRlQwVkdlZw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaU9RNnhnV0ZOQVhLbXRNTWdoQnZmRjFWSmk4SEM2aTBhamc3dTluUzFpUlZhYkJQMnFsX1dJYkVfSEY1LThObUI4eTZBc210d1pDeHYtcDg3U1g2alpsWUJROE42WWcwUGRkT0lPQjdHQUJMMlZJUEsxZk9HRlQwVkdlZw?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-tech",
@@ -1069,33 +1146,120 @@
    "content": "",
    "imageUrl": "https://128.199.232.218/upload_image/2026/imgfb_1795095761_7226809.jpg",
    "published": "2026-11-19T17:57:19+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORi1tX2dIN0tjSkkxenlOcTZ6SUhud3VkUVpycFNLT2l6YjQyWktMOVMySDZodEg1LW5VZnlLaTNIc3Nac2M4QnNic1lEU0JVNlZSN3loR09udVQtT0JWMmVzV2Q1Y05zZnlERjJmSGctRWtkUHBVM05NQTVRQ0YwUXE3cFltRWZVT0xFWVZiMjJnMnlzM3Zj?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORi1tX2dIN0tjSkkxenlOcTZ6SUhud3VkUVpycFNLT2l6YjQyWktMOVMySDZodEg1LW5VZnlLaTNIc3Nac2M4QnNic1lEU0JVNlZSN3loR09udVQtT0JWMmVzV2Q1Y05zZnlERjJmSGctRWtkUHBVM05NQTVRQ0YwUXE3cFltRWZVT0xFWVZiMjJnMnlzM3Zj?oc=5",
+   "hint": ""
   },
   {
-   "feedId": "g-world",
-   "category": "ต่างประเทศ",
+   "feedId": "g-biz",
+   "category": "WEALTH",
    "source": "Google News",
-   "publisher": "国际在线",
-   "title": "ปูตินขอบคุณจีนและประธานาธิบดีสี จิ้นผิง จัดหารือผู้นำจีน-รัสเซีย-สหรัฐฯ",
-   "link": "https://thai.cri.cn/2026/11/20/ARTI1795144025028254",
-   "summary": "ที่มา: 国际在线",
+   "publisher": "efin.finance",
+   "title": "- - ภาวะตลาดหุ้นญี่ปุ่น : ดัชนี นิกเกอิ ปิดเช้าลบ 2,669.17 จุด หรือ -4.49 %",
+   "link": "https://www.efin.finance/th/stock/news/detail/pip1AA",
+   "summary": "ที่มา: efin.finance",
    "content": "",
-   "imageUrl": "https://38picres.cgtn.com/photoAlbum/page/performance/img/2026/11/20/1795143986937_122.jpg",
-   "published": "2026-11-20T03:08:19+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TQ0tKQ0hQYzgwN0VKTXRETVYtTVZxOFdiUkhVZFVqUW8yZzlIVWZOWFFyOVVMYXFVQnI2d2N0TnVKU2lhTDNYejEzZWFlZVZSdnlaTzJmOXdlcFpxclVDZQ?oc=5"
+   "imageUrl": "https://www.efin.finance/Preview-Web.jpg?v=2",
+   "published": "2026-11-20T02:52:37+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55a01DcktXTFVMM05NTmtjZzlxY3FlQmNBQ1ZGVGZqVnFoUC1fRzY2VjdJazBjakRKYjhUckJzR25aR3NRVEVwT3BGSHF0V2t4YzgtSk9EVHhsVE5vTy10V2NB?oc=5",
+   "hint": "- - ภาวะตลาดหุ้นญี่ปุ่น : ดัชนี นิกเกอิ ปิดเช้าลบ 2,669.17 จุด หรือ -4.49 % | efin.finance - - ภาวะตลาดหุ้นญี่ปุ่น : ดัชนี นิกเกอิ ปิดเช้าลบ 2,669.17 จุด หรือ -4.49 % ดัชนี นิกเกอิ: ตลาดหุ้นญี่ปุ่น ปิดตลา... - - ภาวะตลาดหุ้นญี่ปุ่น : ดัชนี นิกเกอิ ปิดเช้าลบ 2,669.17 จุด หรือ -4.49 % | efin.finance"
   },
   {
-   "feedId": "g-world",
-   "category": "ต่างประเทศ",
+   "feedId": "g-biz",
+   "category": "WEALTH",
    "source": "Google News",
-   "publisher": "thairath.co.th",
-   "title": "รัสเซียโวย ยูเครนโจมตีสะพานไครเมียครั้งที่ 3 ในรอบสัปดาห์",
-   "link": "https://www.thairath.co.th/news/foreign/2973562",
-   "summary": "ที่มา: thairath.co.th",
+   "publisher": "Techsauce",
+   "title": "เอกนิติ นำ บีโอไอ - กกร. จับมือเคดันเรน ดัน “Made with Thailand” ลงนามความร่วมมือ 3 ฉบับ",
+   "link": "https://techsauce.co/pr-news/thailand-japan-investment-business-dialogue-2026",
+   "summary": "ที่มา: Techsauce",
+   "content": "",
+   "imageUrl": "https://storage.googleapis.com/techsauce-prod/ugc/uploads/2026/11/1200_630_1795154249_2569-11-20__Keidanren_Dialogue_Made_with_Thailand__%E0%B8%9B%E0%B8%81_630_%281%29.webp",
+   "published": "2026-11-20T05:57:38+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUhVaC00aWZJTkFSQjhPWnBLM1FZNjMzRWRiUGQ2SXJfSFNCajdtQ0V5dVowVzg0ZjlkWGxRWUxKcUNEeU8yT1NBYWt0TWpqdXZxclFKa055LXB4TmZpSnlZU1pLUzY2S3RDYW9aNTdNdUpVaUQxMUhPak9aeEhzajB5WQ?oc=5",
+   "hint": "เอกนิติ นำ บีโอไอ - กกร. จับมือเคดันเรน ดัน “Made with Thailand” ลงนามความร่วมมือ 3 ฉบับ รองนายกฯ เอกนิติ นำทีมบีโอไอ พร้อมผู้นำ กกร. เปิดเวที Thailand-Japan Investment and Business Dialogue 2026 ที่โตเกียว ผลักดัน 3 ห่วงโซ่อุปทานแห่งอนาคต ยกระดับความร่วมมือสู่ Made with Thailand และลงนามความร่วมมือ 3 ฉบับ เอกนิติ นำ บีโอไอ - กกร. จับมือเคดันเรน ดัน “Made with Thailand” ลงนามความร่วมมือ 3 ฉบับ | T"
+  },
+  {
+   "feedId": "g-biz",
+   "category": "WEALTH",
+   "source": "Google News",
+   "publisher": "Moomoo",
+   "title": "Bitcoin Flat as Fed Rate Hike Expectations, Strong Dollar Weigh -- Market Talk",
+   "link": "https://www.moomoo.com/th/news/post/1005262745/bitcoin-flat-as-fed-rate-hike-expectations-strong-dollar-weigh",
+   "summary": "ที่มา: Moomoo",
    "content": "",
    "imageUrl": "",
-   "published": "2026-11-19T22:23:24+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tbE1RVEhEVmk2a0UwblFqMTgzOTNRaTVzOFBUS3ZvZlRvaHg2NnFlWVNmNzRabERscWwtSVI2ZEhSa2MxaW1YUXNsNTRrOWVEbnB0UWNjZjNMQkU?oc=5"
+   "published": "2026-11-20T03:08:10+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLURXLVdtLVBxUXZTMWpVQld4bzBkanEydUxRcnVkckpIdFV4TS1KbTVQREpYRllUNHNxckpyWnRpTHFJODlOaE1sdVN6TDFTazdFYWg1Z1c0Z1VJdV81UFlOUDRqaERCT01zMUJrODlkVnBZU2FNRVRoaEIxSDh1cDlRSS04Rmh1dk9mX1UxV25uOFBGRlRaQVRPLWxBRmZHMGFBMzBsNFhsZENEVVE?oc=5",
+   "hint": "Document"
+  },
+  {
+   "feedId": "g-biz",
+   "category": "WEALTH",
+   "source": "Google News",
+   "publisher": "Techhub",
+   "title": "โมเดลใหม่ Gemini 4 Hydrogen ค้นหาได้ฉลาดขึ้น",
+   "link": "https://www.techhub.in.th/google-search-with-gemini-4-hydrogen/",
+   "summary": "ที่มา: Techhub",
+   "content": "",
+   "imageUrl": "https://www.techhub.in.th/wp-content/uploads/2026/11/โมเดลใหม่-Gemini-4-Hydrogen-ค้นหาได้ฉลาดขึ้น-26-scaled.jpg",
+   "published": "2026-11-20T03:47:17+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MYldsVUZNeXIySWZaRDZEY0xrT0d6MUw5THFzVHZVV2xRRGhHanZpU1RzZWdEUmNrX2tReUpLYlhuWjM3YjVVaXlaa3pFQXZMakFoZEY3RXhEaGt0UEJVSjQ4aW9wUlFXaWUyNGhnb0c?oc=5",
+   "hint": "โมเดลใหม่ Gemini 4 Hydrogen ค้นหาได้ฉลาดขึ้น หลัง Google เปิดตัวโมเดล AI ใหม่อย่าง 'Gemini 4 Hydrogen' ชูทำงานไวกว่า 3.8 Flash ถึง 2.5 เท่า และเก่งด้าน AI Agent โมเดลใหม่ Gemini 4 Hydrogen ค้นหาได้ฉลาดขึ้น"
+  },
+  {
+   "feedId": "g-biz",
+   "category": "WEALTH",
+   "source": "Google News",
+   "publisher": "LINE TODAY",
+   "title": "ราคาทองโลกดิ่งกว่า 100 ดอลลาร์ หลุด 3,800 ดอลลาร์ ต่ำสุดรอบกว่า 1 ปี | The Bangkok Insight",
+   "link": "https://today.line.me/th/v3/article/YapD1Ja?view=topic&referral=goldupdate",
+   "summary": "ที่มา: LINE TODAY",
+   "content": "",
+   "imageUrl": "https://today-obs.line-scdn.net/0hDwktbCGpG1hWDQfCgUZkD25bFyllawFRdDkEOntZF2koIVRdbj5IOyNaFnRzPV8Gdj8GPiYJRGgrNQwKPQ/w1200",
+   "published": "2026-11-18T18:02:58+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoY0pacWlHaGlBWXRHZHJQelJGZjZGZUhQYjJNNTRKOUxZUDF2S3pFTFhZcVJYQkJTOVdsUGtad0dyeUFhcERrUnNXaVlkSG8zTWFkUjJGYmJnUm1Ua09idjVjcm50RVpEVFgxUnIwaGNMU3FRcmlOaVhfUkN5enc?oc=5",
+   "hint": "ราคาทองโลกดิ่งกว่า 100 ดอลลาร์ หลุด 3,800 ดอลลาร์ ต่ำสุดรอบกว่า 1 ปี | The Bangkok Insight | LINE TODAY ราคาทองโลกร่วงหนัก หลุด 3,800 ดอลลาร์ ในการซื้อขายช่วงเช้าวันนี้ (18 พ.ย.) ตามเวลาสหรัฐ หลังดอลลาร์แข็งค่า และนักลงทุนกังวลเฟดเร่งขึ้นดอกเบี้ยสกั... ราคาทองโลกดิ่งกว่า 100 ดอลลาร์ หลุด 3,800 ดอลลาร์ ต่ำสุดรอบกว่า 1 ปี | The Bangkok Insight | LINE TODAY"
+  },
+  {
+   "feedId": "g-biz",
+   "category": "WEALTH",
+   "source": "Google News",
+   "publisher": "Thunhoon",
+   "title": "ธ.กรุงไทย มองกรอบเงินบาทวันนี้ 33.85-34.10 บ./ดอลลาร์",
+   "link": "https://thunhoon.com/krungthai-banks-outlook-for-the-thai-baht-today-211126",
+   "summary": "ที่มา: Thunhoon",
+   "content": "",
+   "imageUrl": "https://wp.thunhoon.com/wp-content/uploads/2026/11/à¸.à¸à¸£à¸¸à¸à¹à¸à¸¢2-20112026_0.jpg",
+   "published": "2026-11-20T02:36:54+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXVSSXlWLUdEaU84bjJBLXFLbHUyakRGRndkUzJqa1hBeFRzZkd1UGU2TjZwMEpKR0RTeDhTTnpDOGpmalJzUDh5RDJCVVZGQl8zY3pXbV94Z1ZpSHdMc2ZKZnFnWXZjZmtZVUU0ZDM5ZE9qYkJNZlFIQ1djSTBCOA?oc=5",
+   "hint": "à¸.à¸à¸£à¸¸à¸à¹à¸à¸¢ à¸¡à¸­à¸à¸à¸£à¸­à¸à¹à¸à¸´à¸à¸à¸²à¸à¸§à¸±à¸à¸à¸µà¹ 33.85-34.10 à¸./à¸à¸­à¸¥à¸¥à¸²à¸£à¹ - Thunhoon à¸ªà¸£à¸¸à¸à¸à¹à¸²à¸§à¸à¸²à¸£à¸¥à¸à¸à¸¸à¸ à¸à¸à¸§à¸´à¹à¸à¸£à¸²à¸°à¸«à¹à¸«à¸¸à¹à¸ à¸à¸­à¸à¸à¸¸à¸ à¸à¸£à¸°à¸à¸±à¸ à¹à¸¥à¸°à¹à¸¨à¸£à¸©à¸à¸à¸´à¸ à¸à¸£à¸à¸à¸à¹à¸à¸à¸µà¹à¹à¸à¸µà¸¢à¸§ à¸­à¸±à¸à¹à¸à¸à¹à¸§à¸à¸²à¸à¸à¸µà¸¡à¸à¸²à¸"
+  },
+  {
+   "feedId": "g-world",
+   "category": "ต่างประเทศ",
+   "source": "Google News",
+   "publisher": "ททบ. 5",
+   "title": "ทรัมป์–สี–ปูติน ออกปฏิญญาสันติภาพร่วม ประกาศจุดยืน “สงครามนิวเคลียร์ต้องไม่เกิด”",
+   "link": "https://thaitv5hd.com/content/204182/%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%9B%E0%B9%8C-%E0%B8%AA%E0%B8%B5-%E0%B8%9B%E0%B8%B9%E0%B8%95%E0%B8%B4%E0%B8%99-%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%88%E0%B8%B8%E0%B8%94%E0%B8%A2%E0%B8%B7%E0%B8%99-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94",
+   "summary": "ที่มา: ททบ. 5",
+   "content": "",
+   "imageUrl": "https://thaitv5hd.com/content-manager/article_image?id=204182&ym=2026-11&file=article204182_20261120_ijkbx.webp",
+   "published": "2026-11-20T06:01:00+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiwAdBVV95cUxNQnh0SVItOGo1UE1IbkVNN2w1clJvMUQ4TkE0NzRPcWM4MnJESFctV0xiVWp2cG9qMy1VbmFaRFhIeU9LSl93ZEEtTjNCZDEyMGFRcGI0Q1Rqcms0Y28zYVVmNFluM2pxVFBnYUNkeXVZb0NRZ1htUG9fSkwzM1gxdVJ6Rkd1RHFlX1BJYXFOVEZfTGh1TDZCNkRzM2ZqOXpqTERmblJTNk9saWZIaEZmaGUxSW53NjN1WFBqSlRMNVduM3lreWtPS0F6M21fZENNMWtVQjcwOVNaXzZWVHBzX2g4a2FzRXMycmpGd3hqeGQ2QkkwSjhqRzJNcDNCelgtTEZpZVdJRmlJNnJTX2pXM1RrU2R4aEhaY3NmQTdYbWM3em5uTU10VHNDQVY5VG9XVGFvY0JaQXhYUWdfYWIyTzk0aE15T0l0cm12SkJBVS1LajI3a2N4bWxQQ3ZNeU9rTFlBaHo2Q0dlUEVXblgtYTRJX21Oc1FQUjFDZnl5YUR0NC1hT29fN2x0Zl9ta0NzcUdHd0dacTZOVmpURDF6Z0thMXhtSDRCMlBJbXhUbV80UmR4TVNfbmhtWTMyTnd4Mm4wRndFdGpfT0dYOTlOTkEyZTJ2S1lBQU9rMjFleFV4NnBqVkxTakcyR0FCTnRtakVEVFR1OTlSNUVhY1J4aEw4bFYxcjNGNFVoZDRqZmNmbjhBTmZJSTFGdGNUSFJ1bVFSZ09XaURPVGtsdmRPVXpYZ1g3OHNyUlMzc1FSZG1BQS1KYTQ5TXZxbF9VVnRGd3dzUE44OEpicjdqTXQxUURsV3RhUG5iNE5GNDh1LVZfZnp3Znp5THIyQ2NTZ1c5Rnp1QzNjTkpFdkdRMkpZaWE1RW11ZHRsNXBoaHUzWS1zLUJOeFRRMmFTVHB1U2Y3YTM5bk55cFJzYk1TRnBJaENqOVpLZE0wXzk5MFRKc0h2Zmw2Y01nQ1VTRm54RWdUeDN6NGprMlppNXBCQlEtMlZxV1FRbWR3VnFBR2JJOE1SdUlQa2pFNTRxT2tqOEl6dHlEdzZmSFlncHdHRTQ5VlVCbVpMZGV5Z01YU1pCQXB2bmZKRlJwQl9KVlM0VEZKenFZZXlsYmswMGludkxWSWpodTBYOHItN2xBLXdSUWtOQ0dWVzA2RjZoQmxtN3NSNV8zYTZSMUt3N3FabC1JQUY5X0JwV25KM09HLUh4VE5yRGZXSFFuYjJscTRyci1YcXRsZkIzTXpxeTRxRmhvZFVmVWJ6ZGlqNldwTU11NF8?oc=5",
+   "hint": "ทรัมป์–สี–ปูติน ออกปฏิญญาสันติภาพร่วม ประกาศจุดยืน “สงครามนิวเคลียร์ต้องไม่เกิด” ผู้นำสหรัฐฯ จีน และรัสเซีย ออกปฏิญญาสันติภาพร่วม หลังการประชุมไตรภาคีครั้งประวัติศาสตร์ นอกรอบการประชุมเอเปกที่นครเซินเจิ้น ประเทศจีน เห็นพ้องลดความเสี่ยงสงครามนิวเคลียร์ ปฏิรูปอง… ทรัมป์–สี–ปูติน ออกปฏิญญาสันติภาพร่วม ประกาศจุดยืน “สงครามนิวเคลียร์ต้องไม่เกิด” | สถานีวิทยุโทรทัศน์กองทัพบก TV5HD"
+  },
+  {
+   "feedId": "g-world",
+   "category": "ต่างประเทศ",
+   "source": "Google News",
+   "publisher": "banmuang.co.th",
+   "title": "“สีจิ้นผิง” เปิดประชุม APEC CEO Summit ปลุกเอเชียแปซิฟิกเจริญรุ่งเรืองร่วมกัน",
+   "link": "https://www.banmuang.co.th/mobile/news/inter/498475",
+   "summary": "ที่มา: banmuang.co.th",
+   "content": "",
+   "imageUrl": "https://www.banmuang.co.th/uploads/news/img/l/498475_th.jpg",
+   "published": "2026-11-18T10:56:00+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLWmQyLU03aVdSTURjbTFYUmI3bmtQNUVJMWxXZEhGdWJnZ181aHZGd3FaazY2UjZnNk1PR3JEdDRCa3NXYU1FcXBNYjdDVGN5eGM3QzJENjdZOGROR2RhNQ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-world",
@@ -1108,7 +1272,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-19T21:42:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sV1pDZi1wOXdfcGNVcHJwWUpDU0FtR2YwRUZOVVBNWllBQi1xYmwyQTYtLVlKeVRVak5RbFJnV2Q4NmJqS0kxVld6d1dBR0dDUERlUnZmQQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sV1pDZi1wOXdfcGNVcHJwWUpDU0FtR2YwRUZOVVBNWllBQi1xYmwyQTYtLVlKeVRVak5RbFJnV2Q4NmJqS0kxVld6d1dBR0dDUERlUnZmQQ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-world",
@@ -1121,7 +1286,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-20T01:29:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12dmR4YXdLdW1GNXhWbnlnN05mRmVwMVFQVDdBVUl3TUo4aTFueUFDYzZqNXlVZTRZWUhDX1ZsTmVDc0dVazRkcU5QNjhZSnVHOWNB?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12dmR4YXdLdW1GNXhWbnlnN05mRmVwMVFQVDdBVUl3TUo4aTFueUFDYzZqNXlVZTRZWUhDX1ZsTmVDc0dVazRkcU5QNjhZSnVHOWNB?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-health",
@@ -1134,7 +1300,8 @@
    "content": "",
    "imageUrl": "https://www.thecoverage.info/sites/default/files/styles/super_cover/public/image/2026-11/r09.jpg?itok=Cf_osHp6",
    "published": "2026-11-20T06:18:22+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVNW9vb2cwVkRvVktVSkFSVThiR0hHNTJiVVBYZ3R5MGRMQnRTTVUzdzdUb21sWVpKNmxCeGtfeEJDaDA0aEdIMXBMdFJnZGV0NG1qdHNfc2J1Z0k?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVNW9vb2cwVkRvVktVSkFSVThiR0hHNTJiVVBYZ3R5MGRMQnRTTVUzdzdUb21sWVpKNmxCeGtfeEJDaDA0aEdIMXBMdFJnZGV0NG1qdHNfc2J1Z0k?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-health",
@@ -1147,7 +1314,8 @@
    "content": "",
    "imageUrl": "https://www.thailandplus.tv/wp-content/uploads/2026/11/วันเบาหวานโลก-4.jpg",
    "published": "2026-11-18T14:26:08+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rVWFWYUhfc0xsbm1KNlZKb3hPaVE3bkctTnUyTDU0VHlkU0swUWxHVWpMMVJOaldIZXh3ejlJdUJmdzhrUGczdkRNV0s4QUNUdVpLc1VUcw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rVWFWYUhfc0xsbm1KNlZKb3hPaVE3bkctTnUyTDU0VHlkU0swUWxHVWpMMVJOaldIZXh3ejlJdUJmdzhrUGczdkRNV0s4QUNUdVpLc1VUcw?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-health",
@@ -1160,7 +1328,8 @@
    "content": "",
    "imageUrl": "https://prachatai.com/sites/default/files/styles/super_cover_upload/public/files-super-cover-upload/2026/2026-11/Antibiotic_sensitivity_and_resistance.jpg.webp?itok=qL9t-5ne",
    "published": "2026-11-19T07:20:58+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56NHZqTWNsYzhxLXlyREJZRkt2cmppb3JzdEtpa3BZUjUyZks3eTc0WHNQMWgwREt4NnU5MXV3cW9ZYmlhck8yWTRNNTlLbDliLXFiWlRyaw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56NHZqTWNsYzhxLXlyREJZRkt2cmppb3JzdEtpa3BZUjUyZks3eTc0WHNQMWgwREt4NnU5MXV3cW9ZYmlhck8yWTRNNTlLbDliLXFiWlRyaw?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-health",
@@ -1173,7 +1342,8 @@
    "content": "",
    "imageUrl": "https://www.js100.com/uploads/news/e2c2b53921dd7a7d4d59e577c63280a8.jpg",
    "published": "2026-11-18T18:17:52+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuRFJkOHFNZzUtN1VlazVCRXlBNmVHWVFVMm1KR0Y0aWV0THExdnVMR2xrLUJJdk9HRUpFdkpUeVhjZUxibXp3Nzd3YlZFN3lHZEs3X3FrVFpzQQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuRFJkOHFNZzUtN1VlazVCRXlBNmVHWVFVMm1KR0Y0aWV0THExdnVMR2xrLUJJdk9HRUpFdkpUeVhjZUxibXp3Nzd3YlZFN3lHZEs3X3FrVFpzQQ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-health",
@@ -1186,7 +1356,8 @@
    "content": "",
    "imageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/20/1795139132834_1795128960111-1119178407380632355-g7057397628798555483-25a7bf719ae14ad3edc4d584bceeb311-3639-jpg.webp",
    "published": "2026-11-20T02:59:29+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMa0QtQzRDbmFMY3ZJTU5SYmxobWI3TUtvZ09FWnpGbE00ajh4Q2Y0dUpXdmNQRnlPcmM3em84bzQ0LW9hYnJNUmNJdG5YVE5PLTZRbjM1a1YwVDFhLXdoYXpsYTVtZ1lRVEJhOGprWEE?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMa0QtQzRDbmFMY3ZJTU5SYmxobWI3TUtvZ09FWnpGbE00ajh4Q2Y0dUpXdmNQRnlPcmM3em84bzQ0LW9hYnJNUmNJdG5YVE5PLTZRbjM1a1YwVDFhLXdoYXpsYTVtZ1lRVEJhOGprWEE?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-health",
@@ -1199,7 +1370,8 @@
    "content": "",
    "imageUrl": "https://variety.teenee.com/foodforbrain/img5/272588.webp",
    "published": "2026-11-18T20:39:07+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrb0Jub29GRnNIY3ppTHZRSXp1WTZHYW9rZWFoLWptWVFlcDlZT3JEaE1oR3huVmxLaFhTa3JUci1BOVpBRFpnYk1USmp1cW9nOFVaUUlPVkVMSTYtQnpJ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrb0Jub29GRnNIY3ppTHZRSXp1WTZHYW9rZWFoLWptWVFlcDlZT3JEaE1oR3huVmxLaFhTa3JUci1BOVpBRFpnYk1USmp1cW9nOFVaUUlPVkVMSTYtQnpJ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-health",
@@ -1212,7 +1384,8 @@
    "content": "",
    "imageUrl": "https://www.thecoverage.info/sites/default/files/styles/super_cover/public/image/2026-11/y11.jpg?itok=3p_rXX4i",
    "published": "2026-11-19T07:59:01+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOM1VRNDY5RWRxdGxIdEJHS2xneVk0NjMtUnNvZlZoMk9HaUJfdXhpX0NFU2FrQ3FHTF9zUUJWVFp5OTZMdmM1Q3VzY054dWluRTNVYkR5al9KNVE?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOM1VRNDY5RWRxdGxIdEJHS2xneVk0NjMtUnNvZlZoMk9HaUJfdXhpX0NFU2FrQ3FHTF9zUUJWVFp5OTZMdmM1Q3VzY054dWluRTNVYkR5al9KNVE?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-health",
@@ -1225,7 +1398,8 @@
    "content": "",
    "imageUrl": "https://www.hfocus.org/sites/default/files/styles/hfocus_super_cover/public/2026-11/11_7.jpg?itok=35Joa1N4",
    "published": "2026-11-17T12:07:03+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0OVlGRWlGQmVhbUVRRFpGeTJmV3ZNMDNLSDNnbGtiX3VfMWVhME8yQlh6cUxLRS1iM2lYUUlJcDM1UHUyNnUwaDZzcHFPb1RfQUtfQ1lGaw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0OVlGRWlGQmVhbUVRRFpGeTJmV3ZNMDNLSDNnbGtiX3VfMWVhME8yQlh6cUxLRS1iM2lYUUlJcDM1UHUyNnUwaDZzcHFPb1RfQUtfQ1lGaw?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-horo",
@@ -1238,7 +1412,8 @@
    "content": "",
    "imageUrl": "https://i0.wp.com/marketeeronline.co/wp-content/uploads/2024/03/Picture-%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B8%A7%E0%B8%87.webp?fit=1200%2C628&ssl=1",
    "published": "2026-11-20T06:00:18+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqMVFxZmw4aHg4aEJ3NU12dWxMTi1EWkZnWXhKdnZUUkEzR2o2VWNDbGZtOHdsUy1Ea1RoTFRyWHJ4OHBZVlpDYllaVlZuMmQtYUlBYQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqMVFxZmw4aHg4aEJ3NU12dWxMTi1EWkZnWXhKdnZUUkEzR2o2VWNDbGZtOHdsUy1Ea1RoTFRyWHJ4OHBZVlpDYllaVlZuMmQtYUlBYQ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-horo",
@@ -1251,7 +1426,8 @@
    "content": "",
    "imageUrl": "https://www.khaosod.co.th/wpapp/uploads/2026/11/11221.jpg",
    "published": "2026-11-20T06:13:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9USXhLR19zemFRLVRuOWdzUC1YOC1MYWR2RUV4c0ZZZ0ktYmF0azNUMlJaRXRVLTJkbl8wYktNN1F1QTk4bVFnY2ZPRTl0czBoc0JJaEFwLUJ1SnI5YlE?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9USXhLR19zemFRLVRuOWdzUC1YOC1MYWR2RUV4c0ZZZ0ktYmF0azNUMlJaRXRVLTJkbl8wYktNN1F1QTk4bVFnY2ZPRTl0czBoc0JJaEFwLUJ1SnI5YlE?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-horo",
@@ -1264,7 +1440,8 @@
    "content": "",
    "imageUrl": "https://thaitv5hd.com/content-manager/article_image?id=204176&ym=2026-11&file=article204176_20261120_5p16j.webp",
    "published": "2026-11-20T03:34:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMijgRBVV95cUxNbFNfcTJxQXY1YUV3bU11MlhnQ21xYndkUGd4WmhDTF9kWWV3UlJNMkRIZlc3NDdnQjVyUGVqNWt1bnh6ejJEbGg1M2ZUQ0YySmREVnhfNVV4TC1vRll5ZzJvcS1SNTk3VUVMTXhpZF9nWGVPOWtWdERjdUlGU1Z1akppWklkS3U3RHhWUC1ab2lYM3Rqd0VCZzRDYVNOMVRlTi1SMVFOSG5pSXZzb0l4MnhacHJSTGxPWjNFd2RRQjdOcWIwYU9uNVRvSkJkd2JzSXhjSEtyZm9RNUYzZ01JWHN3WDM1b1lUek1Zd0UzSFZUZGZ0N2tiUklHYXRJQTZmTnhrcnJMcVAwdXRXQUpSaE9DVWZpYWh3VE1mYl81MGw3dHN4NnJMWklsVGlxaTVwRXFoUzRFMUZ2UENucjBsaWR0TTFFOVhaTEZacTlwblFtYXVrc0xkbTR0UkdRWl9SS1E0bDV0Skk3b2pXbXJqa1NlLWlES0kzXzVGaG0wa3o5R3JkNEJuUkdFSzNzSUMtN1RXMUhQWVB5dFpxTXhrNjRVb2xHd3dGc3FWdE9DekoydS14OVlORlNvdGVhLTBld3JLeTBTZUc1OG4ybDZhbWhnMzlUa2MxWW5GaEExWlh6dHJfWHRacFBSemdVVkJHdk9UNWFldEtkeC16QTlfbEVranVWY2VjVDFLRWxR?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMijgRBVV95cUxNbFNfcTJxQXY1YUV3bU11MlhnQ21xYndkUGd4WmhDTF9kWWV3UlJNMkRIZlc3NDdnQjVyUGVqNWt1bnh6ejJEbGg1M2ZUQ0YySmREVnhfNVV4TC1vRll5ZzJvcS1SNTk3VUVMTXhpZF9nWGVPOWtWdERjdUlGU1Z1akppWklkS3U3RHhWUC1ab2lYM3Rqd0VCZzRDYVNOMVRlTi1SMVFOSG5pSXZzb0l4MnhacHJSTGxPWjNFd2RRQjdOcWIwYU9uNVRvSkJkd2JzSXhjSEtyZm9RNUYzZ01JWHN3WDM1b1lUek1Zd0UzSFZUZGZ0N2tiUklHYXRJQTZmTnhrcnJMcVAwdXRXQUpSaE9DVWZpYWh3VE1mYl81MGw3dHN4NnJMWklsVGlxaTVwRXFoUzRFMUZ2UENucjBsaWR0TTFFOVhaTEZacTlwblFtYXVrc0xkbTR0UkdRWl9SS1E0bDV0Skk3b2pXbXJqa1NlLWlES0kzXzVGaG0wa3o5R3JkNEJuUkdFSzNzSUMtN1RXMUhQWVB5dFpxTXhrNjRVb2xHd3dGc3FWdE9DekoydS14OVlORlNvdGVhLTBld3JLeTBTZUc1OG4ybDZhbWhnMzlUa2MxWW5GaEExWlh6dHJfWHRacFBSemdVVkJHdk9UNWFldEtkeC16QTlfbEVranVWY2VjVDFLRWxR?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-horo",
@@ -1277,7 +1454,8 @@
    "content": "",
    "imageUrl": "https://today-obs.line-scdn.net/0ht9VxjlA5KxZrATeOgjFUQVNXJ2dYZzEfSWRieUwIdHJHLWkXUGF4dRkCfTpPN2tHS2dsdkoCdyMWMT8SUA/w1200",
    "published": "2026-11-20T06:28:30+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmhwQWtnZWNpeVFXZ2hYaXVLd2Y1bklrVkpGLXVBUDFRLUQ5R2xTVXdTRlpvMklrLTdSQzUzRENsOU92eDE4eWI1MFhaLWJ1LUgtd2RCSEhmcnp3VzdOTEQwVVRVMjM5ckRDaEtZN2FBVnZOeTZCcW5FQUVDeVJISm5Cdm4?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmhwQWtnZWNpeVFXZ2hYaXVLd2Y1bklrVkpGLXVBUDFRLUQ5R2xTVXdTRlpvMklrLTdSQzUzRENsOU92eDE4eWI1MFhaLWJ1LUgtd2RCSEhmcnp3VzdOTEQwVVRVMjM5ckRDaEtZN2FBVnZOeTZCcW5FQUVDeVJISm5Cdm4?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-horo",
@@ -1290,7 +1468,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-19T23:01:29+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UNUdQNU00UVFZLUZCem53cWNSZjl3bk5JRktLVmlYUjNKRkV1UzBMQTV0Xy0zTmg1STdrME1CUUE1WEVEQkJVSFltaTM4Z3l3dWdKRnUyZ3o?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UNUdQNU00UVFZLUZCem53cWNSZjl3bk5JRktLVmlYUjNKRkV1UzBMQTV0Xy0zTmg1STdrME1CUUE1WEVEQkJVSFltaTM4Z3l3dWdKRnUyZ3o?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-horo",
@@ -1303,7 +1482,8 @@
    "content": "",
    "imageUrl": "https://s.isanook.com/ho/0/ud/67/338406/new-thumbnail1200x720_v2-20.jpg?ip/crop/w1200h700/q80/jpg",
    "published": "2026-11-20T04:51:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPV20wTkh6XzltY2tMN1lkWlRjRnV1QTRUTjRuSEJFZkl6SGFyYVl1blZDZlZ3ZVBFNUxYTVFNcVFZODNlSVk4NC05N3BVTmVUUmc?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPV20wTkh6XzltY2tMN1lkWlRjRnV1QTRUTjRuSEJFZkl6SGFyYVl1blZDZlZ3ZVBFNUxYTVFNcVFZODNlSVk4NC05N3BVTmVUUmc?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-horo",
@@ -1316,7 +1496,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-19T18:00:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zVWZEZkhHU0NMV0oyeVZjMWcwNXk2ZlE5ZEVDVE1uZVd4c3BzZ0dyYV9ySmlyT3YwZjRXRkFweW43QnRtR0JETmxuM0tYaENLVUFHMGFHMzYyR2trNjc4?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zVWZEZkhHU0NMV0oyeVZjMWcwNXk2ZlE5ZEVDVE1uZVd4c3BzZ0dyYV9ySmlyT3YwZjRXRkFweW43QnRtR0JETmxuM0tYaENLVUFHMGFHMzYyR2trNjc4?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-horo",
@@ -1329,7 +1510,8 @@
    "content": "",
    "imageUrl": "https://s.isanook.com/ho/0/ud/fxd/day/daily-horoscope-thursday.jpg?ip/crop/w1200h700/q80/jpg",
    "published": "2026-11-19T17:01:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mX2Z4cHdMMGo0aDZxVmNScmZ1aUJMaGJacWZsSG53R3dwd2FNTlNJbjhuOUxkLW96bS1Zakc5TENUc1pzTWRBem5HR0ZZZ0dwLWc?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mX2Z4cHdMMGo0aDZxVmNScmZ1aUJMaGJacWZsSG53R3dwd2FNTlNJbjhuOUxkLW96bS1Zakc5TENUc1pzTWRBem5HR0ZZZ0dwLWc?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-travel",
@@ -1342,7 +1524,8 @@
    "content": "",
    "imageUrl": "https://content-images.thaipbs.or.th/imgpx1/unsafe/resizing_type:fit/size:1920:1080/format:webp/quality:75/aHR0cHM6Ly90aGFpcGJzLXByb2dyYW0tcHJvZHVjdGlvbi5zMy5hbWF6b25hd3MuY29tL2ltYWdlcy84ZEtHdWpYaHMuanBn",
    "published": "2026-11-20T05:30:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54SFp4V0JDRWZjRGIwb3Q5b1NoVDJiaDkwVTNGdnN0WGk3Z09ydW50TE9PSzVOYXpqODRtMlE2LW4zMWhDaVBKQktGYWE0U3drb0lWcklVVkJ6YXZMT0ZQLVRJU2dSenItelJGXw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54SFp4V0JDRWZjRGIwb3Q5b1NoVDJiaDkwVTNGdnN0WGk3Z09ydW50TE9PSzVOYXpqODRtMlE2LW4zMWhDaVBKQktGYWE0U3drb0lWcklVVkJ6YXZMT0ZQLVRJU2dSenItelJGXw?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-travel",
@@ -1355,7 +1538,8 @@
    "content": "",
    "imageUrl": "https://38picres.cgtn.com/photoAlbum/page/performance/img/2026/11/20/1795144425099_945.jpg",
    "published": "2026-11-20T03:18:21+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBELWVJTnlBcTQ0S1QyZHhiTVByRTlxNG9Na1R5dDJqZzE1T21aaExnM3l1OTRLSVpneVRPZFJKd0ppY05zSWx5NU1mdkg4Y3VCUmhyMEhBc29KbDlndU1weg?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBELWVJTnlBcTQ0S1QyZHhiTVByRTlxNG9Na1R5dDJqZzE1T21aaExnM3l1OTRLSVpneVRPZFJKd0ppY05zSWx5NU1mdkg4Y3VCUmhyMEhBc29KbDlndU1weg?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-travel",
@@ -1368,7 +1552,8 @@
    "content": "",
    "imageUrl": "https://thestandard.co/wp-content/uploads/2026/11/scb-eic-tourism-war-cover.jpg",
    "published": "2026-11-20T01:33:53+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82bVlhenJDNTktZElQSFFPSUdhaDVpU0hyaDFBeHkzQ1U3SF9IeVpTQ2VGbUdZaHBDYXZiczdaYWhabkExQzhkdGVVMmN3aEFDSzRWU1ZuOXV5eW9iUnpWRFR3?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82bVlhenJDNTktZElQSFFPSUdhaDVpU0hyaDFBeHkzQ1U3SF9IeVpTQ2VGbUdZaHBDYXZiczdaYWhabkExQzhkdGVVMmN3aEFDSzRWU1ZuOXV5eW9iUnpWRFR3?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-travel",
@@ -1381,7 +1566,8 @@
    "content": "",
    "imageUrl": "https://asset.efin.finance/news/picture/2026/11/20/T/7678659.jpg",
    "published": "2026-11-20T03:36:01+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iX3BJWHdObzd1Yzh0amhSNTJLbW1SdzR1UnJ3UXlEX1R3LUMwNGxxVFBacjhTVTdoaVVBdmVvZE5pRHJJeGl1bW1CWTBSUUtBTW1nY1doNkxTUVZ2d3ZKUzdB?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iX3BJWHdObzd1Yzh0amhSNTJLbW1SdzR1UnJ3UXlEX1R3LUMwNGxxVFBacjhTVTdoaVVBdmVvZE5pRHJJeGl1bW1CWTBSUUtBTW1nY1doNkxTUVZ2d3ZKUzdB?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-travel",
@@ -1394,7 +1580,8 @@
    "content": "",
    "imageUrl": "https://www.thebangkokinsight.com/wp-content/uploads/2026/11/ท่องเที่ยวshutterstock_2693006113.jpg",
    "published": "2026-11-20T02:18:23+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBySFVBd1NIcy1mR1hHbWtzTk0wN1VCcW1ZWF9IbWRjTlZhR1JoSUpkZm9HeXJja1E3MkRSOEpqS181TFJwTlF0dFlQdHp4aHZXZWl2dGMwYllJYmVkOWFoZG9OVWcwYjg?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBySFVBd1NIcy1mR1hHbWtzTk0wN1VCcW1ZWF9IbWRjTlZhR1JoSUpkZm9HeXJja1E3MkRSOEpqS181TFJwTlF0dFlQdHp4aHZXZWl2dGMwYllJYmVkOWFoZG9OVWcwYjg?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-travel",
@@ -1407,7 +1594,8 @@
    "content": "",
    "imageUrl": "https://mpics2.mgronline.com/pics/Images/569000011258401.JPEG",
    "published": "2026-11-20T03:39:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6R09vbTl4NnBxTW1tWVQxQ2hfYTBFODNmWDQwVDZMRUE4X3EzRjZ2RDFsUW53UllmT0hncDI3ZnV1RnY5X0E0WVJWS2V1S3FVclg1VUtyaWtIZkM3?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6R09vbTl4NnBxTW1tWVQxQ2hfYTBFODNmWDQwVDZMRUE4X3EzRjZ2RDFsUW53UllmT0hncDI3ZnV1RnY5X0E0WVJWS2V1S3FVclg1VUtyaWtIZkM3?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-travel",
@@ -1420,7 +1608,8 @@
    "content": "",
    "imageUrl": "https://www.banmuang.co.th/uploads/news/img/l/498712_th.jpg",
    "published": "2026-11-20T04:04:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaSExPUVpwWjNsQ3ZkWVJVR0dyRk5IcDhpRzBhQ2hiRDV6bEVUOEVmSkFxS1pvY2diczdBMm5mVzgzYWVHUFBXQ0RZejkzd1pBdGFvbWRWUVo?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaSExPUVpwWjNsQ3ZkWVJVR0dyRk5IcDhpRzBhQ2hiRDV6bEVUOEVmSkFxS1pvY2diczdBMm5mVzgzYWVHUFBXQ0RZejkzd1pBdGFvbWRWUVo?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-travel",
@@ -1433,7 +1622,22 @@
    "content": "",
    "imageUrl": "https://media.kaohoon.com/wp-content/uploads/2025/02/AWC_2025-02-27_news.jpg",
    "published": "2026-11-20T02:20:57+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CR1hfMXVmcEJHbUFOTlhkNWJMdEZERG0tYU1vNDJtVVNFSWtCVC1KOENnUmNlZ0Y0TTFtaTFVbk96cHR3OVVQcGZBbmlUNVJ2ZTVPRFRPbw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CR1hfMXVmcEJHbUFOTlhkNWJMdEZERG0tYU1vNDJtVVNFSWtCVC1KOENnUmNlZ0Y0TTFtaTFVbk96cHR3OVVQcGZBbmlUNVJ2ZTVPRFRPbw?oc=5",
+   "hint": ""
+  },
+  {
+   "feedId": "g-eats",
+   "category": "Eats",
+   "source": "Google News",
+   "publisher": "TrueID Food",
+   "title": "ร้านโอ้กะจู๋ จัดอันดับ 3 เมนูอร่อยซิกเนเจอร์ห้ามพลาดชิม",
+   "link": "https://food.trueid.net/detail/4NOnRXlwvWEz",
+   "summary": "ที่มา: TrueID Food",
+   "content": "",
+   "imageUrl": "https://img-prod.api-onscene.com/cdn-cgi/image/format=auto%2Cwidth=640/https://cms.dmpcdn.com/ugcarticle/2026/11/20/5d2fd410-e49d-11f1-a594-c39dfd7ea74d_webp_original.webp",
+   "published": "2026-11-20T05:52:54+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96UEJZX2xWUlMtWFNEOE5qOWRDRXpNSkN6czAzdkJRTU4wSGJLb0docVFlLXd4cFJJTFNjd0wtU0ozdTJYS3RfMGhLN2lrV0ktblIwYi1n?oc=5",
+   "hint": "ร้านโอ้กะจู๋ จัดอันดับ 3 เมนูอร่อยซิกเนเจอร์ห้ามพลาดชิม วันนี้เรามารีวิว ร้าน โอ้กะจู๋ (Ohkajhu) ร้านอาหารเพื่อสุขภาพ โดดเด่นด้วยการใช้วัตถุดิบผักออร์แกนิคสดใหม่ส่งตรงจากฟาร์ม บริษัท ปลูกผักเพราะรักแม่ จำกัด (มหาชน) ร้านโอ้กะจู๋ จัดอันดับ 3 เมนูอร่อยซิกเนเจอร์ห้ามพลาดชิม"
   },
   {
    "feedId": "g-eats",
@@ -1446,7 +1650,8 @@
    "content": "",
    "imageUrl": "https://thestandard.co/wp-content/uploads/2026/11/ruen-santana-thai-restaurant.jpg",
    "published": "2026-11-19T08:40:34+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Na3NUdXhNakNTUERma0gtYV9ybmVQRW1lU2xsX2Y1VnY3blRJdGNxRDdVMDRrQW9meHRCTzJsQmxwNGgtU3VmRmZSNENPeElRbUNPeDY1elN6TUJZLTZoVzY3S1picTBIYnczOGpHaGs2MWM?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Na3NUdXhNakNTUERma0gtYV9ybmVQRW1lU2xsX2Y1VnY3blRJdGNxRDdVMDRrQW9meHRCTzJsQmxwNGgtU3VmRmZSNENPeElRbUNPeDY1elN6TUJZLTZoVzY3S1picTBIYnczOGpHaGs2MWM?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-eats",
@@ -1459,20 +1664,22 @@
    "content": "",
    "imageUrl": "https://www.brandbuffet.in.th/wp-content/uploads/2026/11/Gourmet-CTW-1.jpg",
    "published": "2026-11-19T11:11:35+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzdUNFNXZk83d0c0eWxyZEpDeHd5SmVhbGloeFhjRlQycGtSYVEya2F6OXBuOHpYcC1xekhSZUFLYnVIaS12YnZ5TjZxOG9HZjhvb2hRZllGM3YzNnFFMFBkTU4wLTRuR09mMkNHY25UVDlaNlQzVTBqM1M1ZnRERQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzdUNFNXZk83d0c0eWxyZEpDeHd5SmVhbGloeFhjRlQycGtSYVEya2F6OXBuOHpYcC1xekhSZUFLYnVIaS12YnZ5TjZxOG9HZjhvb2hRZllGM3YzNnFFMFBkTU4wLTRuR09mMkNHY25UVDlaNlQzVTBqM1M1ZnRERQ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-eats",
    "category": "Eats",
    "source": "Google News",
    "publisher": "Sortir à Paris",
-   "title": "ปูแมงมุม ล็อบสเตอร์ และพีตีวิเยร์ไส้เป็ดมัลลาร์ดในงานเลี้ยงส่งท้ายปีของ Eskal",
-   "link": "https://www.sortiraparis.com/th/khaw/khristmas/articles/358540-menu-mux-kha-chlxng-sng-thay-pi-kea-txnrab-pi-him-2027-sud-hru-thi-eskal",
+   "title": "หอยเชลล์ ปลาจอห์นดอรี และเนื้อแกะ ในมื้อค่ำคืนคริสต์มาสของร้าน Baieta",
+   "link": "https://www.sortiraparis.com/th/khaw/khristmas/articles/358532-menu-chlxng-sng-thay-pi-kea-txnrab-pi-him-2027-thi-baieta",
    "summary": "ที่มา: Sortir à Paris",
    "content": "",
-   "imageUrl": "https://cdn.sortiraparis.com/images/80/114524/1303109-eskal-decoration.jpg",
-   "published": "2026-11-18T19:57:10+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTXpZOXlORno3d1BlUXk5dnNBcldFSGcwNm9CdUdKanFaUDVZWFFnbm9scFlfLWhTQURjSjFUeEtjSXg2VWR4LUNmUzBWQW5FUXUtbXhJcnJoRVVUdU11T0lvZUdHd2Y5cmxhLXFra25aWWhkNHVqTEpPZ244WnA2TEc3dmtTVFJrbV9qQmNGNUR2RU1sd0NVdFlxTWVsazA2UGRKOUdRdEJqN3R1dnpiQlpNMW9oM0V5Uy15QnZhYkpqVXhLZHJQVWJ4THg2SE9n?oc=5"
+   "imageUrl": "https://cdn.sortiraparis.com/images/80/77153/1339821-baieta-a-paris.jpg",
+   "published": "2026-11-18T21:14:03+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWVlwZnlNV25tZkU3QW1YWDkyZ3BPTldlVDRlTUttZndrdk5CMXNFWXh2SzBOUGk2Q2plN1hBQ0VtY3BiVVpTSjR5dUpsb0lQWk5sb0g5UGR2UkF2WC1mbjFOUGh1Z19tTzdReW4yR0hDZ2xyaUhWXzJpU1RBNHprbEhpSy1mOXpCV0h4amxSWTFXclRGeEFYanNGMksyV2p2UUY5ZUNoUExRTWxlNExlNC13Q3lEeDNvWFZ1aw?oc=5",
+   "hint": "หอยเชลล์ ปลาจอห์นดอรี และเนื้อแกะ ในมื้อค่ำคืนคริสต์มาสของร้าน Baieta งานเลี้ยงส่งท้ายปีเก่าของ Baieta เน้นเมนูปลาและรสชาติแบบเมดิเตอร์เรเนียน ในเขต 5 โดย Julia Sedefdjian เป็นผู้รังสรรค์เมนูราคา 300 ยูโร สำหรับวันที่ 31 ธันวาคมที่จะถึงนี้! เมนูฉลองส่งท้ายปีเก่าต้อนรับปีใหม่ 2027 ที่ Baieta - Sortiraparis.com"
   },
   {
    "feedId": "g-eats",
@@ -1485,20 +1692,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-19T09:11:36+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JbXFNOE1ZeWxrV3lpak5VVGdpN21vTUkzeG9XLVl4Mi02SUVvc1M2UWlRUVZFSkNoc3lDcmh2QnA2TmZ3SzA3bnV0SQ?oc=5"
-  },
-  {
-   "feedId": "g-eats",
-   "category": "Eats",
-   "source": "Google News",
-   "publisher": "TrueID Food",
-   "title": "“Gourmet Foodie Fest 2026 : Sip Happens” ยกทัพอาหารและเครื่องดื่ม ใจกลางเซ็นทรัลเวิลด์",
-   "link": "https://food.trueid.net/detail/ldQOg2OmoRz7",
-   "summary": "ที่มา: TrueID Food",
-   "content": "",
-   "imageUrl": "https://cms.dmpcdn.com/food/2026/11/16/f34c8ea0-e175-11f1-af36-058e133b003b_webp_original.webp",
-   "published": "2026-11-18T21:32:47+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEbndJQ29Sb2hEeTNibm90Y3I2QlFXSmVJbjFLdUk0ZVhQOVpMVDhaX1ZqYU9iSWl0eEc2bl8xaG52RlRFTjRETmRKMHdaVTBndXZUM3Nn?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JbXFNOE1ZeWxrV3lpak5VVGdpN21vTUkzeG9XLVl4Mi02SUVvc1M2UWlRUVZFSkNoc3lDcmh2QnA2TmZ3SzA3bnV0SQ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-eats",
@@ -1511,7 +1706,8 @@
    "content": "",
    "imageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/19/1795047773486_photo2026-11-1801-07-57-010810-1794988347110-1794988348156949287562-140-0-944-1536-crop-17949884100341613792220.jpeg",
    "published": "2026-11-19T01:55:40+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSG1FdnhFRDhKMnNpc19Udml3X0o5WXcxbWhycWJuLVllX0MxMjFRYzdsV2plSHdLMVJ1cWt1N2pScW5TNDFOLWNwQUZiWlFScl9uVFJGM1F1ZUItLV9LT25RWmRiMXA0TjVKQnEwQzdoOGVvY0xPcWNkaHFhb0RtSFVBQQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSG1FdnhFRDhKMnNpc19Udml3X0o5WXcxbWhycWJuLVllX0MxMjFRYzdsV2plSHdLMVJ1cWt1N2pScW5TNDFOLWNwQUZiWlFScl9uVFJGM1F1ZUItLV9LT25RWmRiMXA0TjVKQnEwQzdoOGVvY0xPcWNkaHFhb0RtSFVBQQ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-eats",
@@ -1524,20 +1720,22 @@
    "content": "",
    "imageUrl": "https://today-obs.line-scdn.net/0hT15LMFSSCx4INReEWm50STBjB287UxEXKlJDfC8yXC4nGUodPVNYfS9gVzIsVU5LKFBALSs0VSwnUEUaNw/w1200",
    "published": "2026-11-18T13:22:01+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TczlJd28zc3NMZGpkc3JzOEF1cW5KSWxsMmxISm02ekxFYk9PdjNnUGU3YVRBTWxLbEs3ZTBnTVRqYWdIS19sM2k1NTI5ZGxQQ2RhdWNvcVl5aVQ0N1lBM29JTDA?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TczlJd28zc3NMZGpkc3JzOEF1cW5KSWxsMmxISm02ekxFYk9PdjNnUGU3YVRBTWxLbEs3ZTBnTVRqYWdIS19sM2k1NTI5ZGxQQ2RhdWNvcVl5aVQ0N1lBM29JTDA?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-eats",
    "category": "Eats",
    "source": "Google News",
    "publisher": "Sortir à Paris",
-   "title": "เมนูอาหารไทยราคา 95 ยูโร สำหรับคืนส่งท้ายปีเก่าที่ Faaï ย่านบาสตีย์",
-   "link": "https://www.sortiraparis.com/th/khaw/khristmas/articles/358537-menu-xahar-thiy-sahrab-khun-sng-thay-pi-kea-txnrab-pi-him-2027-thi-faai",
+   "title": "ปูแมงมุม ล็อบสเตอร์ และพีตีวิเยร์ไส้เป็ดมัลลาร์ดในงานเลี้ยงส่งท้ายปีของ Eskal",
+   "link": "https://www.sortiraparis.com/th/khaw/khristmas/articles/358540-menu-mux-kha-chlxng-sng-thay-pi-kea-txnrab-pi-him-2027-sud-hru-thi-eskal",
    "summary": "ที่มา: Sortir à Paris",
    "content": "",
-   "imageUrl": "https://cdn.sortiraparis.com/images/80/77153/1253389-faai-la-nouvelle-table-thai-de-la-cheffe-anne-coppin-a-bastille.jpg",
-   "published": "2026-11-18T21:14:02+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYmFPcHB4anp5UzVabWVHZGVRTmtWX1E3amctX1E0UEZ4c2czVnk5dFo1Y1pwMERCWEhIalh2STF1aExkaGU4YTlLWjlmREQ1QmRBR0swbzJRVzVGcm5MQ2pkY1QyenI3blc5ZXUwTE5ZQ2diRjUzWEtoV095aFJnaHVKY05FbU9NUlVJSlI3SVZJNUVzNUFGdlFhQmFfQU9YNjNzTFVMaVJqV2czdTl3YlBpRWFIdWdOSXFyNUIzeFdvTEUyYU5ySVJXdjFPLXc?oc=5"
+   "imageUrl": "https://cdn.sortiraparis.com/images/80/114524/1303109-eskal-decoration.jpg",
+   "published": "2026-11-18T19:57:10+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTXpZOXlORno3d1BlUXk5dnNBcldFSGcwNm9CdUdKanFaUDVZWFFnbm9scFlfLWhTQURjSjFUeEtjSXg2VWR4LUNmUzBWQW5FUXUtbXhJcnJoRVVUdU11T0lvZUdHd2Y5cmxhLXFra25aWWhkNHVqTEpPZ244WnA2TEc3dmtTVFJrbV9qQmNGNUR2RU1sd0NVdFlxTWVsazA2UGRKOUdRdEJqN3R1dnpiQlpNMW9oM0V5Uy15QnZhYkpqVXhLZHJQVWJ4THg2SE9n?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-life",
@@ -1550,7 +1748,8 @@
    "content": "",
    "imageUrl": "https://static.amarintv.com/media/PJVlR0ljpO8G20JMJ7YXjJeGBnBtS56NepodZaAEYfiUoNcRJHr1BHGIG7AhBkwkhP.jpg",
    "published": "2026-11-20T06:39:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TY0haR0FMcDdEeXlRUlptSHo3Ym1vVUdzNTRsOTVyWFVjRG96VjNnYm5sLXNpckJYZ0N0dVpIMzE0YUxQTHE1bGdqd1ppR2tURjNsRHhn?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TY0haR0FMcDdEeXlRUlptSHo3Ym1vVUdzNTRsOTVyWFVjRG96VjNnYm5sLXNpckJYZ0N0dVpIMzE0YUxQTHE1bGdqd1ppR2tURjNsRHhn?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-life",
@@ -1563,20 +1762,8 @@
    "content": "",
    "imageUrl": "https://pub-d2271b7e7a9d49f3975373b5a8623442.r2.dev/s-74211410.jpg",
    "published": "2026-11-19T11:54:58+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ibE1aZ1c0dTRVLU8tTHJPZFZ6TEpiRlNUNTg2dnlvSzZQb2E4TmtfVjR0TjZTcDlvREJpaGxPa1N2S1lWdWRmdy1RWEdkX004VjNv?oc=5"
-  },
-  {
-   "feedId": "g-life",
-   "category": "ไลฟ์สไตล์",
-   "source": "Google News",
-   "publisher": "thepeople",
-   "title": "“แมนซั่ม” รุกตลาดเครื่องดื่มโปรตีนใส เปิดตัว “แมนซั่ม โปร” ชูคอนเซ็ปต์ “แมนซั่มโปร ให้มากกว่าโปรตีน” ผสานโปรตีนและคอลลาเจนในขวดเดียว ตอบโจทย์ไลฟ์สไตล์คนรุ่นใหม่",
-   "link": "https://www.thepeople.co/event/information/57781",
-   "summary": "ที่มา: thepeople",
-   "content": "",
-   "imageUrl": "https://image.thepeople.co/uploads/images/md/2026/11/hBqGwFBk0z59HXl0bkO4.webp",
-   "published": "2026-11-19T09:30:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BWDhZcXNKTFotVG9ES2FySHNXNnRObHZvX1JYeXUyaldfQWZZNGNyZ05pT0dkTTZQdTl1ZjlfN1RQZGxsVHpWM29yVTc5YWFDMVE5YjlEWjVNVmFN?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ibE1aZ1c0dTRVLU8tTHJPZFZ6TEpiRlNUNTg2dnlvSzZQb2E4TmtfVjR0TjZTcDlvREJpaGxPa1N2S1lWdWRmdy1RWEdkX004VjNv?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-life",
@@ -1589,7 +1776,22 @@
    "content": "",
    "imageUrl": "https://siamrath.co.th/assets/d093ddbc-58af-44fb-8da0-97788f98af3f?width=680&quality=80&format=webp",
    "published": "2026-11-20T02:26:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMb25wMDZHNXpibDFFdWxTR0t3WVdyTGJZdmtBdjNUNktzZG9jVTdSRnRaWnM2TG9jeXcyYWVtQkJUS2Jram5zb2FGYlJfaFE4?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMb25wMDZHNXpibDFFdWxTR0t3WVdyTGJZdmtBdjNUNktzZG9jVTdSRnRaWnM2TG9jeXcyYWVtQkJUS2Jram5zb2FGYlJfaFE4?oc=5",
+   "hint": ""
+  },
+  {
+   "feedId": "g-life",
+   "category": "ไลฟ์สไตล์",
+   "source": "Google News",
+   "publisher": "thepeople",
+   "title": "“แมนซั่ม” รุกตลาดเครื่องดื่มโปรตีนใส เปิดตัว “แมนซั่ม โปร” ชูคอนเซ็ปต์ “แมนซั่มโปร ให้มากกว่าโปรตีน” ผสานโปรตีนและคอลลาเจนในขวดเดียว ตอบโจทย์ไลฟ์สไตล์คนรุ่นใหม่",
+   "link": "https://www.thepeople.co/event/information/57781",
+   "summary": "ที่มา: thepeople",
+   "content": "",
+   "imageUrl": "https://image.thepeople.co/uploads/images/md/2026/11/hBqGwFBk0z59HXl0bkO4.webp",
+   "published": "2026-11-19T09:30:00+00:00",
+   "glink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BWDhZcXNKTFotVG9ES2FySHNXNnRObHZvX1JYeXUyaldfQWZZNGNyZ05pT0dkTTZQdTl1ZjlfN1RQZGxsVHpWM29yVTc5YWFDMVE5YjlEWjVNVmFN?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-life",
@@ -1602,7 +1804,8 @@
    "content": "",
    "imageUrl": "https://i0.wp.com/marketeeronline.co/wp-content/uploads/2026/11/Picture-SiamPiwat-1.jpg?fit=1080%2C1350&ssl=1",
    "published": "2026-11-19T03:49:51+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CdGlKNlV5dEVXS2JZVmstRTIzcnV1TU5PbkRuQjNPeGtFazFNdi15NGRBR1RhLXhIcHpwWVZnVWtHNXB1VHhWSEZVa1lzWWw5dmREbA?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CdGlKNlV5dEVXS2JZVmstRTIzcnV1TU5PbkRuQjNPeGtFazFNdi15NGRBR1RhLXhIcHpwWVZnVWtHNXB1VHhWSEZVa1lzWWw5dmREbA?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-life",
@@ -1615,7 +1818,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-18T10:36:48+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kOGVSZkx1LVNRQ1owTWFRWXhLX0NSNGFXMURteGNaTWlHOTlVRm9VRHZmU2pBU21tYjN2TnI4U1I0NVQ4YzNHVjQ1QV9LNDlCcHNsYU41OE5BY1pRRDdjaDFkckhlcEFkbkRlUllrVkhWUQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kOGVSZkx1LVNRQ1owTWFRWXhLX0NSNGFXMURteGNaTWlHOTlVRm9VRHZmU2pBU21tYjN2TnI4U1I0NVQ4YzNHVjQ1QV9LNDlCcHNsYU41OE5BY1pRRDdjaDFkckhlcEFkbkRlUllrVkhWUQ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-life",
@@ -1628,7 +1832,8 @@
    "content": "",
    "imageUrl": "https://static.amarintv.com/media/PJVlR0ljpO8G20JMv7CvZCT3FLn2SELSe2m7ziaeJ69pSNT0QfL3dojytSLQDQ8LZD.jpg",
    "published": "2026-11-20T06:48:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuN1hJRV9MbkdGU1pWVGVEeHRwSUNGNWhYMTlFbFFXX21MWjdRbWJDTnZtSXJvSU5NbXRtcE1OTjg4WF9TUGVQRkRSdUs3cVpDYkJ1TlJn?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuN1hJRV9MbkdGU1pWVGVEeHRwSUNGNWhYMTlFbFFXX21MWjdRbWJDTnZtSXJvSU5NbXRtcE1OTjg4WF9TUGVQRkRSdUs3cVpDYkJ1TlJn?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-life",
@@ -1641,7 +1846,8 @@
    "content": "",
    "imageUrl": "https://static.amarintv.com/media/PJVlR0ljpO8G20GqTmEwi9IRmdFWpreBBQS7bqPNdaF8R3RvVxsmC1qEjfOAtQOmtP.jpg",
    "published": "2026-11-20T04:34:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12UGVXU2p4TDZDb2wtRXVyTnhpMm1wM3FiT0lNMm9WZFcxa05WQzh2Vk84dHFDaDlGVnBYOVc2WEhMVkxoRE5zU1RROEZaSHA4c21LdEh3?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12UGVXU2p4TDZDb2wtRXVyTnhpMm1wM3FiT0lNMm9WZFcxa05WQzh2Vk84dHFDaDlGVnBYOVc2WEhMVkxoRE5zU1RROEZaSHA4c21LdEh3?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-lotto",
@@ -1654,7 +1860,8 @@
    "content": "",
    "imageUrl": "https://media-pw.readthecloud.co/2026/11/หวยลาววันนี้-20-พฤศจิกายน-2569.123456.webp",
    "published": "2026-11-20T05:42:24+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMixgJBVV95cUxObndpQkplZWxDMWhyYnd5MGVpZV9tNzNXNWd4WEV2dDhLdTlySGIxMkM1ck12d3BCRDIxUk5jZjZkTV9SOWVlWXB2bW00TE1MZ0tDR2tGUl8wX24wZi1FRDdZdHZER0RqYWFyNkx0Vk9xRjZRV2phNnJRczdTWFdtYnQ1V2VwSXRmTVdmM1pwVFJ4cGRZTTFvRkZYS3A1UlhTcWZrNk5RUUFoWFE2d0QySE8wTkUwNUxZSmxUMFZmYlpUZnpOcGVISmRQQUdFX1RjZHNEc0NQNUVtNmdpM3ZnaE1OVEY4MkhfN05oTVViUVRSelI3NDZRMk05Zk9xeFZhMmNVQzIwR0xtM2JUVnhhQTZMbFdmSEt3cFppaWFVMENrUTU0Qm1Ya0pNQnhOQTlTT1RzTzRqcTF6VTRnNmJqQ2pqNHJ5dw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMixgJBVV95cUxObndpQkplZWxDMWhyYnd5MGVpZV9tNzNXNWd4WEV2dDhLdTlySGIxMkM1ck12d3BCRDIxUk5jZjZkTV9SOWVlWXB2bW00TE1MZ0tDR2tGUl8wX24wZi1FRDdZdHZER0RqYWFyNkx0Vk9xRjZRV2phNnJRczdTWFdtYnQ1V2VwSXRmTVdmM1pwVFJ4cGRZTTFvRkZYS3A1UlhTcWZrNk5RUUFoWFE2d0QySE8wTkUwNUxZSmxUMFZmYlpUZnpOcGVISmRQQUdFX1RjZHNEc0NQNUVtNmdpM3ZnaE1OVEY4MkhfN05oTVViUVRSelI3NDZRMk05Zk9xeFZhMmNVQzIwR0xtM2JUVnhhQTZMbFdmSEt3cFppaWFVMENrUTU0Qm1Ya0pNQnhOQTlTT1RzTzRqcTF6VTRnNmJqQ2pqNHJ5dw?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-lotto",
@@ -1667,7 +1874,8 @@
    "content": "",
    "imageUrl": "https://s.isanook.com/ns/0/ud/1982/9912367/762910.jpg?ip/crop/w1200h700/q80/jpg",
    "published": "2026-11-19T13:14:36+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TT1pMZnJ4cjFPbUJJRHlqdWp6VUVGbi1MeHdFTS1FeW1Lck5NUmE2OVVKYWxTOWV4UkxaemlqV1FnaFh1Umo4b3dDdjA?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TT1pMZnJ4cjFPbUJJRHlqdWp6VUVGbi1MeHdFTS1FeW1Lck5NUmE2OVVKYWxTOWV4UkxaemlqV1FnaFh1Umo4b3dDdjA?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-lotto",
@@ -1680,7 +1888,8 @@
    "content": "",
    "imageUrl": "https://img.pptvhd36.com/thumbor/2026/11/19/news-b2ee9bc.jpg",
    "published": "2026-11-19T12:15:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0huRURwVWNzVFRqeWdmQ0ZnMVZRZFVrbUdhS3FLQ0FFVUYxaUlmYzJoWkk4ZFhrWXZTSTZXRDA5N2lOUkI4WXpEYVFLMzBVVENtMW9UTks3bThWU3R5NHh0azA1XzlhNWdJMkprdUJNTXdmWG1vNkRBdEFaVE1iTVNaeDVYQ2d6U2hxdXZYeFVnYTN1RzFMU0c4VVBGd083TG04Um1PekZzU0s3aVhmeTNKYXV2T0gwZHc?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0huRURwVWNzVFRqeWdmQ0ZnMVZRZFVrbUdhS3FLQ0FFVUYxaUlmYzJoWkk4ZFhrWXZTSTZXRDA5N2lOUkI4WXpEYVFLMzBVVENtMW9UTks3bThWU3R5NHh0azA1XzlhNWdJMkprdUJNTXdmWG1vNkRBdEFaVE1iTVNaeDVYQ2d6U2hxdXZYeFVnYTN1RzFMU0c4VVBGd083TG04Um1PekZzU0s3aVhmeTNKYXV2T0gwZHc?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-lotto",
@@ -1693,7 +1902,8 @@
    "content": "",
    "imageUrl": "https://media-pw.readthecloud.co/2026/11/023_11zon-2.webp",
    "published": "2026-11-20T05:45:50+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTB2eS05ZnBBbXVRdFV6S2RkaFlvZzdtVElwT0VZaXQ3cjlsNFcwbXRLQXlTX1piUHA2Q2RJR2pWT2JsMHJRRjVpYmRBekdsZHNfVlJQOWhEM3JqQl81WV9NRWVQeGFiaGd1LUxCTG0yTjJsOGR2T204YXFFcFh3RkhSckZTalVhYXIwVmhWcW1pc3Z3Mzhad3lMM0RyZWVmWFlRaFl6T2ZFZw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTB2eS05ZnBBbXVRdFV6S2RkaFlvZzdtVElwT0VZaXQ3cjlsNFcwbXRLQXlTX1piUHA2Q2RJR2pWT2JsMHJRRjVpYmRBekdsZHNfVlJQOWhEM3JqQl81WV9NRWVQeGFiaGd1LUxCTG0yTjJsOGR2T204YXFFcFh3RkhSckZTalVhYXIwVmhWcW1pc3Z3Mzhad3lMM0RyZWVmWFlRaFl6T2ZFZw?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-lotto",
@@ -1706,7 +1916,8 @@
    "content": "",
    "imageUrl": "https://www.khaosod.co.th/wpapp/uploads/2026/11/laolotto-6.jpg",
    "published": "2026-11-18T10:17:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TMjlxN2NrVGU4UEw2Tmx0X1NtMHVRa2dpNnYwVW54R0tIR2FDaWNFUzFkeEVmaGtqbnU0VWFNS2pyZ2dpYUpkM2ZTekNsdncwNzFJMi02MFlkYXVvcThF?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TMjlxN2NrVGU4UEw2Tmx0X1NtMHVRa2dpNnYwVW54R0tIR2FDaWNFUzFkeEVmaGtqbnU0VWFNS2pyZ2dpYUpkM2ZTekNsdncwNzFJMi02MFlkYXVvcThF?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-lotto",
@@ -1719,7 +1930,8 @@
    "content": "",
    "imageUrl": "https://image.bangkokbiznews.com/uploads/images/md/2026/11/mVtysezwuQQ9O20IQA16.webp",
    "published": "2026-11-19T08:31:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTajdrSm9fZW1WY0MzaFdjWGZZb0Z6aVotbHpXVGw1dGFtS09DeXF3ZjJ6T2JSSkh5NEpaTXpDdkZhRkp4Rk5KbEQxcl96dFRXbktmdmxJcnB0ZW1JQndZa2pVU3pqQQ?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTajdrSm9fZW1WY0MzaFdjWGZZb0Z6aVotbHpXVGw1dGFtS09DeXF3ZjJ6T2JSSkh5NEpaTXpDdkZhRkp4Rk5KbEQxcl96dFRXbktmdmxJcnB0ZW1JQndZa2pVU3pqQQ?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-lotto",
@@ -1732,7 +1944,8 @@
    "content": "",
    "imageUrl": "",
    "published": "2026-11-20T01:02:07+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sSXdqeTdGV2VXRGZfSC1WU1FFcjFfUXVrUE5LcGY2MGtLWjJNZEdSZzZXU21ONTl1aWhxX2JubzFaUllzWkI3aHdB?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sSXdqeTdGV2VXRGZfSC1WU1FFcjFfUXVrUE5LcGY2MGtLWjJNZEdSZzZXU21ONTl1aWhxX2JubzFaUllzWkI3aHdB?oc=5",
+   "hint": ""
   },
   {
    "feedId": "g-lotto",
@@ -1745,7 +1958,8 @@
    "content": "",
    "imageUrl": "https://medias.thansettakij.com/uploads/images/md/2026/11/X7XbxzvCDKmOZSRPnuKq.webp",
    "published": "2026-11-19T05:21:00+00:00",
-   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Jak45NmlHMWRsN0pOekUzWHk5WVpaZ254UWtadlAyLW5KSld5VVlJWlphRzhVdTJJMWNCNEhTSlJVQ3NSQnRpSlgtcWItREllbWUtbFJieFlPdw?oc=5"
+   "glink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Jak45NmlHMWRsN0pOekUzWHk5WVpaZ254UWtadlAyLW5KSld5VVlJWlphRzhVdTJJMWNCNEhTSlJVQ3NSQnRpSlgtcWItREllbWUtbFJieFlPdw?oc=5",
+   "hint": ""
   },
   {
    "feedId": "bbc-thai",
@@ -1934,6 +2148,58 @@
    "category": "ข่าว",
    "source": "มติชน",
    "publisher": "",
+   "title": "รั้วชายแดน จันทบุรี-ตราด คืบแล้ว 97.93% ทอ.เตรียมจับมือ Saab ต่อยอดเทคโนโลยีโดรน",
+   "link": "https://www.matichon.co.th/politics/news_5983587",
+   "summary": "“เหล่าทัพ” แถลงคืบหน้าแผนเตรียมพร้อมชายแดนไ […]",
+   "content": "“เหล่าทัพ” แถลงคืบหน้าแผนเตรียมพร้อมชายแดนไทย – กัมพูชา ระบุ รั้วจันทบุรีชายแดน“จันทบุรี- ตราด“คืบหน้ากว่า 97.73% ทอ. จับมือ Saab ต่อยอดเทคโนโลยีโดรน โชว์ในงานซ้อมรบทางอากาศครั้งใหญ่สัปดาห์หน้า เมื่อเวลา 12.00 น. วันที่ 20 พฤศจิกายน ศูนย์ข่าวสารสถานการณ์ ไทย-กัมพูชา จัดงานแถลงข่าวของทุกเหล่าทัพ ถึงความคืบหน้าการป้องกันประเทศ และการวางแผนงานในระบบป้องกันประเทศในอนาคต โดยนาวาเอก ธนเดช จิตร์ประวัติ รองโฆษกกองบัญชาการกองทัพไทย แถลงถึงความคืบหน้าด้านความมั่นคงตามแนวชายแดนไทย-กัมพูชา และการเสริมสร้างความปลอดภัยรวมถึงคุณภาพชีวิตของประชาชนในพื้นที่ โดยระบุว่า โครงการก่อสร้างรั้วความมั่นคงตามแนวชายแดนไทย-กัมพูชา มีการสำรวจปักหมุดเขตแดนตั้งแต่ปลายปี 2568 และเริ่มดำเนินการในระยะที่ 1 เมื่อเดือนเมษายน 2569 และระยะที่ 2 เมื่อเดือนสิงหาคมที่ผ่านมา ปัจจุบันหน่วยบัญชาการทหารพัฒนา ร่วมกับกองบัญชาการป้องกันชายแดนจันทบุรีและตราด ได้เร่งดำเนินการจนมีความคืบหน้าไปแล้ว 97.73% เหลือเพียงรายละเอียดเล็กน้อยเท่านั้น โดยหน่วยภายใต้การกำกับดูแลของกองบัญชาการกองทัพไทย มีความตั้งใจที่จะดำเนินการให้แล้วเสร็จสมบูรณ์ภายในสิ้นเดือนพฤศจิกายนนี้ ส่วนการปรับปรุงถนนตรวจการณ์ ขนาดความกว้าง 5 เมตร และความยาว 9,610 เมตร ตั้งแต่ฐานปฏิบัติการที่ 6 จนถึงหลักเขตแดนที่ 59 ปัจจุบันมีความก้าวหน้าแล้ว 40% และอยู่ระหว่างดำเนินการให้แล้วเสร็จ นอกจากนี้ ผู้บัญชาการทหารสูงสุดมีกำหนดการลงพื้นที่ตรวจความเรียบร้อยของรั้วความมั่นคงตามแนวชายแดนไทย-กัมพูชา ในช่วงต้นเดือนธันวาคมที่จะถึงนี้ ณ อำเภอโป่งน้ำร้อน จังหวัดจันทบุรี เพื่อให้ประชาชนอุ่นใจและมั่นใจว่าทุกภารกิจของกองบัญชาการกองทัพไทยได้ดำเนินการเป็นไปตามเจตนารมณ์ของผู้บังคับบัญชา เพื่อราชอาณาจักรไทย โดยทหารทุกนาย ทุกชั้นยศ ทุกประเภท และทุกวัย ล้วนเป็นกำลังสำคัญในการมุ่งสู่การเป็น “กองทัพปฏิบัติการร่วมที่ทันสมัย พิชิตทุกภารกิจและทุกความท้าทาย” ภายใต้แนวคิด One Team ทัพไทย ด้าน พ.อ.ริชฌา สุขสุวานนท์ รองโฆษกกองทัพบก ชี้แจงถึงการเตรียมความพร้อมป้องกันชายแดนว่า ตลอดระยะเวลา 1 เดือนที่ผ่านมา ผู้บัญชาการทหารบกและผู้บังคับบัญชาทุกระดับของกองทัพบก ได้ติดตามสถานการณ์ด้วยการลงพื้นที่ตามแนวชายแดนอย่างต่อเนื่อง โดยผู้บัญชาการทหารบกได้เน้นย้ำแนวทางปฏิบัติ 3 ประการ ประกอบด้วย 1. ทุกการปฏิบัติภารกิจต้องยึดตามหลักกฎหมายสากลและข้อตกลงหยุดยิงอย่างเคร่งครัด 2. เน้นย้ำการตรวจตราชายแดนด้วยการลาดตระเวนตามฐานปฏิบัติการต่างๆ และแนววางกำลัง 3. หากพบสถานการณ์หรือสิ่งผิดปกติตามแนวชายแดน ให้ปฏิบัติตามกฎการใช้กำลังอย่างเคร่งครัด รวมถึงใช้แผนเผชิญเหตุของกองทัพบกได้ทันทีเพื่อคลี่คลายสถานการณ์ สำหรับสิ่งที่กองทัพบกให้ความสำคัญไม่น้อยไปกว่ากำลังพลที่ปฏิบัติหน้าที่ตลอดแนวชายแดน คือ กำลังพลวีรชนผู้เสียสละ ซึ่งปัจจุบันใกล้ครบรอบ 1 ปีของเหตุการณ์ ทางกองทัพบกยังคงระลึกถึงบุคคลเหล่านั้นตลอดเวลา และในวันที่ 24 พฤศจิกายนนี้ กองทัพบกจะจัดกิจกรรมรำลึกถึงกำลังพลผู้เสียสละ ณ กองบัญชาการกองทัพบก โดยมีผู้บัญชาการทหารบกเป็นประธาน ภายในงานจะมีพิธีทำบุญอุทิศส่วนกุศล รวมถึงพิธีเชิดชูเกียรติกำลังพลที่เสียสละชีวิต ตลอดจนกำลังพลที่เสียสละชีวิตในพื้นที่ 3 จังหวัดชายแดนภาคใต้และพื้นที่อื่นๆ ทั้งนี้ กองทัพบกขอน้อมสดุดีวีรชนผู้กล้าเหล่านั้น และขอเชิญชวนให้กำลังพลร่วมระลึกถึงคุณงามความดีของท่านเหล่านั้นตลอดไป ขณะที่ นาวาเอก นรา คุณโฑถม รองโฆษกกองทัพเรือ ชี้แจงว่า กองทัพเรือยังคงดำรงการปฏิบัติการรักษาอธิปไตยแล",
+   "imageUrl": "https://www.matichon.co.th/wp-content/uploads/2026/11/420421.jpg",
+   "published": "2026-11-20T07:17:48+00:00",
+   "glink": ""
+  },
+  {
+   "feedId": "matichon",
+   "category": "ข่าว",
+   "source": "มติชน",
+   "publisher": "",
+   "title": "‘บิ๊กเอก’ เมิน บ.ฮันวา ร้องผู้ตรวจฯปม ‘เรือฟริเกต’ ยันเร่งจัดทำTORใหม่ ไม่หวั่นถูกฟ้องร้อง",
+   "link": "https://www.matichon.co.th/politics/news_5983588",
+   "summary": "‘บิ๊กเอก’ เมิน ‘บ.Hanwha Ocean’ […]",
+   "content": "‘บิ๊กเอก’ เมิน ‘บ.Hanwha Ocean’ ร้องผู้ตรวจฯปม ‘ฟริเกต’ ยันเร่งจัดทำ TOR ใหม่ ไม่หวั่นถูกฟ้องร้อง ยันไร้นายหน้าค้าอาวุธติดต่อ เผยสัมพันธ์ ‘อดีต ผบ.ทร.’ ยังปึ้ก เมื่อวันที่ 20 พฤศจิกายน ที่กองบัญชาการกองทัพเรือ(บก.ทร.) พระราชวังเดิม ถนนอรุณอมรินทร์ เขตบางกอกใหญ่ กรุงเทพมหานคร พล.ร.อ.นเรศ วงศ์ตระกูล ผู้บัญชาการทหารเรือ (ผบ.ทร.) ให้สัมภาษณ์หลังเป็นประธานวันกองทัพเรือ ครบ 120 ปีว่า การจัดหายุทโธปกรณ์ในปัจจุบัน เป็นแผนที่กำหนดไว้ตามระยะเวลา เนื่องจากได้พิจารณาแล้วว่ายุทโธปกรณ์ที่มีนั้นต้องการจำนวนเท่าไหร่ในแต่ละประเภท และจัดหาในห้วงเวลาใดเพื่อให้เพียงพอกับความต้องการ อะไรที่ยังต้องใช้สิ่งไหน ที่หมดอายุการใช้งานและต้องจัดหาเพิ่มเติม เพื่อให้เกิดความประสานสอดคล้อง การดําเนินการใดๆก็ตาม ที่ทําให้เกิดการหยุดชะงักก็ส่งผลกระทบต่อแผนที่กําหนดเอาไว้ สิ่งที่เกิดขึ้นไม่ว่าจะเรื่องอะไรก็ตาม ย่อมส่งผลกระทบต่อสิ้น แต่หน้าที่ของตนและผู้เกี่ยวข้องทุกท่านจําเป็นที่จะต้องปรับปรุงปรับแผนให้เกิดผลกระทบน้อยที่สุด ไม่เฉพาะโครงการจัดหาเรือฟิเกต รวมถึงในทุก ๆ ส่วน เพื่อเสริมสร้างกำลังกองทัพในส่วนต่างๆ เพราะมีแผนกำหนดไว้ทุกปีอยู่แล้ว ว่าแต่ละปีจะซื้ออะไร จะสร้างอะไร เมื่อไหร่ก็ตามที่มันหยุดหรือชะลอเวลา ย่อมส่งผลกระทบ พล.ร.อ.นเรศ กล่าวถึงการแก้ไขปัญหาโครงการจัดซื้อจัดจ้างเรือฟรีเกตภายหลังคณะกรรมการพิจารณาอุทธรณ์และข้อร้องเรียน กรมบัญชีกลาง กระทรวงการคลัง มีคำวินิจฉัยตามนัยมาตรา 119 วรรคสอง แห่งพระราชบัญญัติการจัดซื้อจัดจ้างและการบริหารพัสดุภาครัฐ พ.ศ. 2560 ให้ยกเลิกการจัดซื้อจัดจ้างและดำเนินการใหม่ตามระเบียบที่เกี่ยวข้อง ว่า จะดําเนินการตามกฎหมายที่กําหนด ในการจัดซื้อจัดจ้างให้เรียบร้อย เรื่องเหล่านี้เป็นเรื่องที่หลีกเลี่ยงไม่ได้เมื่อเกิดขึ้นแล้วก็ต้องแก้ไขปัญหาที่ดีที่สุด สําหรับกรณีที่บริษัทเอกชนไปร้องผู้ตรวจการแผ่นดินให้ตรวจสอบนั้น ถือเป็นเรื่องสิทธิของผู้ที่ร้องทุกข์ในส่วนของกองทัพเรือก็ดําเนินการไปตามปกติ ซึ่งเข้าใจว่าทุกฝ่ายดำเนินการตามสิทธิของตัวเองที่มีอยู่ ซึ่งแต่ละฝ่ายรวมถึงกองทัพเรือก็มีจุดสมดุลอยู่ ต้องทําไปตามหน้าที่ตัวเอง โดยให้เรือฟริเกต ที่เราตั้งใจไว้เข้าไปประจําการ ตามแผนที่วางไว้ ซึ่งในทุก ๆ ปีกองทัพเรือมีแผนในการปลดประจําการเรืออยู่แล้ว ฉะนั้นในเรื่องการปรับปรุงแผน หากสิ่งที่เราต้องจัดหามาใหม่ยังไม่ได้ ก็ต้องปรับแต่งกําหนดการ ไม่ว่าจะเป็นการปลดประจําการ การซ่อมบํารุง ที่ยังไม่สมบูรณ์ ให้สมบูรณ์ขึ้น ซึ่งต้องทําควบคู่กันไป เมื่อถามว่าต้องใช้เวลากี่เดือนในการจัดทําข้อกำหนดของงาน (TOR) และจัดซื้อจัดจ้างเรือฟริเกตใหม่ พล.ร.อ.นเรศ กล่าวว่า จะทําให้เร็วที่สุด เนื่องจากมีปัจจัยเรื่องงบประมาณ ที่ถูกกําหนดไว้ หากดําเนินการช้า งบประมาณก็ต้องถูกคืน จะเสียเวลาหนักไปอีก ซึ่งตนและผู้เกี่ยวข้องที่ทุกคนตระหนักดี และจะแก้ไขปัญหาให้ดีที่สุด “วันนี้เราเริ่มต้นนับหนึ่งแล้ว พร้อมตั้งคณะกรรมการในส่วนที่เกี่ยวข้อง โดยมี พล.ร.ท.เทพฤทธิ์ ลาภเหลือ เสนาธิการทหารเรือ (เสธ.ทร.) เป็นประธานกรรมการบริหารโครงการ โดยผมเริ่มดําเนินการตั้งแต่เห็นหนังสือที่เป็นลายลักษณ์อักษร ตั้งแต่นาทีแรก โดยการเชิญผู้เกี่ยวข้องมาประชุมเพื่อแก้ไขปัญหาโดยเร็วที่สุด ขณะนี้กําลังตรวจสอบในเนื้อหาเอกสาร ว่ามีส่วนใดต้องแก้ไขแต่ยืนยันว่า ทุกอย่างจะต้องเป็นไปตามกฎหมาย ผลประโยชน์สูงสุดให้เกิดต่อประเทศชาติ และกองทัพเรือต้องสามารถวัตถุประสงค์ภารกิจที่กําหนดไว้ คือสิ่งสําคัญที่ได้ให้แนวทาง” พล.ร.อ.นเรศ กล่าว เมื่อถามว่าก",
+   "imageUrl": "https://www.matichon.co.th/wp-content/uploads/2026/11/3K3A66231.jpg",
+   "published": "2026-11-20T07:16:45+00:00",
+   "glink": ""
+  },
+  {
+   "feedId": "matichon",
+   "category": "ข่าว",
+   "source": "มติชน",
+   "publisher": "",
+   "title": "รัฐบาลยัน ข้าวเชียงราย สารพิษไม่เกินค่ามาตรฐาน ชี้หากเกินเกณฑ์ จ่อคุยธ.ก.ส. ซื้อไปทำลายทิ้ง",
+   "link": "https://www.matichon.co.th/politics/news_5983576",
+   "summary": "รบ.ยันข้าวเชียงรายไม่พบสารพิษเกินค่ามาตรฐาน ย้ำหากค่าเก […]",
+   "content": "รบ.ยันข้าวเชียงรายไม่พบสารพิษเกินค่ามาตรฐาน ย้ำหากค่าเกินพร้อมคุย ธ.ก.ส.รับซื้อทำลายทันที เล็งติดตามคุณภาพสินค้าเกษตร-ตรวจคุณภาพน้ำทุกชั่วโมง​ ส่วนฝายดักตะกอนต้องคำนึงถึงผลกระทบประชาชน รอนายกฯเคาะ 21 พ.ย. เมื่อเวลา 12.30 น. วันที่ 20 พฤศจิกายน ที่กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) นายเจเศรษฐ์ ไทยเศรษฐ์ รัฐมนตรีช่วยว่าการกระทรวงมหาดไทย พร้อมด้วย น.ส.ปิยะรัฐชย์ ติยะไพรัช รัฐมนตรีช่วยว่าการกระทรวงเกษตรและสหกรณ์ แถลงผลการประชุมคณะกรรมการป้องกันและแก้ไขปัญหาภัยพิบัติในพื้นที่ภาคเหนือ ซึ่งใช้เวลาการประชุมเกือบ 2 ชั่วโมงครึ่ง นายเจเศรษฐ์กล่าวถึงข้อสั่งการในที่ประชุมถึงการตรวจหาค่าสารโลหะในน้ำว่า แต่ละหน่วยงานจะรับผิดชอบในพื้นที่ของตัวเอง เช่น กรมควบคุมมลพิษให้ดูเส้นน้ำหลัก ส่งตรวจและกระจายครอบคลุมในทุกพื้นที่ โดยการประปาจะมีการตรวจแหล่งน้ำดิบ และน้ำประปาหมู่บ้านทั้งผิวดินและใต้ดิน หรือประปาภูเขาจะให้ทางจังหวัดรวบทางน้ำก่อนสูบและน้ำหลัง กรอง ส่งให้การประปานครหลวงเป็นผู้ตรวจ เนื่องจากห้องแล็บจากการประปานครหลวงมีมาตรฐานระดับโลก มีข้อมูลที่น่าเชื่อถือและแม่นยำสูง และจะดำเนินการในพื้นที่ที่มีปัญหา ขณะที่กระทรวงสาธารณสุข จะตรวจการป้องกันก่อนที่ประชาชนจะอุปโภคบริโภคในทุกมิติ นายเจเศรษฐ์กล่าวว่า ส่วนกระทรวงเกษตรฯจะตรวจดิน พืชผลทางการเกษตรให้ครอบคลุมในทุกพื้นที่ ข้อมูลทั้งหมดจะมีการบูรณาการส่งมายังอธิบดี ปภ. ซึ่งเป็นฝ่ายเลขาฯ สิ่งที่กำชับมากที่สุดโดยในวันที่ 21 พ.ย. นายกรัฐมนตรีจะเรียกประชุมทุกหน่วยงานในเวลา 11.00 น. ฉะนั้น ทุกหน่วยงานจะต้องกลับไปรวบรวมข้อมูลทั้งหมด และแนวทางในการป้องกันและแนวทางในการแก้ไข ขณะที่น้ำอุปโภคบริโภค การประปาส่วนภูมิภาคจะมีการตรวจทุกชั่วโมง โดยดูจากค่าความขุ่น 24 ชั่วโมง​ ซึ่งจะเป็นตัวแปรตัวหนึ่งว่าเมื่อใดที่น้ำขุ่นสารหนูก็จะเพิ่มขึ้น ส่วนประปาหมู่บ้าน​หรือประปา​ผิวดิน​ ใต้ดิน​ ประปาภูเขา​ ก็จะมีการสแกนทั้งจังหวัด​ ตรวจสรุปหาพื้นที่ใดเกินมาตรฐานหรือสุ่มเสี่ยงก็จะทำการงดใช้​ จนกว่าจะมีอุปกรณ์หรือวิธีการที่จะแก้ไข ซึ่งเมื่องดใช้แล้วก็จะมีแผนรับมือให้กับประชาชน​ ไม่ว่าจะเป็นการใช้น้ำสุกจากประปาส่วนภูมิภาคไปแจกจ่ายให้กับประชาชน หรือติดตั้งรถเคลื่อนที่กรองน้ำให้กับประชาชน​ ครอบคลุมทุกพื้นที่ นายเจเศรษฐ์​กล่าวต่อว่า ผลการตรวจที่ไม่ตรงกันของน้ำ​ สืบเนื่องจากห้วงเวลาในการตรวจที่ไม่ตรงกัน แต่ไม่ใช่ว่าจะอยู่ในปริมาณเช่นนั้นตลอดไป ก่อนยอมรับว่าในสายน้ำมีมลพิษจริง​ แต่ไม่ใช่ค่าจะอยู่เช่นนั้นตลอดไป เนื่องจากบางห้วงเวลาที่ไปตรวจสถานการณ์ปัจจุบันค่าสารหนูก็ลดลงอยู่ในเกณฑ์ที่สามารถผลิตได้ เพราะฉะนั้นค่าที่ตรวจออกมาจะไม่เท่ากันอยู่แล้ว ยืนยันว่าจะมีการบูรณาการเพื่อบอกผลค่าน้ำดิบ ค่าน้ำสุกที่ผลิตแล้ว​ พืชผลทางการเกษตร และรวบรวมข้อมูล เพื่อให้ประชาขนเข้าใจ ตนขอยืนยันในหลักการเมื่อใดที่ค่าน้ำดิบเกินมาตรฐานก็จะไม่มีการผลิตในทันที แน่นอนว่าประปาหมู่บ้าน​ เทศบาล​ หมู่บ้าน​ ก็จะต้องรับนโยบายนี้ไปเช่นเดียวกัน นายเจ​เศรษฐ์​กล่าวว่า ส่วนฝ่ายดักตะกอน​มีข้อเสนอของแต่ละกรมที่เกี่ยวข้อง ทั้งกระทรวง​ทรัพยากรธรรมชาติ​และ​สิ่ง​แวดล้อม​ กระทรวงเกษตร​และ​สหกรณ์​ ได้ทำการรวบรวมข้อมูลทั้งหมด​ ประเด็นสำคัญคือต้องให้ความสบายใจกับประชาชนในพื้นที่ด้วยในการทำฝายดักตะกอนในการกรองสารหนูมาจากแม่น้ำ เนื่องจากบางพื้นที่อยู่ใกล้ชุมชน และมีการวางพิกัดที่จะต้องทำในพื้นที่ต้นน้ำ​ ซึ่งทุกหน่วยงานจะต้องร่วมรวมข้อมูลและนำเสนอต่อนายกรัฐมนตรีเพื่อให้ที่ประชุม เห็นชอบหรือพิจารณาว่า​จะเดินทาง",
+   "imageUrl": "https://www.matichon.co.th/wp-content/uploads/2026/11/876037541.jpg",
+   "published": "2026-11-20T07:16:19+00:00",
+   "glink": ""
+  },
+  {
+   "feedId": "matichon",
+   "category": "ข่าว",
+   "source": "มติชน",
+   "publisher": "",
+   "title": "ข้าหลวงใหญ่สิทธิฯชี้ ศาลโลกฟันเมียนมา ฆ่าล้างเผ่าพันธุ์ จุดเปลี่ยนคืนความยุติธรรมโรฮีนจา จี้โลกทบทวนสัมพันธ์",
+   "link": "https://www.matichon.co.th/foreign/news_5983578",
+   "summary": "ข้าหลวงใหญ่สิทธิฯชี้ ศาลโลกฟันเมียนมา ฆ่าล้างเผ่าพันธุ์ […]",
+   "content": "ข้าหลวงใหญ่สิทธิฯชี้ ศาลโลกฟันเมียนมา ฆ่าล้างเผ่าพันธุ์ จุดเปลี่ยนคืนความยุติธรรมโรฮีนจา จี้โลกทบทวนสัมพันธ์ ภายหลังศาลยุติธรรมระหว่างประเทศ (ICJ) หรือ ศาลโลก ณ กรุงเฮก ประเทศเนเธอร์แลนด์ มีคำตัดสินครั้งประวัติศาสตร์เมื่อวันที่ 19 พฤศจิกายน โดยพิพากษาว่าเมียนมากระทำการฆ่าล้างเผ่าพันธุ์ต่อชนกลุ่มน้อยชาวโรฮีนจาในประเทศ พร้อมมีคำสั่งให้เปิดทางให้ผู้ลี้ภัยชาวโรฮีนจาที่หนีภัยความรุนแรงได้เดินทางกลับถิ่นฐานของตนอย่างปลอดภัยและจ่ายค่าชดเชยเยียวยาให้กับผู้ได้รับผลกระทบนั้น นายโวลเกอร์ เติร์ก ข้าหลวงใหญ่สิทธิมนุษยชนแห่งสหประชาชาติ (ยูเอ็นเอชอาร์ซี) ได้แถลงแสดงความยินดีต่อคำตัดสินดังกล่าวในวันเดียวกัน โดยระบุว่าคำตัดสินนี้สรุปได้อย่างชัดเจนว่าเมียนมาต้องรับผิดชอบต่ออาชญากรรมที่ร้ายแรงที่สุดครั้งหนึ่งในประวัติศาสตร์มนุษยชาติ ข้าหลวงใหญ่สิทธิมนุษยชนฯ ย้ำว่าคำตัดสินนี้จะต้องเป็นจุดเปลี่ยนเพื่อความยุติธรรมสำหรับชาวโรฮีนจาและประชาชนทุกคนในเมียนมา และเป็นจุดเริ่มต้นของกระบวนการที่มีความหมายเพื่อยุติการลอยนวลพ้นผิดสำหรับการละเมิดและการทารุณกรรมอย่างร้ายแรงที่เกิดขึ้นอย่างต่อเนื่องในรัฐยะไข่ พร้อมกันนี้ข้าหลวงใหญ่สิทธิมนุษยชนฯ ยังเรียกร้องให้เมียนมาปฏิบัติตามคำสั่งของศาลโลกในทันที และเรียกร้องให้ประเทศอื่นๆ ยุติการส่งยุทโธปกรณ์ทางทหารให้แก่เมียนมา “พวกเขาต้องยุติการขนส่งยุทโธปกรณ์ น้ำมันเชื้อเพลิงเครื่องบิน และอุปกรณ์ใช้ได้สองทางอื่นๆ ที่ยังคงถูกนำไปใช้ในการก่ออาชญากรรมอันน่าสยดสยองต่อประชาชนในเมียนมาโดยทันที” ข้าหลวงใหญ่สิทธิมนุษยชนฯกล่าว ทั้งยังเรียกร้องให้ประชาคมระหว่างประเทศสนับสนุนการชดเชยและโครงการด้านมนุษยธรรมที่เป็นประโยชน์ต่อผู้ลี้ภัยชาวโรฮีนจา และเตือนไม่ให้มีการส่งตัวพวกเขากลับประเทศก่อนกำหนด โดยเน้นย้ำถึงความจำเป็นในการสร้างเงื่อนไขที่เอื้ออำนวยให้ชาวโรฮีนจาที่พลัดถิ่นสามารถกลับถิ่นฐานของตนได้อย่างปลอดภัย นอกจากนี้ข้าหลวงใหญ่สิทธิมนุษยชนฯยังเรียกร้องให้ประเทศต่างๆ ทบทวนความสัมพันธ์กับทางการเมียนมาและเพิ่มความพยายามเพื่อให้มั่นใจว่าจะมีการนำตัวผู้กระทำผิดต่อชาวโรฮีนจามาลงโทษตามกระบวนการยุติธรรม",
+   "imageUrl": "https://www.matichon.co.th/wp-content/uploads/2026/11/A42GO73U3VKDVA7XCPQ3WRKFVY.jpg",
+   "published": "2026-11-20T07:16:10+00:00",
+   "glink": ""
+  },
+  {
+   "feedId": "matichon",
+   "category": "ข่าว",
+   "source": "มติชน",
+   "publisher": "",
    "title": "นฤพนธ์ เซ็นตั้ง 3 รองนายก อบจ.นนทบุรี เลขา-ที่ปรึกษา",
    "link": "https://www.matichon.co.th/region/news_5983570",
    "summary": "นฤพนธ์ เซ็นตั้ง 3 รองนายก อบจ.นนทบุรี เลขา-ที่ปรึกษา เม […]",
@@ -2060,55 +2326,42 @@
    "glink": ""
   },
   {
-   "feedId": "matichon",
+   "feedId": "khaosod",
    "category": "ข่าว",
-   "source": "มติชน",
+   "source": "ข่าวสด",
    "publisher": "",
-   "title": "เปิดเหตุผล ทักษิณ อุทธรณ์ ศาลยกคำร้องคุ้มครอง รีดภาษีชินคอร์ป ชี้ไม่มีที่ไหนในโลกทำ",
-   "link": "https://www.matichon.co.th/politics/news_5983474",
-   "summary": "เปิดเหตุผล ทักษิณ อุทธรณ์ ศาลยกคำร้องคุ้มครอง รีดภาษีชิ […]",
-   "content": "เปิดเหตุผล ทักษิณ อุทธรณ์ ศาลยกคำร้องคุ้มครอง รีดภาษีชินคอร์ป ชี้ไม่มีที่ไหนในโลกทำ เมื่อวันที่ 20 พฤศจิกายน นายวิญญัติ ชาติมนตรี ทนายความนายทักษิณ อดีตนายกรัฐมนตรี โพสต์ข้อความผ่านเฟซบุ๊ก ระบุว่า อดีตนายกฯทักษิณเป็นคนเดียวในประเทศไทยและสากลโลก ที่จะต้องเสียภาษีจากเงินได้ก้อนเดียวกัน ถึง 2 ครั้ง หรือ? จากกรณี เมื่อวันที่ 16 พ.ย.2569 ตามที่ศาลภาษีอากรกลาง คดีหมายเลขดำที่ ภ.59/2569 มีคำสั่งยกคำร้องของนายทักษิณ ชินวัตร โจทก์ โดยคำร้องขอคุ้มครองชั่วคราวขอให้ชะลอการขายทอดตลาดทรัพย์สินที่ยึดเพื่อนำเงินไปชำระภาษีจากการขายหุ้นบริษัทชินคอร์ปฯ ไว้จนกว่าศาลจะมีคำพิพากษา นั้น ด้วยความเคารพต่อคำวินิจฉัยของศาล จำเป็นต้องอุทธรณ์คำสั่งเนื่องจากเห็นว่าการปรับบทกฎหมายของศาลมีความคลาดเคลื่อน ดังนี้ 1.ที่ศาลวินิจฉัยว่านายทักษิณไม่มีอำนาจขอคุ้มครองชั่วคราว ตามประมวลกฎหมายวิธีพิจารณาความแพ่ง มาตรา 254 (2) เพราะนายทักษิณมิใช่โจทก์ผู้ฟ้องคดี แต่เป็นบุคคลที่กรมสรรพากรใช้อำนาจตามประมวลรัษฎากร มาตรา 12 สั่งยึด อายัด และขายทอดตลาดทรัพย์สินของโจทก์เพื่อชำระหนี้ภาษีตามคำพิพากษาศาลฎีกาแผนกคดีภาษีอากร คดีหมายเลขแดงที่ 6890/2568 จึงเป็นกระบวนการที่อยู่ในชั้นบังคับคดีตามประมวลกฎหมายวิธีพิจารณาความแพ่ง ภาค 4 ลักษณะ 2 ว่าด้วย การบังคับคดีตามคำพิพากษาหรือคำสั่ง ไม่อาจนำประมวลกฎหมายวิธีพิจารณาความแพ่ง ภาค 4 ลักษณะ 1 ว่าด้วย วิธีการคุ้มครองชั่วคราว มาใช้บังคับกับชั้นบังคับคดีได้ นั้น ก่อนที่จะไปชี้ขาดว่านายทักษิณเป็นโจทก์ผู้ฟ้องคดี และมีอำนาจขอคุ้มครองชั่วคราวตามประมวลตามกฎหมายวิธีพิจารณาความแพ่ง มาตรา 254 (2) หรือไม่ นั้น เบื้องต้นมีข้อพิจารณาว่า มีคำพิพากษาถึงที่สุดเกี่ยวกับภาษีการขายหุ้นบริษัทชินคอร์ปฯ อีก 2 เรื่อง ซึ่งเกี่ยวข้องเชื่อมโยงกับคดีนี้ หากแต่มีประเด็นข้อพิพาทแตกต่างกัน กล่าวคือ • คำพากษาศาลฎีกาแผนกคดีภาษีอากร ในคดีหมายเลขแดงที่ 6890/2568 วันที่ 14 สิงหาคม 2568 ซึ่งมีประเด็นข้อพิพาทว่า การประเมินภาษี 17,000 ล้านบาท จากการขายหุ้นบริษัทชินคอร์ปฯ ชอบด้วยกฎหมายหรือไม่ • คำพิพากษาศาลฎีกาแผนกคดีอาญาของผู้ดำรงตำแหน่งทางการเมือง คดีหมายเลขแดงที่ อม.1/2553 วันที่ 26 กุมภาพันธ์ 2553 ซึ่งมีประเด็นข้อพิพาทว่า นายทักษิณร่ำรวยผิดปกติหรือไม่ คำพิพากษาศาลฎีกาแผนกคดีภาษีอากร คดีหมายเลขแดงที่ 6890/2568 เป็นอันถึงที่สุด โดยศาลฎีกายกคำฟ้องของนายทักษิณที่ขอให้เพิกถอนการประเมินของกรมสรรพากรที่ให้นายทักษิณชำระภาษี 17,000 ล้านบาท โดยฟังว่าการประเมินภาษีเงินได้นายทักษิณ โดยที่กรมสรรพากรโดยมิได้ออกหมายเรียกนายทักษิณเพื่อตรวจสอบไต่สวนการชำระภาษีตามประมวลรัษฎากร แต่ไปออกหมายเรียกนายพานทองแท้และนางสาวพินทองทา ถือว่าการประเมินชอบด้วยกฎหมาย เพราะถือว่านายพานทองแท้และนางสาวพินทองทาเป็นตัวแทนของนายทักษิณ จึงยกคำฟ้องของนายทักษิณ ซึ่งนายทักษิณก็ยอมรับตามนั้นว่า การประเมินภาษีถูกต้องตามที่ศาลฎีกาวินิจฉัย แต่คดีหมายเลขดำที่ ภ.59/2569 นายทักษิณฟ้องกรมสรรพากร ต่อศาลภาษีอากรกลางที่พิพาทกันอยู่ขณะนี้ ต้องเข้าใจเสียก่อนว่า นายทักษิณไม่ได้โต้แย้งว่าการประเมินภาษีไม่ถูกต้อง แต่สิ่งที่เห็นว่าไม่ถูกต้อง คือ การยึดและอายัดทรัพย์เพื่อนำไปชำระภาษีตามการประเมินต่างหาก ที่กรมสรรพากรไม่มีอำนาจยึดแล้ว เพราะรายได้ทั้งหมด รวมถึงส่วนที่ต้องนำมาชำระภาษี คตส. ยึดไปหมดแล้วตั้งแต่ปี 2549 ยึดก่อนที่จะมีคำพิพากษาศาลฎีกามารองรับเสียอีก คำพิพากษาศาลฎีกาแผนกคดีอาญาของผู้ดำรงตำแหน่งทางการเมือง คดีหมายเลขแดงที่ อม.1/2543 มาช้ากว่าอำนาจ ",
-   "imageUrl": "https://www.matichon.co.th/wp-content/uploads/2026/11/112-2.jpg",
-   "published": "2026-11-20T06:33:59+00:00",
+   "title": "บอสชาตรี เปิดใจเหตุย้ายซบช่อง3 เผยคุยนาน 3 เดือน เริ่มไฟต์แรก 1 มกราคมปีหน้า",
+   "link": "https://www.khaosod.co.th/sports/news_10478970",
+   "summary": "บอสชาตรี ศิษย์ยอดธง ซีอีโอของ ONE Championship เผยเหตุที่ตัดสินใจย้าย ศึก “ONE Lumpinee” มาถ่ายทอดสดช่อง 3 ชี้คุยนาน 3 เดือนก่อนบรรลุข้อตกลง เมื่อวันที่ 20 พ.ย.69 ที่ห้องแกรนด์บอลรูม ชั้น B1 โรงแรมพาร์ค ไฮแอท กรุงเทพฯ นายชาตรี ศิษย์ยอดธง ซีอีโอของ ONE Championship พร้อมด้วย นายวิบูลย์ ลีรัตนขจร ผู้บ",
+   "content": "บอสชาตรี ศิษย์ยอดธง ซีอีโอของ ONE Championship เผยเหตุที่ตัดสินใจย้าย ศึก “ONE Lumpinee” มาถ่ายทอดสดช่อง 3 ชี้คุยนาน 3 เดือนก่อนบรรลุข้อตกลง เมื่อวันที่ 20 พ.ย.69 ที่ห้องแกรนด์บอลรูม ชั้น B1 โรงแรมพาร์ค ไฮแอท กรุงเทพฯ นายชาตรี ศิษย์ยอดธง ซีอีโอของ ONE Championship พร้อมด้วย นายวิบูลย์ ลีรัตนขจร ผู้บริหารของช่อง 3 ร่วมพิธีลงนามสัญญาประวัติศาสตร์ย้าย วันลุมพินี ถ่ายทอดสดช่อง 3 บอสชาตรี กล่าวว่า ดีใจและตื่นเต้นมาก ช่อง3 เป็นพันธมิตรใหม่ เรามีแผนอยู่แล้ว ที่จะร่วมกันทำให้ ONE เป็นที่นิยมมากขึ้นและมีคอนเทนต์ใหม่ๆเกิดขึ้น สิ่งที่สำคัญมากที่สุดนักมวยของเราจะมีโอกาสมากขึ้น ที่จะเป็นซุปเปอร์สตาร์ ที่เรื่องราวของเราจะได้สร้างแรงบรรดานใจมากขึ้น “มันเป็นการตัดสินใจที่ยากมาก เนื่องจกช่อง 7 มีบุญคุณ ยังเคารบนับถือเหมือนเดิม ทำให้การตัดสินใจมันยากมาก แต่ช่อง 3 มีจุดเด่นหลายอย่างทั้งความบันเทิง มีคอนเทนต์ที่หลากหมาย มีหลายอย่างที่จะทำให้นักมวยของเราดังขึ้น มีโอกาสที่จะได้เงินเพิ่มขึ้น” “ใช้เวลาในการพูดคุยประมาณ 3 เดือน ซึ่งการเซ็นสัญญาครั้งนี้จะยาว 2 ปี และจะเริ่มไฟต์แรกในวันศุกร์ที่ 1 มกราคม 2570 นี้ทันที” สำหรับวันและเวลาถ่ายทอดสดนั้นยังคงเหมือนเดิม ช่อง 3 จะถ่ายทอดสดศึก “ONE Lumpinee” ในทุกวันศุกร์ เวลา 20.30 น. – 23.30 น.",
+   "imageUrl": "https://www.khaosod.co.th/wpapp/uploads/2026/11/pbet.jpg",
+   "published": "2026-11-20T07:06:53+00:00",
    "glink": ""
   },
   {
-   "feedId": "matichon",
+   "feedId": "khaosod",
    "category": "ข่าว",
-   "source": "มติชน",
+   "source": "ข่าวสด",
    "publisher": "",
-   "title": "อัยการสูงสุดรัฐแคลิฟอร์เนีย ออกหมายเรียกสอบ Nvidia ปมชิปขั้นสูง-เรื่องอื้อฉาวของ ‘เจนเซน หวง’",
-   "link": "https://www.matichon.co.th/foreign/news_5983450",
-   "summary": "อัยการสูงสุดรัฐแคลิฟอร์เนีย ออกหมายเรียกสอบ Nvidia ปมชิ […]",
-   "content": "อัยการสูงสุดรัฐแคลิฟอร์เนีย ออกหมายเรียกสอบ Nvidia ปมชิปขั้นสูงและเรื่องอื้อฉาวของ ‘เจนเซน หวง’ สำนักข่าวเอพีรายงานว่า ร็อบ บอนตา อัยการสูงสุดของรัฐแคลิฟอร์เนีย สหรัฐอเมริกา ได้ออกหมายเรียกเพื่อการสอบสวนไปยังบริษัท เอ็นวิเดีย (Nvidia) เกี่ยวกับความสัมพันธ์ลับๆของ เจนเซน หวง อดีตซีอีโอของบริษัท กับนักธุรกิจหญิงชาวจีนที่ต้องสงสัยว่าเป็นสายลับให้จีน โดยกระทรวงยุติธรรมของรัฐแคลิฟอร์เนีย แจ้งเมื่อวันที่ 19 พฤศจิกายนว่า กำลังสอบถามไปยังเอ็นวิเดียว่า ชิปขั้นสูงหรือข้อมูลลับของบริษัท อาจถูกส่งไปประเทศจีนหรือไม่ และเอ็นวิเดีย ได้หลอกลวงนักลงทุนและสาธารณชนหรือไม่ บอนตา ระบุในแถลงการณ์ว่า “พฤติกรรมของเอ็นวิเดีย และอดีตซีอีโอของบริษัท ทำให้เกิดข้อสงสัยอย่างมาก รวมถึงวิธีการที่บริษัทอาจหลอกลวงนักลงทุน สำนักงานของผมกำลังตรวจสอบว่า การกระทำของเอ็นวิเดีย หรือ เจนเซน หวง ส่งผลให้จีนได้รับชิปขั้นสูงหรือข้อมูลลับหรือไม่ และหากเอ็นวิเดียหลอกลวงนักลงทุนและสาธารณชนเกี่ยวกับความเสี่ยงนี้ ถือเป็นการละเมิดกฎหมายหรือไม่” และว่า “เอ็นวิเดียอยู่ในสถานการณ์ที่ยุ่งยากและเกี่ยวข้องกับหลายประเทศ แต่หลักการพื้นฐานของกฎหมายหลักทรัพย์ของบริษัทนั้นชัดเจน บริษัทไม่สามารถหลอกลวงนักลงทุนได้” เมื่อวันที่ 17 พฤศจิกายนที่ผ่านมา สมาชิกสภาผู้แทนราษฎรระดับแกนนำของสหรัฐเปิดเผยว่า หวง ได้ตกลงโดยสมัครใจที่จะเข้าให้ปากคำแบบบันทึกถ้อยคำ ท่ามกลางการตรวจสอบอย่างเข้มข้นในระดับชาติที่บริษัทกำลังเผชิญอยู่ เกี่ยวกับการจำหน่ายชิปคอมพิวเตอร์ขั้นสูง โดยเจนเซน หวง จะเข้าให้ปากคำต่อคณะกรรมาธิการของสภาคองเกรสในวันที่ 1 ธันวาคม ตามด้วย ทิม เทเตอร์ ที่ปรึกษาทั่วไปฝ่ายกฎหมายของบริษัท ในวันที่ 2 ธันวาคม",
-   "imageUrl": "https://www.matichon.co.th/wp-content/uploads/2026/11/jensen-huang1555.jpg",
-   "published": "2026-11-20T06:33:14+00:00",
+   "title": "สมาคมรับสร้างบ้าน ชี้ตลาดตจว.มาแรง ดันปี 69 โต 8% จี้รัฐอัด 3 มาตรการหนุนคนสร้างบ้าน",
+   "link": "https://www.khaosod.co.th/economics/news_10478937",
+   "summary": "สมาคมธุรกิจรับสร้างบ้าน เผยตลาดบ้านสร้างเอง 9 เดือนแรกปี 2569 แตะ 1.61 แสนล้านบาท โต 9% ต่างจังหวัดครองสัดส่วนสูงถึง 81% ขณะที่ยอดขายสมาชิกยังโต 3% จากแรงหนุนตลาดภูมิภาค เสนอรัฐเร่ง เพิ่มลดหย่อนภาษีสร้างบ้านสูงสุด 5 แสนบาท ลดขั้นตอนขออนุญาตก่อสร้าง และผลักดัน Green Loan ดอกเบี้ยต่ำ หวังกระตุ้นกำลังซ",
+   "content": "สมาคมธุรกิจรับสร้างบ้าน เผยตลาดบ้านสร้างเอง 9 เดือนแรกปี 2569 แตะ 1.61 แสนล้านบาท โต 9% ต่างจังหวัดครองสัดส่วนสูงถึง 81% ขณะที่ยอดขายสมาชิกยังโต 3% จากแรงหนุนตลาดภูมิภาค เสนอรัฐเร่ง เพิ่มลดหย่อนภาษีสร้างบ้านสูงสุด 5 แสนบาท ลดขั้นตอนขออนุญาตก่อสร้าง และผลักดัน Green Loan ดอกเบี้ยต่ำ หวังกระตุ้นกำลังซื้อและลดภาระผู้บริโภคช่วงเศรษฐกิจผันผวน นายอนันต์กร อมรวาที นายกสมาคมธุรกิจรับสร้างบ้าน เปิดเผยว่า ตลาดบ้านสร้างเองในช่วง 9 เดือนแรกของปี 2569 ยังคงขยายตัว โดยเฉพาะความต้องการสร้างบ้านบนที่ดินของตนเองในต่างจังหวัด ซึ่งมีบทบาทสำคัญต่อการเติบโตของตลาด ท่ามกลางภาวะเศรษฐกิจผันผวนและการฟื้นตัวที่แตกต่างกันในแต่ละพื้นที่ สมาคมฯ คาดการณ์โดยอ้างอิงข้อมูลศูนย์ข้อมูลอสังหาริมทรัพย์ (REIC) ว่า ตลาดบ้านสร้างเองทั่วประเทศช่วงเดือนม.ค. – ก.ย. 2569 มีมูลค่า 161,184 ล้านบาท เพิ่มขึ้น 9% จาก 147,875 ล้านบาท ในช่วงเดียวกันของปีก่อน และคาดว่าทั้งปีจะมีมูลค่า 213,000 ล้านบาท เติบโตราว 8% จาก 197,900 ล้านบาทในปี 2568 โดยคาดว่ามูลค่าตลาดรวมของบริษัทสมาขิกรับสร้างบ้านในปี 2569 จะสามารถปิดยอดขายได้รวม 10,000 ล้านบาท จากปี 2568 ที่มีมูลค่า 9,200 ล้านบาท เพิ่มขึ้น 8.7% ต่างจังหวัดครองตลาด 81% “อีสาน” ตลาดมีมูลค่าสูงสุด จากตัวเลขสร้างบ้านรวมทั่วประเทศ 161,184 ล้านบาท พบว่าตลาดบ้านสร้างเองในต่างจังหวัดมีมูลค่ารวม 130,559 ล้านบาท คิดเป็นสัดส่วน 81% ของตลาดทั่วประเทศ ขณะที่กรุงเทพฯ และปริมณฑล มีมูลค่า 30,625 ล้านบาท หรือ 19% สะท้อนความสำคัญของตลาดภูมิภาคต่อธุรกิจรับสร้างบ้าน เมื่อพิจารณารายภูมิภาค สัดส่วนการสร้างบ้านในภาคตะวันออกเฉียงเหนือมีมูลค่าสูงสุด 33,849 ล้านบาท คิดเป็น 21% ของตลาดทั่วประเทศ ตามด้วยภาคใต้ 30,625 ล้านบาท หรือ 19% ภาคเหนือ 25,789 ล้านบาท หรือ 16% ภาคตะวันออก 20,954 ล้านบาท หรือ 13% ภาคตะวันตก 12,895 ล้านบาท หรือ 8% และภาคกลาง 6,447 ล้านบาท หรือ 4% นายอนันต์กร กล่าวว่า ผู้บริโภคในต่างจังหวัดจำนวนมาก มีที่ดินพร้อมสำหรับการก่อสร้างอยู่แล้ว ปัจจัยสำคัญในการตัดสินใจ ครอบคลุมทั้งราคา มาตรฐานงานก่อสร้าง และความเชื่อมั่นว่าบริษัทรับสร้างบ้านจะสามารถส่งมอบงานได้ตามสัญญา สำหรับพื้นที่ที่มีมูลค่าตลาดสูงสุด 10 อันดับแรก ได้แก่ กรุงเทพฯ 13,781 ล้านบาท ชลบุรี 9,639 ล้านบาท เชียงใหม่ 9,542 ล้านบาท นครราชสีมา 8,801 ล้านบาท สุราษฎร์ธานี 5,512 ล้านบาท ขอนแก่น 5,416 ล้านบาท ภูเก็ต 5,206 ล้านบาท สงขลา 4,594 ล้านบาท ปทุมธานีและนครศรีธรรมราช จังหวัดละ 4,287 ล้านบาท ยอดขายสมาชิก 7,300 ล้านบาท ต่างจังหวัดโต 37% ในส่วนของบริษัทสมาชิก HBA ยอดขายรวมช่วง 9 เดือนแรกปี 2569 อยู่ที่ 7,300 ล้านบาท เพิ่มขึ้นประมาณ 3% จาก 7,100 ล้านบาทในช่วงเดียวกันของปีก่อน โดยยอดขายในกรุงเทพฯ และปริมณฑล 9 เดือนแรกปี 2569 อยู่ที่ 4,000 ล้านบาท คิดเป็น 55% ของยอดขายสมาชิก และลดลงราวจากปีก่อน 15% ขณะที่ยอดขายในต่างจังหวัดอยู่ที่ 3,300 ล้านบาท คิดเป็น 45% และเติบโตจากปีก่อนประมาณ 37% ตัวเลขดังกล่าวสะท้อนว่า การขยายตลาดในภูมิภาคเป็นแรงหนุนสำคัญที่ช่วยให้ยอดขายรวมของสมาชิกยังเติบโต แม้ตลาดกรุงเทพฯ และปริมณฑลชะลอตัว “ยอดขายบริษัทสมาชิกสมาคมฯ เติบโต 3% ท่ามกลางเศรษฐกิจที่ผันผวนและการฟื้นตัวในบางพื้นที่ สะท้อนถึงผลของการเจาะตลาดเชิงรุก และการตอบรับจากผู้บริโภคที่ต้องการสร้างบ้านบนที่ดินของตนเอง” นายอนันต์กร กล่าว เมื่อแยกยอดขายสมาชิกในต่างจังหวัดตามภูมิภาค พบว่าภาคตะวันออกเฉียงเหนือ มียอดขายสูงสุด 1,426 ล้านบาท ตามด้ว",
+   "imageUrl": "https://www.khaosod.co.th/wpapp/uploads/2026/11/HBA.jpg",
+   "published": "2026-11-20T07:02:58+00:00",
    "glink": ""
   },
   {
-   "feedId": "matichon",
+   "feedId": "khaosod",
    "category": "ข่าว",
-   "source": "มติชน",
+   "source": "ข่าวสด",
    "publisher": "",
-   "title": "ยศชนัน ซูมจากจีน จ่อถกต่อ ไทย-เมียนมา-จีน แก้สารหนูในแม่น้ำ ดันฝายดักตะกอนอัจฉริยะ ป้องนาข้าว",
-   "link": "https://www.matichon.co.th/politics/news_5983446",
-   "summary": "‘ยศชนัน’ ซูมตรงจากจีนหลังพบ ‘สี จิ้นผ […]",
-   "content": "‘ยศชนัน’ ซูมตรงจากจีนหลังพบ ‘สี จิ้นผิง’ ร่วมนายกฯ ลุยถก 3 ฝ่ายไทย-เมียนมา-จีน สยบสารหนูแม่น้ำกก-สาย นำทีม อว.-มท.-เกษตรฯ ลุย 6 มาตรการด่วน ดัน ‘ฝายดักตะกอนอัจฉริยะ’ ป้องนาข้าว 2.7 หมื่นไร่ ตรวจลายนิ้วมือสารพิษ-เร่งสร้างประปาบาดาล-สกัดลักลอบแร่-เปิด Agri-Map เช็กโซนปลอดภัย เมื่อวันที่ 20 พฤศจิกายน ที่กรมป้องกันและบรรเทาสาธารณภัย นายยศชนัน วงศ์สวัสดิ์ รองนายกรัฐมนตรี และรัฐมนตรีว่าการกระทรวงการอุดมศึกษา วิทยาศาสตร์ วิจัยและนวัตกรรม (อว.) เข้าร่วมประชุมคณะกรรมการป้องกันและแก้ไขปัญหาภัยพิบัติในพื้นที่ภาคเหนือ ครั้งที่ 2/2569 ผ่านระบบออนไลน์ (Zoom) จากสาธารณรัฐประชาชนจีน ภายหลังเสร็จสิ้นภารกิจร่วมคณะนายกรัฐมนตรีเข้าเยี่ยมคารวะนายสี จิ้นผิง ประธานาธิบดีแห่งสาธารณรัฐประชาชนจีน เพื่อติดตามและเร่งขับเคลื่อน 6 มาตรการเร่งด่วนแก้ปัญหาสารหนูในแม่น้ำกก-สาย ภายหลังการลงพื้นที่ อ.แม่สาย เมื่อวันที่ 14-15 พ.ย.ที่ผ่านมา โดยมีนายเจเศรษฐ์ ไทยเศรษฐ์ รัฐมนตรีช่วยว่าการกระทรวงมหาดไทย น.ส.ปิยะรัฐชย์ ติยะไพรัช รัฐมนตรีช่วยว่าการกระทรวงเกษตรและสหกรณ์ พร้อมด้วยผู้แทนจาก ปภ. กรมควบคุมมลพิษ การประปาส่วนภูมิภาค กรมทรัพยากรน้ำบาดาล กระทรวงสาธารณสุข กรมวิชาการเกษตร กรมประมง กระทรวงอุตสาหกรรม สำนักงบประมาณ หน่วยงานความมั่นคง รวมถึงจังหวัดเชียงใหม่และเชียงราย เข้าร่วมประชุม นายยศชนันเปิดเผยความคืบหน้าจากการเข้าหารือกับประธานาธิบดี สี จิ้นผิง ว่าภายใต้การนำของนายกรัฐมนตรีและการผลักดันทางการทูตในทุกระดับของรองนายกรัฐมนตรี และรัฐมนตรีว่าการกระทรวงการต่างประเทศ ทำให้การพูดคุยเป็นไปในทิศทางที่ดี ทั้งสองฝ่ายต่างรับรู้ถึงปัญหาและมีความเห็นพ้องต้องกัน พร้อมร่วมมือคลี่คลายปัญหา โดยเสนอให้จัดตั้งคณะทำงานด้านเทคนิคร่วมกันเข้าไปตรวจสอบและหยุดยั้งสารพิษที่แหล่งกำเนิด ทั้งนี้ รัฐบาลจะนำสาระสำคัญทั้งหมดไปหารืออย่างเป็นทางการในการประชุมคณะทำงานร่วมไทย-เมียนมา-จีน ระหว่างวันที่ 24-26 พ.ย.ณ กระทรวงการต่างประเทศ โดยใช้หลักฐานทางวิทยาศาสตร์เป็นฐานเจรจา ทั้งผลการตรวจวัดของกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม และการวิเคราะห์ไอโซโทปโดยกระทรวง อว. เพื่อตรวจลายนิ้วมือพิสูจน์แหล่งที่มาของสารหนูอย่างแม่นยำ ในที่ประชุม กระทรวง อว.ได้เสนอแนวทางออกแบบ “ฝายดักตะกอนอัจฉริยะ” ผลงานวิจัยร่วมของ สกสว. มหาวิทยาลัยนเรศวร และสถาบัน DHI โดยชี้ว่าสารหนูส่วนใหญ่เกาะติดมากับ “ตะกอนละเอียด” ซึ่งฝายทั่วไปดักได้เพียงทรายหยาบ ทำให้แม่น้ำสายผ่านเกณฑ์ไม่ถึง 5% ของจำนวนวัน ทีมวิจัยจึงสร้างแม่น้ำจำลอง (Digital Twin) ทดสอบข้อมูลจริงต่อเนื่อง 523 วัน จนได้ระบบที่ผันน้ำขุ่นเข้าบ่อริมตลิ่ง ทำงาน 5 ขั้นตอนควบคุมด้วย AI คือ “ดัก-ตก-ดูด-รีด-คืน” โดยเติมสารจับตะกอนเฉพาะช่วงน้ำขุ่นเกินเกณฑ์ ชะลอน้ำในรางกวนช้า ปิดประตูรับน้ำอัตโนมัติช่วงน้ำหลาก และตรวจค่าสารหนูก่อนปล่อยน้ำใสคืนแม่น้ำพร้อมจอแสดงผลเรียลไทม์ให้ชาวบ้านตรวจสอบได้ ส่วนตะกอนพิษจะถูกดูดออกทุกวัน รีดน้ำ และตรวจแล็บทุกล็อต ก่อนส่งไปตรึงถาวรในโรงปูนซีเมนต์หรือฝังกลบในหลุมปลอดภัยตามเกณฑ์กรมควบคุมมลพิษ โดยชั่งน้ำหนักและติดรหัสตรวจสอบย้อนหลังได้ทุกตัน ผลจำลองชี้ว่า ระบบกำจัดสารหนูได้ถึง 94.6% หากสร้างครบ 3 ชุดริมแม่น้ำสาย ช่วง กม.ที่ 95-99 แม่น้ำสายจะผ่านมาตรฐาน 476 จาก 523 วัน และประปาแม่สายผลิตน้ำได้ทุกวันจากเดิมที่ต้องหยุดผลิต 17 วัน ที่ประชุมจึงเห็นชอบให้นำร่องแบบ Sandbox ที่หัวงานชลประทานแม่สาย เป็นเวลา 18 เดือน ครอบคลุมฤดูฝนปี 2570 เพื่อลดสารหนูไหลลงนา 94% คุ้มครองนาข้าวราว 27",
-   "imageUrl": "https://www.matichon.co.th/wp-content/uploads/2026/11/50308902-2.jpg",
-   "published": "2026-11-20T06:30:13+00:00",
-   "glink": ""
-  },
-  {
-   "feedId": "matichon",
-   "category": "ข่าว",
-   "source": "มติชน",
-   "publisher": "",
-   "title": "โปเช็ตติโน่หวังพาแมนยูประเดิมลิเวอรืพูล ในศึกแดงเดือด",
-   "link": "https://www.matichon.co.th/sport/footballinter/news_5983454",
-   "summary": "โปเช็ตติโน่หวังพาแมนยูประเดิมลิเวอร์พูล ในศึกแดงเดือด เ […]",
-   "content": "โปเช็ตติโน่หวังพาแมนยูประเดิมลิเวอร์พูล ในศึกแดงเดือด เมาริซิโอ โปเช็ตติโน่ กุนซือคนใหม่ของแมนเชสเตอร์ ยูไนเต็ด กล่าวถึงการไปเยือนลิเวอร์พูล ในเกมพรีเมียร์ลีก “ศึกแดงเดือด” ที่สนามแอนฟิลด์ ในวันที่ 22 พฤศจิกายนนี้ ว่า เราจะไปแอนฟิลดด้วยเป้าหมายที่จะชนะ และเต็มไปด้วยความกล้าหาญ ประวัติศาสตร์ได้บอกเอาไว้แล้ว ซึ่งเราเองก็ต้องมั่นใจว่าเราจะไม่กลัว และพร้อมท้าทายทีมที่ดีอย่างลิเวอร์พูล ส่วนการทำทีมนั้น ต้องก้าวไปทีละขั้น ต้องไม่เร่งเกินไป ถึงแม้ว่าเราอยากจะทำแบบนั้นก็ตาม กุนซือปีศาจแดงคนใหม่กล่าวอีกว่า นักเตะทุกคนต้องแสดงให้เห็นถึงพรสวรรค์ของพวกเขาออกมา เราจะสร้างบรรยากาศให้นักเตะอยากจะปล่อยของให้เห็น และสร้างความกดดันให้พวกเขา เพราะความกดดันควรเป็นสิ่งที่ช่วยสร้างพลังและแรงกระตุ้น ส่วนความรับผิดชอบก็ควรเป็นสิ่งที่เติมพลังให้กับพวกเขา ทุกคนต้องอยากลงเล่นเพื่อเพื่อนร่วมทีม เพื่อครอบครัว เพื่อสโมสร และเพื่อแฟนบอล",
-   "imageUrl": "https://www.matichon.co.th/wp-content/uploads/2026/11/punsong1-23.jpg",
-   "published": "2026-11-20T06:26:19+00:00",
+   "title": "สาวเมาขับชนแม่เลี้ยงเดี่ยวเสียชีวิต ยันพร้อมเยียวยา ยอมรับเคยขับรถชนคนบาดเจ็บมาก่อน",
+   "link": "https://www.khaosod.co.th/around-thailand/news_10478796",
+   "summary": "สาวเมาขับเก๋งชนแม่เลี้ยงเดี่ยวเสียชีวิต พร้อมเยียวยา ส่วนขวดเบียร์ที่พบไม่รู้มาจากไหน ยอมรับเคยขับรถชนคนบาดเจ็บมาก่อนตอนนี้อยู่ระหว่างชดใช้ค่าเสียหาย เมื่อวันที่ 20 พ.ย. 2569 ความคืบหน้ากรณีอุบัติเหตุรถยนต์เก๋งพุ่งชนรถจักรยานยนต์ บริเวณบ้านกุดน้ำใส ต.กุดน้ำใส อ.น้ำพอง จ.ขอนแก่น เมื่อวันที่ 17 พ.ย.ที",
+   "content": "สาวเมาขับเก๋งชนแม่เลี้ยงเดี่ยวเสียชีวิต พร้อมเยียวยา ส่วนขวดเบียร์ที่พบไม่รู้มาจากไหน ยอมรับเคยขับรถชนคนบาดเจ็บมาก่อนตอนนี้อยู่ระหว่างชดใช้ค่าเสียหาย เมื่อวันที่ 20 พ.ย. 2569 ความคืบหน้ากรณีอุบัติเหตุรถยนต์เก๋งพุ่งชนรถจักรยานยนต์ บริเวณบ้านกุดน้ำใส ต.กุดน้ำใส อ.น้ำพอง จ.ขอนแก่น เมื่อวันที่ 17 พ.ย.ที่ผ่านมา ส่งผลให้ น.ส.นิสากร อายุ 25 ปี เสียชีวิต ล่าสุด ที่สถานีตำรวจภูธรน้ำพอง จ.ขอนแก่น น.ส.เอ (นามสมมติ) อายุ 29 ปี ได้เดินทางเข้าพบพนักงานสอบสวนตามนัด หลังได้รับการประกันตัวในชั้นสอบสวนเมื่อวันเกิดเหตุ โดยพนักงานสอบสวนได้แจ้งข้อกล่าวหา “ขับรถขณะเมาสุราเป็นเหตุให้ผู้อื่นถึงแก่ความตาย” ก่อนดำเนินการพิมพ์ลายนิ้วมือ และควบคุมตัวขึ้นรถควบคุมผู้ต้องหา เพื่อนำตัวส่งฟ้องต่อศาลตามขั้นตอนกฎหมาย น.ส.เอ เปิดเผยว่า ก่อนหน้านี้ตนได้เดินทางไปร่วมงานศพของผู้เสียชีวิตแล้ว ส่วนการเยียวยาและช่วยเหลือครอบครัวผู้เสียชีวิตนั้น ตนพร้อมดูแลและรับผิดชอบทุกอย่าง สำหรับขวดเบียร์ที่พบในที่เกิดเหตุ ตนไม่ทราบว่ามาจากไหน เนื่องจากช่วงที่เกิดเหตุคิดว่าขับรถชนเสาไฟฟ้าข้างทาง ไม่คิดว่าจะมีผู้เสียชีวิต และไม่ทราบว่าเกิดอะไรขึ้น กระทั่งเจ้าหน้าที่ตำรวจเดินทางมาถึงที่เกิดเหตุ นอกจากนี้ ยังขอแสดงความเสียใจกับครอบครัวผู้เสียชีวิต หลังทราบว่าผู้ตายเป็นแม่เลี้ยงเดี่ยว มีลูกวัยเพียง 1 ขวบ 4 เดือน ที่ต้องดูแล พร้อมระบุว่าจะต่อสู้คดีตามกระบวนการยุติธรรม ทั้งยังยอมรับว่า ก่อนหน้านี้เคยขับรถชนผู้อื่นได้รับบาดเจ็บในพื้นที่ อ.อุบลรัตน์ จ.ขอนแก่น ซึ่งขณะนี้อยู่ระหว่างการชดใช้ค่าเสียหาย ด้าน นางรุ่งทิวา หลาบหนองแสง อายุ 49 ปี ญาติของผู้เสียชีวิต ซึ่งเดินทางมารอดูคู่กรณี เปิดเผยว่า วันนี้ตั้งใจมาดูคู่กรณีที่ขับรถขณะเมาสุราจนชนหลานเสียชีวิต แต่เมื่อได้ฟังคำชี้แจงจากคู่กรณีที่ให้สัมภาษณ์กับผู้สื่อข่าว กลับรู้สึกว่าอีกฝ่ายดูนิ่งเฉย ราวกับไม่มีอะไรเกิดขึ้น ส่วนที่คู่กรณีระบุว่าพร้อมรับผิดชอบนั้น ญาติผู้เสียชีวิตยังไม่มั่นใจว่าจะมีการรับผิดชอบจริง เนื่องจากที่ผ่านมาในช่วงจัดงานศพ มีเพียงญาติและคนใกล้ชิดมาร่วมงาน โดย น.ส.เอ ไม่ได้เดินทางมาร่วมงานแม้แต่วันเดียว จึงอยากให้ตำรวจดำเนินคดีอย่างถึงที่สุด เพราะครอบครัวต้องสูญเสียหลานสาวจากเหตุการณ์เมาแล้วขับ ขณะเดียวกัน มีข้อมูลระบุว่า ก่อนหน้านี้ น.ส.เอ เคยขับรถยนต์ชนรถจักรยานยนต์ในพื้นที่ อ.อุบลรัตน์ จ.ขอนแก่น ส่งผลให้คู่กรณีได้รับบาดเจ็บ กระดูกขาและสะโพกหัก โดยมีการเรียกร้องค่าเสียหายเป็นเงิน 500,000 บาท แต่มีรายงานว่า น.ส.เอ ชดใช้เงินไปเพียง 20,000 บาท และยังไม่ได้ชำระส่วนที่เหลือ",
+   "imageUrl": "https://www.khaosod.co.th/wpapp/uploads/2026/11/accident-3.jpg",
+   "published": "2026-11-20T07:02:24+00:00",
    "glink": ""
   },
   {
@@ -2242,45 +2495,6 @@
    "glink": ""
   },
   {
-   "feedId": "khaosod",
-   "category": "ข่าว",
-   "source": "ข่าวสด",
-   "publisher": "",
-   "title": "ราคาทอง ผันผวนหนัก ผ่านไปครึ่งวันปรับตัว 50 ครั้ง ร่วงลงแรงต่อเนื่อง",
-   "link": "https://www.khaosod.co.th/economics/news_10478803",
-   "summary": "ราคาทอง ผันผวนหนัก ผ่านไปครึ่งวันปรับตัว 50 ครั้ง ร่วงลงอย่างต่อเนื่อง ล่าสุดปรับลดลงมากถึง 2,700 บาท โดย ทองรูปพรรณ ขายออกที่บาทละ 57,200 บาท เมื่อเวลา 13.07 น. วันที่ 20 พ.ย.2569 สมาคมค้าทองคำ ประกาศ ราคาทองคำวันนี้ พบว่าในช่วงครึ่งเช้าของวันนี้ ราคาทองผันผวนหนัก ปรับตัว 50 ครั้ง โดยราคาปรับลดลงมา",
-   "content": "ราคาทอง ผันผวนหนัก ผ่านไปครึ่งวันปรับตัว 50 ครั้ง ร่วงลงอย่างต่อเนื่อง ล่าสุดปรับลดลงมากถึง 2,700 บาท โดย ทองรูปพรรณ ขายออกที่บาทละ 57,200 บาท เมื่อเวลา 13.07 น. วันที่ 20 พ.ย.2569 สมาคมค้าทองคำ ประกาศ ราคาทองคำวันนี้ พบว่าในช่วงครึ่งเช้าของวันนี้ ราคาทองผันผวนหนัก ปรับตัว 50 ครั้ง โดยราคาปรับลดลงมากถึง 2,700 บาท สรุป ราคาทองวันนี้ 20 พ.ย.2569 ประกาศครั้งที่ 1 ทองแท่ง รับซื้อ บาทละ 57,200 บาท ขายออก บาท 57,400 บาท ทองรูปพรรณ รับซื้อ บาทละ 56,061.68 บาท ขายออก บาทละ 58,200 บาท ประกาศครั้งที่ 50 ทองแท่ง รับซื้อ บาทละ 57,000 บาท ขายออก บาท 57,200 บาท ทองรูปพรรณ รับซื้อ บาทละ 55,864.60 บาท ขายออก บาทละ 58,000 บาท อัปเดตราคาทองวันนี้ล่าสุดที่นี่ ราคาทอง ผันผวนหนัก ผ่านไปครึ่งวันปรับตัว 50 ครั้ง ร่วงลงแรงต่อเนื่อง สถานการณ์ราคาทองคำ โกลเบล็กเตือน! ทองเสี่ยงหลุด 3,700 ดอลลาร์ ชี้นักลงระยะยาวเป็นจังหวะซื้อสะสมหลังราคาปรับฐานลง 30% ราคาทองวันนี้ 20 พ.ย.69 สมาคมค้าทองคำ ประกาศ ราคาทองคำวันนี้ ร่วงแรงมาก",
-   "imageUrl": "https://www.khaosod.co.th/wpapp/uploads/2026/11/gold-price-today-19.jpg",
-   "published": "2026-11-20T06:24:35+00:00",
-   "glink": ""
-  },
-  {
-   "feedId": "khaosod",
-   "category": "ข่าว",
-   "source": "ข่าวสด",
-   "publisher": "",
-   "title": "รัชนก ผ่านคู่แข่งก่อนลิ่วดวล พรปวีณ์ ในรอบรอง ศึกขนไก่ฮ่องกง โอเพ่น พร้อมตีตั๋วเวิลด์ ทัวร์ ไฟนอลส์ทั้งคู่",
-   "link": "https://www.khaosod.co.th/sports/news_10478860",
-   "summary": "การแข่งขันแบดมินตันรายการ ฮ่องกง โอเพ่น 2026 ทัวร์นาเมนต์ระดับ เวิลด์ทัวร์ ซูเปอร์ 500 ชิงเงินรางวัลรวม 500,000 เหรียญสหรัฐ หรือประมาณ 17,000,000 บาท ที่เกาลูน เขตปกครองพิเศษฮ่องกง สาธารณรัฐประชาชนจีน เมื่อวันที่ 20 พ.ย. เป็นการแข่งขันในรอบก่อนรองชนะเลิศ หรือ 8 คนสุดท้าย ประเภทหญิงเดี่ยว “เมย์” รัชน",
-   "content": "การแข่งขันแบดมินตันรายการ ฮ่องกง โอเพ่น 2026 ทัวร์นาเมนต์ระดับ เวิลด์ทัวร์ ซูเปอร์ 500 ชิงเงินรางวัลรวม 500,000 เหรียญสหรัฐ หรือประมาณ 17,000,000 บาท ที่เกาลูน เขตปกครองพิเศษฮ่องกง สาธารณรัฐประชาชนจีน เมื่อวันที่ 20 พ.ย. เป็นการแข่งขันในรอบก่อนรองชนะเลิศ หรือ 8 คนสุดท้าย ประเภทหญิงเดี่ยว “เมย์” รัชนก อินทนนท์ มือ 6 ของโลก พบกับ มิเชลล์ ลี มือ 16 ของโลกจากแคนาดา ผลปรากฎว่า เมย์ รัชนก โชว์ฟอร์มตบเอาชนะคู่แข่งไปสองเกมรวด สกอร์ 21-19 และ 21-16 พร้อมผ่านเข้าสู่รอบรองชนะเลิศ โดยจะเข้าไปดวลกับ หมิว” พรปวีณ์ ช่อชูวงศ์ มือ 8 ของโลก ที่เอาชนะ รักชิฐา รามราช มือ 47 ของโลกจากอินเดีย มาสองเกมรวดด้วยสกอร์ 21-19 และ 21-16 เช่นกัน และจากผลการแข่งขันดังกล่าวทำให้ทั้ง เมย์ รัชนก และ หมิว พรปวีณ์ คว้าโควตาในรายการใหญ่ส่งท้ายปีอย่างศึก เวิลด์ ทัวร์ ไฟนอลส์ ได้สำเร็จด้วย ต่อจาก “วิว” กุลวุฒิ วิทิตศานต์ ที่ได้โควตาประเภทชายเดี่ยว รวมถึง “บาส” เดชาพล พัววรานุเคราะห์ และ “เฟม” ศุภิสรา เพียวสามพราน ในประเภทคู่ผสม",
-   "imageUrl": "https://www.khaosod.co.th/wpapp/uploads/2026/11/may-muw.jpg",
-   "published": "2026-11-20T06:17:13+00:00",
-   "glink": ""
-  },
-  {
-   "feedId": "khaosod",
-   "category": "ข่าว",
-   "source": "ข่าวสด",
-   "publisher": "",
-   "title": "“วู้ดดี้” ปลื้มใจไทยเจ้าภาพ Eurovision Asia สุดยิ่งใหญ่ ฟิลิปปินส์คว้าแชมป์ เฉือน “มาง x ต้าห์อู๋” ด้าน “เจฟ ซาเตอร์” โชว์พลังเสียงสะกดทั้งเอเชีย!",
-   "link": "https://www.khaosod.co.th/update-news/news_10478858",
-   "summary": "“วู้ดดี้” ปลื้มใจไทยเจ้าภาพ Eurovision Asia สุดยิ่งใหญ่ ฟิลิปปินส์คว้าแชมป์ เฉือน “มาง x ต้าห์อู๋” ด้าน “เจฟ ซาเตอร์” โชว์พลังเสียงสะกดทั้งเอเชีย! กรุงเทพมหานครสร้างปรากฏการณ์ระดับประวัติศาสตร์เป็นเจ้าภาพจัดการแข่งขันเวที Eurovision Asia ประกวดเพลงระดับเอเชียครั้งแรกในประเทศไทย ที่อัดแน่นไปด้วยความอ",
-   "content": "“วู้ดดี้” ปลื้มใจไทยเจ้าภาพ Eurovision Asia สุดยิ่งใหญ่ ฟิลิปปินส์คว้าแชมป์ เฉือน “มาง x ต้าห์อู๋” ด้าน “เจฟ ซาเตอร์” โชว์พลังเสียงสะกดทั้งเอเชีย! กรุงเทพมหานครสร้างปรากฏการณ์ระดับประวัติศาสตร์เป็นเจ้าภาพจัดการแข่งขันเวที Eurovision Asia ประกวดเพลงระดับเอเชียครั้งแรกในประเทศไทย ที่อัดแน่นไปด้วยความอลังการ โปรดักชันระดับโลก และโมเมนต์สุดประทับใจที่ทำเอาแฟนเพลงทั่วเอเชียต้องพูดถึง เปิดฉากความยิ่งใหญ่ด้วยสองพิธีกรระดับแถวหน้าของเมืองไทย วู้ดดี้-วุฒิธร และ ซินดี้-สิรินยา ที่สร้างเซอร์ไพรส์ด้วยการเปิดตัวศิลปินตัวแทนทั้ง 11 ประเทศ ลงมาจาก “รถตุ๊กตุ๊ก” สัญลักษณ์ซอฟต์พาวเวอร์และวิถีชีวิตอันเป็นเอกลักษณ์ของไทย เรียกเสียงฮือฮาและรอยยิ้มจากผู้ชมได้อย่างท่วมท้น จากนั้นเวทีก็ลุกเป็นไฟกับการประชันพลังเสียงและเอกลักษณ์ทางดนตรีจากทั่วเอเชีย เริ่มต้นความสนุกด้วย เวียดนาม (Tóc Tiên – เพลง EM TIÊN), กัมพูชา (Monetrey – เพลง I Let You Go), ลาว (Thinla – เพลง BAE), มองโกเลีย (Beck – เพลง Chamguigeer (Without You)), ภูฏาน (Nyendra – เพลง Lhayi Semo (The Angel)) และ ฟิลิปปินส์ (CARMELLE – เพลง Sobra-Sobra) ก่อนจะคั่นจังหวะความตื่นเต้นด้วยเกมสุดพิเศษ “Who Wants To go to Burgas?” แล้วไปต่อกันที่โชว์จาก บังกลาเทศ (Beatmosphere – เพลง Tumi Ele) และแล้ววินาทีที่คนไทยทั้งประเทศรอคอยก็มาถึง เมื่อตัวแทนประเทศไทยอย่าง MANG x DAOU (มาง และ ต้าห์อู๋) ปรากฏตัวในเพลง “Aroma (กลิ่นราตรี)” ที่จัดเต็มทั้งการประสานพลังเสียงสุดทรงพลัง ผสมผสานเข้ากับการร่ายรำอันสง่างาม ถ่ายทอดจิตวิญญาณความเป็นไทยออกมาได้อย่างวิจิตรตระการตา สะกดสายตาผู้ชมทั่วโลก ตามมาติดๆ ด้วยโชว์สุดเดือดจาก เกาหลีใต้ (JUNHEE – เพลง DEEP DIVE), เนปาล (Pratik Himal Rai – เพลง Ananta Maya) และปิดท้ายการแข่งขันด้วย มาเลเซีย (Aina Abdul – เพลง Bluest Sky) ความพิเศษยังไม่หมดเพียงเท่านั้น เมื่อศิลปินหนุ่มสุดฮอตแห่งยุค เจฟ ซาเตอร์ (Jeff Satur) ขึ้นเวทีโชว์พิเศษในเพลง “ที่ชอบที่ชอบ (Grief Eaters)” ปลดปล่อยสกิลการร้องและอินเนอร์ระดับมาสเตอร์พีซ สร้างโมเมนต์สุดขลังที่สะกดทุกสายตาทั้งในฮอลล์และหน้าจอ แล้วเวลาที่ทุกคนรอคอยก็มาถึง รางวัลชนะเลิศอันดับ 1 ได้แก่ ประเทศฟิลิปปินส์ (CARMELLE) คว้าชัยไปครองด้วยคะแนน 211 คะแนน รองชนะเลิศอันดับ 2 ได้แก่ ประเทศไทย (MANG x DAOU) ตามมาติดๆ อย่างสมศักดิ์ศรีด้วยคะแนน 170 คะแนน “ ยังตื่นเต้นและประทับใจไม่หายกับงาน Eurovision Song Contest Asia ครั้งแรก ที่จัดขึ้นที่นี่ในกรุงเทพฯ! นี่คือความท้าทายครั้งใหญ่จริงๆ ทั้งการช่วยให้ผู้คนที่ไม่เคยดู Eurovision มาก่อน เข้าใจกติกาและสนุกไปกับโชว์ ไปพร้อมๆ กับการเชื่อมโยงผู้ชมจาก 11 ประเทศที่มีความหลากหลายทางภาษา บอกเลยว่าไม่ใช่เรื่องง่ายเลย! ขอขอบคุณเป็นพิเศษสำหรับทีมงานโปรดักชันชาวไทยของเรา แม้ระหว่างทางจะเจออุปสรรคมากมาย แต่ทุกคนก็ช่วยกันหาทางออกและทุ่มเทกันอย่างเต็มที่ ผมรู้ดีว่ากว่าจะเนรมิตโชว์ระดับนี้ขึ้นมาได้ต้องใช้พลังมากแค่ไหน และผมภูมิใจในทีมของเราที่สุดเลยครับ ขอแสดงความยินดีกับผู้ชนะ และขอบคุณศิลปินทุกคนที่ทุ่มเทอย่างสุดความสามารถบนเวที ทุกคนต่างนำเสนอเอกลักษณ์ที่แสนพิเศษมาสู่โชว์นี้ ผมหวังว่าเวทีนี้จะช่วยเปิดประตูแห่งโอกาสให้ศิลปินทั่วเอเชียได้ก้าวไปสู่ผู้ชมในวงกว้างมากยิ่งขึ้น และที่ขาดไม่ได้เลยคือ “ซินดี้ สิรินยา บิชอพ” ทั้งพลัง ความจำอันน่าทึ่ง ความรู้ และสไตล์ ผู้หญิงคนนี้มีครบทุกอย่างจริงๆ ส่วนตัวผมเองก็ยินดีอย่างยิ่งที่ได้ยืนอยู่เคียงข้างเธอแล",
-   "imageUrl": "https://www.khaosod.co.th/wpapp/uploads/2026/11/11-12.jpg",
-   "published": "2026-11-20T06:17:10+00:00",
-   "glink": ""
-  },
-  {
    "feedId": "bbc-world",
    "category": "ต่างประเทศ",
    "source": "BBC World",
@@ -2290,7 +2504,7 @@
    "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
    "content": "",
    "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
-   "published": "2026-11-20T04:35:51+00:00",
+   "published": "2026-11-20T07:14:46+00:00",
    "glink": ""
   },
   {
