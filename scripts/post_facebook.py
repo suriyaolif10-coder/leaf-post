@@ -123,35 +123,22 @@ def main():
         pool = [i for i in items if not i.get("own") and i.get("imageUrl") and i.get("link", "").startswith("http")
                 and "news.google.com" not in i["link"] and i["link"] not in done]
         pool.sort(key=lambda i: i.get("published", ""), reverse=True)
-        # one fresh story from each of up to 5 different categories
-        picks, cats = [], set()
-        for it in pool[:60]:
-            if it.get("category") not in cats:
-                picks.append(it)
-                cats.add(it.get("category"))
-            if len(picks) == 5:
-                break
-        random.shuffle(picks)
-        if len(picks) >= 2 and page_is_live(story_url(picks[0]["link"]), wait=180):
-            lines = "\n".join(f"▪️ {it['title']}" for it in picks)
-            msg = (f"📰 ข่าวเด่นตอนนี้ ปัดดูได้เลย 👉\n\n{lines}\n\n"
-                   f"{tag('ลีฟโพสต์')} {tag('ข่าววันนี้')} " + " ".join(tag(c) for c in sorted(cats) if c))
-            children = [{"link": story_url(it["link"]), "name": it["title"][:90],
-                         "description": f"ที่มา: {it.get('publisher') or it.get('source') or ''}"[:90]} for it in picks]
-            print("general carousel:", " | ".join(it["title"][:30] for it in picks))
-            ok = post(page_id, token, msg, SITE, children)
-            if not ok:  # carousel refused - fall back to a single story
-                it = picks[0]
-                who = it.get("publisher") or it.get("source") or ""
-                print("fallback single:", it["title"][:60])
-                ok = post(page_id, token, f"{it['title']}\n\nที่มา: {who}\n\n{tag('ลีฟโพสต์')} {tag(it.get('category', 'ข่าว'))}",
-                          story_url(it["link"]))
-                picks = [it]
-            if ok:
-                state["posted"] += [it["link"] for it in picks]
+        # one story per post, big picture, linking straight to the publisher
+        # (rotate categories so the page does not post the same topic twice in a row)
+        last_cat = state.get("last_cat", "")
+        fresh = pool[:15]
+        choices = [i for i in fresh if i.get("category") != last_cat] or fresh
+        if choices:
+            it = random.choice(choices)
+            who = it.get("publisher") or it.get("source") or ""
+            msg = f"{it['title']}\n\nที่มา: {who}\n\n{tag('ลีฟโพสต์')} {tag(it.get('category', 'ข่าว'))}"
+            print("general:", it["title"][:60])
+            if post(page_id, token, msg, it["link"]):
+                state["posted"].append(it["link"])
                 state["last_general"] = now.isoformat()
+                state["last_cat"] = it.get("category", "")
         else:
-            print("general: not enough stories or pages not live yet")
+            print("general: no new story with a picture")
     if first_run:
         print("first run done")
     save_state(state)
