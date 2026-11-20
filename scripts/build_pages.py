@@ -76,7 +76,7 @@ def main():
     keep = set()
     for it in items:
         uid = it.get("uid")
-        if not it.get("own") or not uid or not re.fullmatch(r"c\d+", uid):
+        if not it.get("own") or not uid or not re.fullmatch(r"[a-z]{1,3}\d+", uid):
             continue
         imgs = it.get("images") or ([it["imageUrl"]] if it.get("imageUrl") else [])
         tags = [f'<img src="{esc(u)}" alt="">' for u in imgs]

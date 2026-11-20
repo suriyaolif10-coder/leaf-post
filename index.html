@@ -195,14 +195,14 @@ body.noscroll{overflow:hidden}
 </div>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <div class="reader" id="reader" role="dialog" aria-modal="true" aria-label="อ่านข่าว">
-  <div class="bar"><button class="icon-btn" id="readerClose" aria-label="ปิด"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg></button><b>ข่าวชุมชน</b><span style="flex:1"></span><button class="icon-btn" id="readerShare" aria-label="แชร์"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 13.5 6.8 4M15.4 6.5l-6.8 4"/></svg></button></div>
+  <div class="bar"><button class="icon-btn" id="readerClose" aria-label="ปิด"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg></button><b id="readerCat">ข่าวชุมชน</b><span style="flex:1"></span><button class="icon-btn" id="readerShare" aria-label="แชร์"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 13.5 6.8 4M15.4 6.5l-6.8 4"/></svg></button></div>
   <article id="readerBody"></article>
 </div>
 <script src="ads.js"></script>
 <script>
 (function () {
   "use strict";
-  var CATS = ["TOP", "ข่าว", "ข่าวชุมชน", "การเมือง", "บันเทิง", "กีฬา", "ไอที", "WEALTH", "ต่างประเทศ", "สุขภาพ", "ดูดวง", "ท่องเที่ยว", "Eats", "ไลฟ์สไตล์", "ลอตเตอรี่"];
+  var CATS = ["TOP", "เรื่องเล่าจากพ่อเพจ", "ข่าว", "ข่าวชุมชน", "การเมือง", "บันเทิง", "กีฬา", "ไอที", "WEALTH", "ต่างประเทศ", "สุขภาพ", "ดูดวง", "ท่องเที่ยว", "Eats", "ไลฟ์สไตล์", "ลอตเตอรี่"];
   var items = [], cats = [], current = "TOP", query = "", timer = null, shown = 20;
   var $ = function (id) { return document.getElementById(id); };
 
@@ -272,6 +272,7 @@ body.noscroll{overflow:hidden}
     var meta = [it.place, src(it), ago(it.published)].filter(Boolean).map(esc).join(" • ");
     var ext = it.link && it.link.indexOf("/issues/") < 0 ? '<a class="ext" href="' + esc(it.link) + '" target="_blank" rel="noopener noreferrer">อ่านข่าวต้นฉบับ ›</a>' : "";
     var cut = pics.indexOf("<img", 1); var cover = cut > 0 ? pics.slice(0, cut) : pics, rest = cut > 0 ? pics.slice(cut) : "";
+    $("readerCat").textContent = it.category || "ข่าวชุมชน";
     $("readerBody").innerHTML = '<div class="pics">' + cover + "</div><h1>" + esc(it.title) + '</h1><div class="m">' + meta + '</div><div class="body">' + esc(it.content || it.summary) + '</div><div class="pics" style="margin-top:16px">' + rest + "</div>" + ext + (window.LPAds ? window.LPAds.slot("reader", 0) : "");
     if (window.LPAds) window.LPAds.activate();
     $("reader").classList.add("open"); $("reader").scrollTop = 0; document.body.classList.add("noscroll");
@@ -355,7 +356,8 @@ body.noscroll{overflow:hidden}
     html += ad("top", 0);
     var latest = inCat(current).filter(function (i) { return !heroLinks[i.link]; }).sort(byTime);
     html += '<section><div class="sec-h"><h3>' + (current === "TOP" ? "ข่าวใหม่ล่าสุด ⚡" : esc(current) + " ล่าสุด") + "</h3></div>";
-    html += latest.length ? latest.slice(0, current === "TOP" ? 8 : shown).map(function (i, k) { return row(i, current === "TOP") + ((k + 1) % 4 === 0 ? ad("feed", (k + 1) / 4 - 1) : ""); }).join("") : '<div class="empty">ยังไม่มีข่าวในหมวดนี้</div>';
+    if (!latest.length && current === "เรื่องเล่าจากพ่อเพจ") html += '<div class="empty">ยังไม่มีเรื่องเล่า<br>กดปุ่ม "+ เขียนเรื่องเล่า" มุมขวาบนเพื่อเขียนเรื่องแรก</div>';
+    else html += latest.length ? latest.slice(0, current === "TOP" ? 8 : shown).map(function (i, k) { return row(i, current === "TOP") + ((k + 1) % 4 === 0 ? ad("feed", (k + 1) / 4 - 1) : ""); }).join("") : '<div class="empty">ยังไม่มีข่าวในหมวดนี้</div>';
     if (current !== "TOP" && latest.length > shown) html += '<button class="loadmore" id="loadmore">ดูข่าวเพิ่มเติม</button>';
     html += "</section>";
     if (current === "TOP") {
@@ -386,6 +388,9 @@ body.noscroll{overflow:hidden}
     current = c; shown = 20; query = ""; $("q").value = "";
     store("lp_tab", c);
     $("allcats").classList.remove("open"); $("moreBtn").classList.remove("open"); $("moreBtn").setAttribute("aria-expanded", "false");
+    var wb = document.querySelector(".write"), story = c === "เรื่องเล่าจากพ่อเพจ";
+    wb.href = "https://github.com/suriyaolif10-coder/leaf-post/issues/new?template=" + (story ? "story.yml" : "community-news.yml");
+    wb.textContent = story ? "+ เขียนเรื่องเล่า" : "+ เพิ่มข่าว";
     renderTabs(); render(); window.scrollTo(0, 0);
   }
 
@@ -419,7 +424,7 @@ body.noscroll{overflow:hidden}
     .then(function (data) {
       items = (data.items || []).filter(function (i) { return i.title && i.link; });
       items.forEach(function (i, n) { if (!i.category) i.category = "ข่าว"; i._i = n; });
-      cats = CATS.filter(function (c) { return c === "TOP" || items.some(function (i) { return i.category === c; }); });
+      cats = CATS.filter(function (c) { return c === "TOP" || c === "เรื่องเล่าจากพ่อเพจ" || items.some(function (i) { return i.category === c; }); });
       var saved = store("lp_tab");
       if (saved && cats.indexOf(saved) >= 0) current = saved;
       var u = Date.parse(data.updated);

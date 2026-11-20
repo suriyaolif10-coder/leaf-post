@@ -17,7 +17,7 @@ concurrency:
 
 jobs:
   update:
-    if: github.event_name != 'issues' || startsWith(github.event.issue.title, '[ชุมชน]')
+    if: github.event_name != 'issues' || (startsWith(github.event.issue.title, '[ชุมชน]') || startsWith(github.event.issue.title, '[เรื่องเล่า]'))
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:

@@ -208,6 +208,11 @@ def fill_image(item):
 
 
 CACHE = {}
+
+
+def own_items():
+    """Community news ([ชุมชน]) and stories from the page owner ([เรื่องเล่า])."""
+    return community_items() + community_items("[เรื่องเล่า]", "เรื่องเล่าจากพ่อเพจ", "พ่อเพจ ลีฟโพสต์", uid_prefix="st")
 TRUSTED = {"OWNER", "MEMBER", "COLLABORATOR"}
 
 
@@ -217,7 +222,7 @@ def form_field(body, label):
     return "" if v == "_No response_" else v
 
 
-def community_items(prefix="[ชุมชน]", category="ข่าวชุมชน", publisher="ลีฟโพสต์ • ข่าวชุมชน"):
+def community_items(prefix="[ชุมชน]", category="ข่าวชุมชน", publisher="ลีฟโพสต์ • ข่าวชุมชน", uid_prefix="c"):
     """Community news the site owner posts as GitHub issues titled "[ชุมชน] ..."."""
     repo, token = os.environ.get("GITHUB_REPOSITORY"), os.environ.get("GITHUB_TOKEN")
     if not repo:
@@ -244,7 +249,7 @@ def community_items(prefix="[ชุมชน]", category="ข่าวชุม�
         body = iss.get("body") or ""
         title = title[len(prefix):].strip()
         if not title:  # no headline typed: use the first line of the story
-            first = re.sub(r"!\[[^\]]*\]\([^)]*\)|<img[^>]*>", "", form_field(body, "รายละเอียดข่าว")).strip().splitlines()
+            first = re.sub(r"!\[[^\]]*\]\([^)]*\)|<img[^>]*>", "", (form_field(body, "รายละเอียดข่าว") or form_field(body, "เนื้อเรื่อง"))).strip().splitlines()
             title = strip_html(first[0])[:120] if first else ""
         if not title:
             continue
@@ -254,12 +259,12 @@ def community_items(prefix="[ชุมชน]", category="ข่าวชุม�
         if not imgs:
             m = re.search(r"https?://\S+", img_field)
             imgs = [m.group(0)] if m else []
-        detail = form_field(body, "รายละเอียดข่าว") or body
+        detail = (form_field(body, "รายละเอียดข่าว") or form_field(body, "เนื้อเรื่อง")) or body
         detail = re.sub(r"!\[[^\]]*\]\([^)]*\)|<img[^>]*>", "", detail).strip()
         place = form_field(body, "พื้นที่ / ชุมชน")
         link = form_field(body, "ลิงก์ข่าวต้นฉบับ")
         out.append({"feedId": "community-own", "category": category, "source": "ลีฟโพสต์",
-                    "publisher": publisher, "own": True, "uid": f"c{iss['number']}", "title": title,
+                    "publisher": publisher, "own": True, "uid": f"{uid_prefix}{iss['number']}", "title": title,
                     "link": link if link.startswith("http") else iss["html_url"],
                     "summary": (place + " • " if place else "") + strip_html(detail)[:200],
                     "content": detail[:8000], "place": place, "images": imgs[:10],
@@ -270,7 +275,7 @@ def community_items(prefix="[ชุมชน]", category="ข่าวชุม�
 
 def main(feeds=None, out="news.json", own=None):
     feeds = feeds or FEEDS
-    own = own if own is not None else community_items
+    own = own if own is not None else own_items
     try:
         with open(out, encoding="utf-8") as f:
             for it in json.load(f).get("items", []):

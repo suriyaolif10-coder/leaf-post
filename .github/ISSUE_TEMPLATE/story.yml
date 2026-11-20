@@ -1,0 +1,27 @@
+name: เขียนเรื่องเล่าจากพ่อเพจ
+description: เรื่องนี้จะขึ้นในแท็บ "เรื่องเล่าจากพ่อเพจ" บนเว็บลีฟโพสต์ และโพสต์ลงเพจ Facebook (ปิด issue เพื่อลบ)
+title: "[เรื่องเล่า] "
+body:
+  - type: markdown
+    attributes:
+      value: "พิมพ์หัวข้อข่าวในช่อง Title ด้านบน ต่อจากคำว่า [เรื่องเล่า]"
+  - type: textarea
+    id: image
+    attributes:
+      label: รูปภาพ
+      description: แตะปุ่ม 📎 ใต้กล่องเพื่อแนบรูป (รูปแรกจะเป็นรูปปก)
+  - type: textarea
+    id: detail
+    attributes:
+      label: เนื้อเรื่อง
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: ลิงก์ที่เกี่ยวข้อง (ถ้ามี)
+  - type: input
+    id: place
+    attributes:
+      label: พื้นที่ / ชุมชน (ถ้ามี)
+      placeholder: เช่น ต.โนนสัง อ.โนนสัง จ.หนองบัวลำภู

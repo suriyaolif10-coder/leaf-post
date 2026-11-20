@@ -104,7 +104,8 @@ def main():
         summary = (it.get("content") or it.get("summary") or "").strip()
         if len(summary) > 400:
             summary = summary[:400].rstrip() + "…"
-        msg = f"📢 {it['title']}\n\n{summary}\n\n{tag('ลีฟโพสต์')} {tag('ข่าวชุมชน')}"
+        story = it.get("category") == "เรื่องเล่าจากพ่อเพจ"
+        msg = f"{'📖' if story else '📢'} {it['title']}\n\n{summary}\n\n{tag('ลีฟโพสต์')} {tag(it.get('category') or 'ข่าวชุมชน')}"
         if it.get("place"):
             msg += " " + tag(it["place"].split()[0])
         print("own:", it["title"][:60])
