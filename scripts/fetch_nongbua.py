@@ -19,7 +19,7 @@ def search(q, days=7):
     return f"https://news.google.com/rss/search?q={requests.utils.quote(q + f' when:{days}d')}&{G}"
 
 
-def feed(fid, cat, q, limit=8, days=7):
+def feed(fid, cat, q, limit=10, days=30):
     return {"id": fid, "name": "Google News", "category": cat, "url": [search(q, days)], "limit": limit}
 
 
@@ -31,9 +31,9 @@ FEEDS = [
     feed("nb-sribunruang", "ศรีบุญเรือง", "ศรีบุญเรือง"),
     feed("nb-suwannakhuha", "สุวรรณคูหา", "สุวรรณคูหา"),
     feed("nb-nawang", "นาวัง", "นาวัง หนองบัวลำภู"),
-    feed("nb-travel", "ท่องเที่ยว", "เที่ยว หนองบัวลำภู", days=30),
-    feed("nb-farm", "เกษตร", "เกษตร หนองบัวลำภู", days=14),
-    feed("nb-all", "ข่าวหนองบัว", "หนองบัวลำภู", limit=25, days=3),
+    feed("nb-travel", "ท่องเที่ยว", "เที่ยว หนองบัวลำภู"),
+    feed("nb-farm", "เกษตร", "เกษตร หนองบัวลำภู"),
+    feed("nb-all", "ข่าวหนองบัว", "หนองบัวลำภู", limit=30, days=7),
     feed("nb-isan", "อีสาน", "ข่าวอีสาน", limit=10, days=2),
 ]
 
