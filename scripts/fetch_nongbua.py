@@ -34,10 +34,19 @@ FEEDS = [
     feed("nb-travel", "ท่องเที่ยว", "เที่ยว หนองบัวลำภู"),
     feed("nb-farm", "เกษตร", "เกษตร หนองบัวลำภู"),
     feed("nb-all", "ข่าวหนองบัว", "หนองบัวลำภู", limit=30, days=7),
-    feed("nb-isan", "อีสาน", "ข่าวอีสาน", limit=10, days=2),
 ]
 
 NB_WORDS = ("หนองบัวลำภู", "หนองบัว", "นากลาง", "โนนสัง", "ศรีบุญเรือง", "สุวรรณคูหา", "นาวัง")
+PROVINCE = ("หนองบัวลำภู", "หนองบัว ลำภู", "จ.หนองบัวฯ", "Nong Bua Lamphu", "Nongbualamphu")
+UNIQUE_DISTRICTS = ("โนนสัง", "ศรีบุญเรือง", "สุวรรณคูหา")
+SHARED_NAMES = ("นากลาง", "นาวัง", "เมืองหนองบัว")  # also exist elsewhere: need "หนองบัว" too
+
+
+def in_nong_bua(text):
+    """True when a story is about Nong Bua Lamphu province."""
+    if any(w in text for w in PROVINCE + UNIQUE_DISTRICTS):
+        return True
+    return "หนองบัว" in text and any(w in text for w in SHARED_NAMES)
 
 
 def own():
@@ -50,4 +59,24 @@ def own():
 if __name__ == "__main__":
     os.makedirs("nongbua", exist_ok=True)
     fn.CACHE.clear()
+    try:  # stories cached before "hint" existed are looked up again once
+        import json as _j
+        with open("nongbua/news.json", encoding="utf-8") as f:
+            old = _j.load(f)
+        old["items"] = [i for i in old.get("items", []) if "hint" in i or i.get("own")]
+        with open("nongbua/news.json", "w", encoding="utf-8") as f:
+            _j.dump(old, f, ensure_ascii=False)
+    except FileNotFoundError:
+        pass
     fn.main(FEEDS, "nongbua/news.json", own)
+    # keep everything (so the next run can reuse decoded links) but mark
+    # which stories are really about Nong Bua Lamphu; the site shows only those
+    import json
+    with open("nongbua/news.json", encoding="utf-8") as f:
+        data = json.load(f)
+    for it in data["items"]:
+        text = " ".join([it.get("title", ""), it.get("summary", ""), it.get("content", ""), it.get("hint", "")])
+        it["nb"] = bool(it.get("own")) or in_nong_bua(text)
+    print("in Nong Bua Lamphu:", sum(i["nb"] for i in data["items"]), "of", len(data["items"]))
+    with open("nongbua/news.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=1)

@@ -159,7 +159,7 @@ body.noscroll{overflow:hidden}
 <script>
 (function () {
   "use strict";
-  var CATS = ["TOP", "ข่าวชุมชน", "ข่าวหนองบัว", "อ.เมือง", "นากลาง", "โนนสัง", "ศรีบุญเรือง", "สุวรรณคูหา", "นาวัง", "ท่องเที่ยว", "เกษตร", "อีสาน"];
+  var CATS = ["TOP", "ข่าวชุมชน", "ข่าวหนองบัว", "อ.เมือง", "นากลาง", "โนนสัง", "ศรีบุญเรือง", "สุวรรณคูหา", "นาวัง", "ท่องเที่ยว", "เกษตร"];
   var items = [], cats = [], current = "TOP", query = "", timer = null, shown = 20;
   var $ = function (id) { return document.getElementById(id); };
 
@@ -330,7 +330,7 @@ body.noscroll{overflow:hidden}
   (window.LPAds ? window.LPAds.load("ads.json") : Promise.resolve()).then(function () { return fetch("news.json?t=" + Math.floor(Date.now() / 60000)); })
     .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function (data) {
-      items = (data.items || []).filter(function (i) { return i.title && i.link; });
+      items = (data.items || []).filter(function (i) { return i.title && i.link && i.nb !== false; });
       items.forEach(function (i, n) { if (!i.category) i.category = "ข่าว"; i._i = n; });
       cats = CATS.filter(function (c) { return c === "TOP" || items.some(function (i) { return i.category === c; }); });
       var saved = store("nb_tab");

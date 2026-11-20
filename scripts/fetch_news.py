@@ -86,6 +86,7 @@ def og_image(url):
         page = r.text[:400000]
     except Exception:
         return "", url
+    HINTS[url] = page_hint(page)
     for pat in (r'<meta[^>]+property=["\']og:image(?::secure_url)?["\'][^>]+content=["\']([^"\']+)',
                 r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image',
                 r'<meta[^>]+name=["\']twitter:image(?::src)?["\'][^>]+content=["\']([^"\']+)',
@@ -94,6 +95,21 @@ def og_image(url):
         if m:
             return fix_url(m.group(1)), r.url
     return "", r.url
+
+
+HINTS = {}
+
+
+def page_hint(page):
+    """Short text about the article (title + description) from its HTML head."""
+    bits = []
+    for pat in (r'<meta[^>]+property=["\']og:title["\'][^>]+content=["\']([^"\']*)',
+                r'<meta[^>]+(?:property|name)=["\'](?:og:)?description["\'][^>]+content=["\']([^"\']*)',
+                r'<title[^>]*>([^<]*)'):
+        m = re.search(pat, page, re.I)
+        if m:
+            bits.append(m.group(1))
+    return strip_html(" ".join(bits))[:400]
 
 
 def resolve_google(url):
@@ -175,12 +191,15 @@ def fill_image(item):
     old = CACHE.get(item["glink"]) if item["glink"] else None
     if old:
         item["link"], item["imageUrl"] = old.get("link", item["link"]), old.get("imageUrl", "")
+        item["hint"] = old.get("hint", "")
         return item
     if item["glink"]:
         item["link"] = resolve_google(item["link"])
     if not item["imageUrl"] and item["link"]:
-        img, final = og_image(item["link"])
+        page_url = item["link"]
+        img, final = og_image(page_url)
         item["imageUrl"] = img
+        item["hint"] = HINTS.get(page_url, "")
         if "news.google.com" in item["link"] and "news.google.com" not in final:
             item["link"] = final
     return item
