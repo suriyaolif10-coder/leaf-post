@@ -196,7 +196,7 @@ def form_field(body, label):
     return "" if v == "_No response_" else v
 
 
-def community_items():
+def community_items(prefix="[ชุมชน]", category="ข่าวชุมชน", publisher="ลีฟโพสต์ • ข่าวชุมชน"):
     """Community news the site owner posts as GitHub issues titled "[ชุมชน] ..."."""
     repo, token = os.environ.get("GITHUB_REPOSITORY"), os.environ.get("GITHUB_TOKEN")
     if not repo:
@@ -215,13 +215,13 @@ def community_items():
         return []
     for iss in issues:
         title = (iss.get("title") or "").strip()
-        if "pull_request" in iss or not title.startswith("[ชุมชน]"):
+        if "pull_request" in iss or not title.startswith(prefix):
             continue
         if iss.get("author_association") not in TRUSTED:
             print("  skip issue from", iss.get("user", {}).get("login"))
             continue
         body = iss.get("body") or ""
-        title = title[len("[ชุมชน]"):].strip()
+        title = title[len(prefix):].strip()
         if not title:  # no headline typed: use the first line of the story
             first = re.sub(r"!\[[^\]]*\]\([^)]*\)|<img[^>]*>", "", form_field(body, "รายละเอียดข่าว")).strip().splitlines()
             title = strip_html(first[0])[:120] if first else ""
@@ -237,8 +237,8 @@ def community_items():
         detail = re.sub(r"!\[[^\]]*\]\([^)]*\)|<img[^>]*>", "", detail).strip()
         place = form_field(body, "พื้นที่ / ชุมชน")
         link = form_field(body, "ลิงก์ข่าวต้นฉบับ")
-        out.append({"feedId": "community-own", "category": "ข่าวชุมชน", "source": "ลีฟโพสต์",
-                    "publisher": "ลีฟโพสต์ • ข่าวชุมชน", "own": True, "uid": f"c{iss['number']}", "title": title,
+        out.append({"feedId": "community-own", "category": category, "source": "ลีฟโพสต์",
+                    "publisher": publisher, "own": True, "uid": f"c{iss['number']}", "title": title,
                     "link": link if link.startswith("http") else iss["html_url"],
                     "summary": (place + " • " if place else "") + strip_html(detail)[:200],
                     "content": detail[:8000], "place": place, "images": imgs[:10],
@@ -247,16 +247,18 @@ def community_items():
     return out
 
 
-def main():
+def main(feeds=None, out="news.json", own=None):
+    feeds = feeds or FEEDS
+    own = own if own is not None else community_items
     try:
-        with open("news.json", encoding="utf-8") as f:
+        with open(out, encoding="utf-8") as f:
             for it in json.load(f).get("items", []):
                 if it.get("glink") and "news.google.com" not in it.get("link", ""):
                     CACHE[it["glink"]] = it
     except Exception:
         pass
     items, seen = [], set()
-    for feed in FEEDS:
+    for feed in feeds:
         try:
             got = parse_feed(feed)
             print(f"{feed['category']} / {feed['name']}: {len(got)} items")
@@ -275,13 +277,13 @@ def main():
         fill_image(it)
     with ThreadPoolExecutor(8) as ex:
         others = list(ex.map(fill_image, others))
-    items = community_items() + google + others
+    items = own() + google + others
     with_img = sum(1 for i in items if i["imageUrl"])
     print(f"total {len(items)} items, {with_img} with images, {len(CACHE)} cached")
     if not items:
         sys.exit("no items fetched; keeping old news.json")
     data = {"updated": datetime.now(timezone.utc).isoformat(), "items": items}
-    with open("news.json", "w", encoding="utf-8") as f:
+    with open(out, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
 
 

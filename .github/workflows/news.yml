@@ -17,9 +17,9 @@ concurrency:
 
 jobs:
   update:
-    if: github.event_name != 'issues' || startsWith(github.event.issue.title, '[ชุมชน]')
+    if: github.event_name != 'issues' || (startsWith(github.event.issue.title, '[ชุมชน]') || startsWith(github.event.issue.title, '[หนองบัว]'))
     runs-on: ubuntu-latest
-    timeout-minutes: 14
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
         with:
@@ -31,12 +31,16 @@ jobs:
       - run: python scripts/fetch_news.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: python scripts/fetch_nongbua.py
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: python scripts/build_pages.py
       - name: Commit news
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A news.json n s index.html
+          git add -A news.json n s index.html nongbua
           git diff --cached --quiet && exit 0
           git commit -m "Update news.json"
           git pull --rebase -X theirs origin main

@@ -72,6 +72,12 @@ def page_url(uid):
 def main():
     with open("news.json", encoding="utf-8") as f:
         items = json.load(f).get("items", [])
+    try:  # หนองบัว INSIDER community stories get pages too
+        with open("nongbua/news.json", encoding="utf-8") as f:
+            have = {i.get("uid") for i in items if i.get("own")}
+            items += [i for i in json.load(f).get("items", []) if i.get("own") and i.get("uid") not in have]
+    except FileNotFoundError:
+        pass
     os.makedirs("n", exist_ok=True)
     keep = set()
     for it in items:
